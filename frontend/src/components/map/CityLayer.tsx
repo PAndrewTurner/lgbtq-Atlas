@@ -1,6 +1,5 @@
 import { Source, Layer } from 'react-map-gl/maplibre'
 import type { ExpressionSpecification } from 'maplibre-gl'
-import { scoreToColor } from '../../utils/colorScales'
 
 const CITIES_URL = '/exports/cities.geojson'
 

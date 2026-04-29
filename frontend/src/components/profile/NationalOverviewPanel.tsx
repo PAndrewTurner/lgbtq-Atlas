@@ -4,7 +4,7 @@
  */
 import { useMemo } from 'react'
 import { useAtlasStore } from '../../store/atlasStore'
-import { scoreToColor, scoreToLabel, DIMENSION_META } from '../../utils/colorScales'
+import { scoreToColor, DIMENSION_META } from '../../utils/colorScales'
 import type { Dimension, StateSummary } from '../../types/profile'
 
 // ── helpers ──────────────────────────────────────────────────────────────────

@@ -28,7 +28,7 @@ export function TrendSparkline({ data, color = '#3B82F6', height = 48 }: TrendSp
             borderRadius: 6,
             fontSize: 11,
           }}
-          formatter={(v: number) => [v.toFixed(1), 'Score']}
+          formatter={(v: number | string | Array<number | string>) => [typeof v === 'number' ? v.toFixed(1) : v, 'Score']}
           labelFormatter={(l) => `Year: ${l}`}
         />
       </LineChart>

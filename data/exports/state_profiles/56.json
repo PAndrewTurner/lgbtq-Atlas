@@ -1,0 +1,212 @@
+{
+  "fips": "56",
+  "name": "Wyoming",
+  "abbr": "WY",
+  "year": 2024,
+  "scores": {
+    "legal": 25.0,
+    "safety": 38.7,
+    "health": 21.7,
+    "economic": 48.0,
+    "community": 45.1,
+    "youth": 32.2,
+    "overall": 33.3,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 56,
+    "state_name": "Wyoming",
+    "state_abbr": "WY",
+    "year": 2024,
+    "lgbtq_pop": 26300,
+    "lgbtq_pct": 5.9,
+    "same_sex_hh": 1513,
+    "trans_pop": 1710,
+    "trans_pct": 0.384
+  },
+  "legal_detail": {
+    "state_fips": 56,
+    "year": 2024,
+    "map_total_score": 45,
+    "overall_climate": "Stagnating",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": false,
+    "preemption_law": false,
+    "bills_passed_against": 20
+  },
+  "safety_detail": {
+    "state_fips": 56,
+    "year": 2024,
+    "so_incidents": 6,
+    "gi_incidents": 1,
+    "so_per_100k": 22.813688212927758,
+    "gi_per_100k": 3.802281368821293,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 56,
+    "year": 2024,
+    "depression_pct": 56.0,
+    "healthcare_avoidance_pct": 51.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 16.0
+  },
+  "economic_detail": {
+    "state_fips": 56,
+    "year": 2024,
+    "lgbtq_poverty_pct": 17.5,
+    "income_gap_pct": -15.0,
+    "housing_instability_pct": 14.0
+  },
+  "community_detail": {
+    "state_fips": 56,
+    "year": 2024,
+    "lgbtq_orgs_count": 11,
+    "lgbtq_orgs_per_100k": 41.825095057034225,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 56,
+    "year": 2024,
+    "suicidality_pct": 56.0,
+    "school_safety_score": 32.0,
+    "gsa_presence_pct": 32.0,
+    "conversion_therapy_exposure_pct": 7.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 33.3
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "WY-laramie-wy",
+      "city_name": "Laramie",
+      "state_fips": 56,
+      "year": 2025,
+      "mei_score": 94,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "WY-casper-wy",
+      "city_name": "Casper",
+      "state_fips": 56,
+      "year": 2025,
+      "mei_score": 92,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "WY-jackson-wy",
+      "city_name": "Jackson",
+      "state_fips": 56,
+      "year": 2025,
+      "mei_score": 66,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "WY-cheyenne-wy",
+      "city_name": "Cheyenne",
+      "state_fips": 56,
+      "year": 2025,
+      "mei_score": 32,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "WY-sheridan-wy",
+      "city_name": "Sheridan",
+      "state_fips": 56,
+      "year": 2025,
+      "mei_score": 32,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Laramie Soup Kitchen",
+      "org_addr_city": "LARAMIE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1840047
+    },
+    {
+      "org_name_display": "Casper Pride",
+      "org_addr_city": "CASPER",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 227305
+    },
+    {
+      "org_name_display": "Community Pride Foundation",
+      "org_addr_city": "TORRINGTON",
+      "ntee_code_definition": "Pollution Abatement and Control Services",
+      "revenue_amount": 44242
+    },
+    {
+      "org_name_display": "Jackson Hole Pride",
+      "org_addr_city": "JACKSON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Wyoming Coalition For The Homeless",
+      "org_addr_city": "CHEYENNE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Follow The Unicorn Productions",
+      "org_addr_city": "SHERIDAN",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Cody Pride Softball Association",
+      "org_addr_city": "CODY",
+      "ntee_code_definition": "Baseball, Softball",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Wyoming Homeless Collaborative",
+      "org_addr_city": "LARAMIE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "North American Association Of Trans Safety & Health Officers",
+      "org_addr_city": "CHEYENNE",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "N C H S Tiger Pride Boosters",
+      "org_addr_city": "LUSK",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pride Cheyenne",
+      "org_addr_city": "CHEYENNE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "fips": "23",
+  "name": "Maine",
+  "abbr": "ME",
+  "year": 2024,
+  "scores": {
+    "legal": 76.5,
+    "safety": 50.7,
+    "health": 40.0,
+    "economic": 57.3,
+    "community": 5.1,
+    "youth": 34.2,
+    "overall": 49.0,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 23,
+    "state_name": "Maine",
+    "state_abbr": "ME",
+    "year": 2024,
+    "lgbtq_pop": 73700,
+    "lgbtq_pct": 6.8,
+    "same_sex_hh": 7598,
+    "trans_pop": 4790,
+    "trans_pct": 0.442
+  },
+  "legal_detail": {
+    "state_fips": 23,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 9
+  },
+  "safety_detail": {
+    "state_fips": 23,
+    "year": 2024,
+    "so_incidents": 12,
+    "gi_incidents": 2,
+    "so_per_100k": 16.28222523744912,
+    "gi_per_100k": 2.7137042062415198,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 23,
+    "year": 2024,
+    "depression_pct": 38.0,
+    "healthcare_avoidance_pct": 45.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 41.0
+  },
+  "economic_detail": {
+    "state_fips": 23,
+    "year": 2024,
+    "lgbtq_poverty_pct": 15.0,
+    "income_gap_pct": -10.0,
+    "housing_instability_pct": 12.0
+  },
+  "community_detail": {
+    "state_fips": 23,
+    "year": 2024,
+    "lgbtq_orgs_count": 14,
+    "lgbtq_orgs_per_100k": 18.99592944369064,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 23,
+    "year": 2024,
+    "suicidality_pct": 38.0,
+    "school_safety_score": 36.0,
+    "gsa_presence_pct": 36.0,
+    "conversion_therapy_exposure_pct": 8.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 49.0
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "ME-portland-me",
+      "city_name": "Portland",
+      "state_fips": 23,
+      "year": 2025,
+      "mei_score": 79,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "ME-bangor-me",
+      "city_name": "Bangor",
+      "state_fips": 23,
+      "year": 2025,
+      "mei_score": 78,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "ME-brunswick-me",
+      "city_name": "Brunswick",
+      "state_fips": 23,
+      "year": 2025,
+      "mei_score": 73,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "ME-south-portland-me",
+      "city_name": "South Portland",
+      "state_fips": 23,
+      "year": 2025,
+      "mei_score": 73,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "ME-lewiston-me",
+      "city_name": "Lewiston",
+      "state_fips": 23,
+      "year": 2025,
+      "mei_score": 69,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Greater Portland Family Promise",
+      "org_addr_city": "PORTLAND",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 505170
+    },
+    {
+      "org_name_display": "Equality Maine",
+      "org_addr_city": "PORTLAND",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 120560
+    },
+    {
+      "org_name_display": "Pride Portland",
+      "org_addr_city": "PORTLAND",
+      "ntee_code_definition": "Cultural, Ethnic Awareness",
+      "revenue_amount": 106753
+    },
+    {
+      "org_name_display": "Trans Youth Equality Foundation",
+      "org_addr_city": "BANGOR",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 92486
+    },
+    {
+      "org_name_display": "Gorham Pride",
+      "org_addr_city": "GORHAM",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Queer Theatre Company",
+      "org_addr_city": "BIDDEFORD",
+      "ntee_code_definition": "Performing Arts Organizations",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Ez Donations",
+      "org_addr_city": "S PORTLAND",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "My Fathers Hands",
+      "org_addr_city": "STEEP FALLS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Lions Pride",
+      "org_addr_city": "BOOTHBAY HBR",
+      "ntee_code_definition": "Community Service Clubs",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pride Aroostook",
+      "org_addr_city": "PRESQUE ISLE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Windham And Raymond Pride",
+      "org_addr_city": "WINDHAM",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "With Open Arms",
+      "org_addr_city": "GREENBUSH",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Maine Gay Mens Chorus",
+      "org_addr_city": "PORTLAND",
+      "ntee_code_definition": "Singing, Choral",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Drop-In Center",
+      "org_addr_city": "AUBURN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

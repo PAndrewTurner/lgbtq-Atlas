@@ -1,0 +1,266 @@
+{
+  "fips": "48",
+  "name": "Texas",
+  "abbr": "TX",
+  "year": 2024,
+  "scores": {
+    "legal": 25.0,
+    "safety": 68.8,
+    "health": 26.3,
+    "economic": 39.6,
+    "community": 71.0,
+    "youth": 35.8,
+    "overall": 43.4,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 48,
+    "state_name": "Texas",
+    "state_abbr": "TX",
+    "year": 2024,
+    "lgbtq_pop": 1071300,
+    "lgbtq_pct": 5.1,
+    "same_sex_hh": 102906,
+    "trans_pop": 69634,
+    "trans_pct": 0.331
+  },
+  "legal_detail": {
+    "state_fips": 48,
+    "year": 2024,
+    "map_total_score": 45,
+    "overall_climate": "Stagnating",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 139
+  },
+  "safety_detail": {
+    "state_fips": 48,
+    "year": 2024,
+    "so_incidents": 91,
+    "gi_incidents": 21,
+    "so_per_100k": 8.49435265565201,
+    "gi_per_100k": 1.9602352282273872,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 48,
+    "year": 2024,
+    "depression_pct": 42.0,
+    "healthcare_avoidance_pct": 60.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 23.0
+  },
+  "economic_detail": {
+    "state_fips": 48,
+    "year": 2024,
+    "lgbtq_poverty_pct": 20.3,
+    "income_gap_pct": -18.0,
+    "housing_instability_pct": 16.0
+  },
+  "community_detail": {
+    "state_fips": 48,
+    "year": 2024,
+    "lgbtq_orgs_count": 376,
+    "lgbtq_orgs_per_100k": 35.09754503873798,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 48,
+    "year": 2024,
+    "suicidality_pct": 42.0,
+    "school_safety_score": 34.0,
+    "gsa_presence_pct": 34.0,
+    "conversion_therapy_exposure_pct": 5.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 43.4
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "TX-arlington-tx",
+      "city_name": "Arlington",
+      "state_fips": 48,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "TX-austin-tx",
+      "city_name": "Austin",
+      "state_fips": 48,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "TX-san-antonio-tx",
+      "city_name": "San Antonio",
+      "state_fips": 48,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "TX-dallas-tx",
+      "city_name": "Dallas",
+      "state_fips": 48,
+      "year": 2025,
+      "mei_score": 93,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "TX-fort-worth-tx",
+      "city_name": "Fort Worth",
+      "state_fips": 48,
+      "year": 2025,
+      "mei_score": 90,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Other Ones Foundation",
+      "org_addr_city": "AUSTIN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 14491869
+    },
+    {
+      "org_name_display": "Ending Community Homelessness Coalition",
+      "org_addr_city": "AUSTIN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 5574546
+    },
+    {
+      "org_name_display": "Texas Freedom Network Education Fund",
+      "org_addr_city": "AUSTIN",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 4802674
+    },
+    {
+      "org_name_display": "Trans Texas Southwest Credit Union",
+      "org_addr_city": "SAN ANGELO",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 3243985
+    },
+    {
+      "org_name_display": "Voice Of My People Foundation",
+      "org_addr_city": "AUSTIN",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 3066264
+    },
+    {
+      "org_name_display": "South Alamo Regional Alliance For The Homeless",
+      "org_addr_city": "SAN ANTONIO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2342545
+    },
+    {
+      "org_name_display": "Bishop Enrique San Pedro Ozanam Center",
+      "org_addr_city": "BROWNSVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2005180
+    },
+    {
+      "org_name_display": "In My Shoes",
+      "org_addr_city": "DALLAS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1415356
+    },
+    {
+      "org_name_display": "Horizon Outreach",
+      "org_addr_city": "HUMBLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1313952
+    },
+    {
+      "org_name_display": "Normal Anomaly Initiative",
+      "org_addr_city": "HOUSTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 1263077
+    },
+    {
+      "org_name_display": "Texas Pride Impact Funds",
+      "org_addr_city": "DALLAS",
+      "ntee_code_definition": "Fund Raising and Fund Distribution",
+      "revenue_amount": 992248
+    },
+    {
+      "org_name_display": "Raiseup Families",
+      "org_addr_city": "HOUSTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 973694
+    },
+    {
+      "org_name_display": "Religious Coalition To Assist The Homeless",
+      "org_addr_city": "AUSTIN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 959070
+    },
+    {
+      "org_name_display": "Greater Houston Lesbian Gay Bisexual Transgender Chamber Of",
+      "org_addr_city": "HOUSTON",
+      "ntee_code_definition": "Chambers of Commerce & Business Leagues",
+      "revenue_amount": 953345
+    },
+    {
+      "org_name_display": "The Parc",
+      "org_addr_city": "AMARILLO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 777953
+    },
+    {
+      "org_name_display": "Citysquare Paris",
+      "org_addr_city": "PARIS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 722856
+    },
+    {
+      "org_name_display": "Youth With A Mission-Houston",
+      "org_addr_city": "HOUSTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 680978
+    },
+    {
+      "org_name_display": "Texas Latino Pride",
+      "org_addr_city": "DALLAS",
+      "ntee_code_definition": "Cultural, Ethnic Awareness",
+      "revenue_amount": 678707
+    },
+    {
+      "org_name_display": "Pride Houston",
+      "org_addr_city": "HOUSTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 652114
+    },
+    {
+      "org_name_display": "Lighthouse For The Homeless",
+      "org_addr_city": "FORT WORTH",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 632790
+    }
+  ]
+}

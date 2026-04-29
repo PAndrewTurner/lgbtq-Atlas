@@ -1,0 +1,266 @@
+{
+  "fips": "36",
+  "name": "New York",
+  "abbr": "NY",
+  "year": 2024,
+  "scores": {
+    "legal": 79.5,
+    "safety": 57.1,
+    "health": 36.7,
+    "economic": 52.0,
+    "community": 67.1,
+    "youth": 43.6,
+    "overall": 60.4,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 36,
+    "state_name": "New York",
+    "state_abbr": "NY",
+    "year": 2024,
+    "lgbtq_pop": 853600,
+    "lgbtq_pct": 5.5,
+    "same_sex_hh": 87939,
+    "trans_pop": 55484,
+    "trans_pct": 0.358
+  },
+  "legal_detail": {
+    "state_fips": 36,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 7
+  },
+  "safety_detail": {
+    "state_fips": 36,
+    "year": 2024,
+    "so_incidents": 115,
+    "gi_incidents": 19,
+    "so_per_100k": 13.472352389878163,
+    "gi_per_100k": 2.225866916588566,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 36,
+    "year": 2024,
+    "depression_pct": 39.0,
+    "healthcare_avoidance_pct": 44.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 32.0
+  },
+  "economic_detail": {
+    "state_fips": 36,
+    "year": 2024,
+    "lgbtq_poverty_pct": 16.5,
+    "income_gap_pct": -11.0,
+    "housing_instability_pct": 14.0
+  },
+  "community_detail": {
+    "state_fips": 36,
+    "year": 2024,
+    "lgbtq_orgs_count": 293,
+    "lgbtq_orgs_per_100k": 34.32521087160263,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 36,
+    "year": 2024,
+    "suicidality_pct": 39.0,
+    "school_safety_score": 46.0,
+    "gsa_presence_pct": 46.0,
+    "conversion_therapy_exposure_pct": 4.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 60.4
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "NY-albany-ny",
+      "city_name": "Albany",
+      "state_fips": 36,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NY-buffalo-ny",
+      "city_name": "Buffalo",
+      "state_fips": 36,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NY-ithaca-ny",
+      "city_name": "Ithaca",
+      "state_fips": 36,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NY-new-york-ny",
+      "city_name": "New York",
+      "state_fips": 36,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NY-rochester-ny",
+      "city_name": "Rochester",
+      "state_fips": 36,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Bronx Family Network",
+      "org_addr_city": "YONKERS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 46468122
+    },
+    {
+      "org_name_display": "Gay Mens Health Crisis",
+      "org_addr_city": "NEW YORK",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 38735312
+    },
+    {
+      "org_name_display": "Services & Advocacy For Gay Lesbian Bisexual & Transgender Elders",
+      "org_addr_city": "NEW YORK",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 17964703
+    },
+    {
+      "org_name_display": "Lesbian And Gay Community Services Center",
+      "org_addr_city": "NEW YORK",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 16134512
+    },
+    {
+      "org_name_display": "H E L P Development",
+      "org_addr_city": "NEW YORK",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 9812673
+    },
+    {
+      "org_name_display": "Broadway Housing Communities",
+      "org_addr_city": "NEW YORK",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 9789750
+    },
+    {
+      "org_name_display": "Advocates For Trans Equality Education Fund",
+      "org_addr_city": "NEW YORK",
+      "ntee_code_definition": "Civil Rights",
+      "revenue_amount": 8176189
+    },
+    {
+      "org_name_display": "Destination Tomorrow",
+      "org_addr_city": "BRONX",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 7683579
+    },
+    {
+      "org_name_display": "Polish Community Center Of Buffalo",
+      "org_addr_city": "BUFFALO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 6789414
+    },
+    {
+      "org_name_display": "Bethesda House Of Schenectady",
+      "org_addr_city": "SCHENECTADY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 6475163
+    },
+    {
+      "org_name_display": "Pride Live",
+      "org_addr_city": "LONG IS CITY",
+      "ntee_code_definition": "Unknown",
+      "revenue_amount": 6302820
+    },
+    {
+      "org_name_display": "Heritage Of Pride",
+      "org_addr_city": "NEW YORK",
+      "ntee_code_definition": "Intergroup, Race Relations",
+      "revenue_amount": 4760070
+    },
+    {
+      "org_name_display": "Translash Media",
+      "org_addr_city": "NEW YORK",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 4264652
+    },
+    {
+      "org_name_display": "Homeless And Travelers Aid Society",
+      "org_addr_city": "ALBANY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 4033984
+    },
+    {
+      "org_name_display": "Funders For Lesbian And Gay Issues",
+      "org_addr_city": "NEW YORK",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 3916499
+    },
+    {
+      "org_name_display": "New York City Gay And Lesbian Anti-Violence Project",
+      "org_addr_city": "NEW YORK",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 3898462
+    },
+    {
+      "org_name_display": "Immigration Equality",
+      "org_addr_city": "BROOKLYN",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 3590889
+    },
+    {
+      "org_name_display": "Global Action For Trans Equality",
+      "org_addr_city": "NEW YORK",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 3502368
+    },
+    {
+      "org_name_display": "True Colors United",
+      "org_addr_city": "NEW YORK",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 3434660
+    },
+    {
+      "org_name_display": "Pride In Athletics For Life",
+      "org_addr_city": "HAUPPAUGE",
+      "ntee_code_definition": "Amateur Sports",
+      "revenue_amount": 3255704
+    }
+  ]
+}

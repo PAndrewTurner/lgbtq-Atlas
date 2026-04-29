@@ -1,0 +1,266 @@
+{
+  "fips": "32",
+  "name": "Nevada",
+  "abbr": "NV",
+  "year": 2024,
+  "scores": {
+    "legal": 85.5,
+    "safety": 66.7,
+    "health": 24.3,
+    "economic": 47.3,
+    "community": 38.0,
+    "youth": 34.0,
+    "overall": 56.5,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 32,
+    "state_name": "Nevada",
+    "state_abbr": "NV",
+    "year": 2024,
+    "lgbtq_pop": 150100,
+    "lgbtq_pct": 6.6,
+    "same_sex_hh": 14852,
+    "trans_pop": 9756,
+    "trans_pct": 0.429
+  },
+  "legal_detail": {
+    "state_fips": 32,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 3
+  },
+  "safety_detail": {
+    "state_fips": 32,
+    "year": 2024,
+    "so_incidents": 16,
+    "gi_incidents": 1,
+    "so_per_100k": 10.659560293137908,
+    "gi_per_100k": 0.6662225183211192,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 32,
+    "year": 2024,
+    "depression_pct": 45.0,
+    "healthcare_avoidance_pct": 49.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 12.0
+  },
+  "economic_detail": {
+    "state_fips": 32,
+    "year": 2024,
+    "lgbtq_poverty_pct": 17.5,
+    "income_gap_pct": -14.0,
+    "housing_instability_pct": 15.0
+  },
+  "community_detail": {
+    "state_fips": 32,
+    "year": 2024,
+    "lgbtq_orgs_count": 48,
+    "lgbtq_orgs_per_100k": 31.978680879413727,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 32,
+    "year": 2024,
+    "suicidality_pct": 45.0,
+    "school_safety_score": 33.0,
+    "gsa_presence_pct": 33.0,
+    "conversion_therapy_exposure_pct": 6.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 56.5
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "NV-enterprise-clark-county-nv",
+      "city_name": "Enterprise (Clark County)",
+      "state_fips": 32,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NV-henderson-nv",
+      "city_name": "Henderson",
+      "state_fips": 32,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NV-las-vegas-nv",
+      "city_name": "Las Vegas",
+      "state_fips": 32,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NV-paradise-clark-county-nv",
+      "city_name": "Paradise (Clark County)",
+      "state_fips": 32,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NV-reno-nv",
+      "city_name": "Reno",
+      "state_fips": 32,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Gay And Lesbian Community Center Of Southern Nevada",
+      "org_addr_city": "LAS VEGAS",
+      "ntee_code_definition": "Human Services N.E.C.",
+      "revenue_amount": 20990143
+    },
+    {
+      "org_name_display": "Project 150",
+      "org_addr_city": "LAS VEGAS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2639135
+    },
+    {
+      "org_name_display": "Caridad",
+      "org_addr_city": "LAS VEGAS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1883613
+    },
+    {
+      "org_name_display": "Transformative Community Health",
+      "org_addr_city": "LAS VEGAS",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 868256
+    },
+    {
+      "org_name_display": "Build Our Center",
+      "org_addr_city": "RENO",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 528842
+    },
+    {
+      "org_name_display": "Southern Nevada Association Of Pride",
+      "org_addr_city": "LAS VEGAS",
+      "ntee_code_definition": "Unknown",
+      "revenue_amount": 517134
+    },
+    {
+      "org_name_display": "The Widows Mite",
+      "org_addr_city": "LAS VEGAS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 321504
+    },
+    {
+      "org_name_display": "Nevada Gay Rodeo Association Ngra",
+      "org_addr_city": "LAS VEGAS",
+      "ntee_code_definition": "Support N.E.C.",
+      "revenue_amount": 115797
+    },
+    {
+      "org_name_display": "Pride Tree",
+      "org_addr_city": "LAS VEGAS",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 73200
+    },
+    {
+      "org_name_display": "Gay And Lesbian Chamber Of Commerce Nevada",
+      "org_addr_city": "LAS VEGAS",
+      "ntee_code_definition": "Chambers of Commerce & Business Leagues",
+      "revenue_amount": 55774
+    },
+    {
+      "org_name_display": "Nevada Gay Mens Chorus",
+      "org_addr_city": "RENO",
+      "ntee_code_definition": "Singing, Choral",
+      "revenue_amount": 41588
+    },
+    {
+      "org_name_display": "Las Vegas Gay Softball League",
+      "org_addr_city": "LAS VEGAS",
+      "ntee_code_definition": "Baseball, Softball",
+      "revenue_amount": 34415
+    },
+    {
+      "org_name_display": "Home Inc Hope Offers Meaningful Endings",
+      "org_addr_city": "WELLINGTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 31720
+    },
+    {
+      "org_name_display": "Webq Alliance",
+      "org_addr_city": "LAS VEGAS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Patricias House",
+      "org_addr_city": "LAS VEGAS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Resurrection International Worldwid E Center",
+      "org_addr_city": "LAS VEGAS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Burning Light",
+      "org_addr_city": "HENDERSON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Claras Help",
+      "org_addr_city": "LAS VEGAS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Sentinel Pride Booster Club",
+      "org_addr_city": "HENDERSON",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Elko Pride",
+      "org_addr_city": "ELKO",
+      "ntee_code_definition": "Centers to Support the Independence of Specific Populations",
+      "revenue_amount": 0
+    }
+  ]
+}

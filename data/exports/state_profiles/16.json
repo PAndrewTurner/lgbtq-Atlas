@@ -1,0 +1,266 @@
+{
+  "fips": "16",
+  "name": "Idaho",
+  "abbr": "ID",
+  "year": 2024,
+  "scores": {
+    "legal": 5.0,
+    "safety": 45.5,
+    "health": 29.3,
+    "economic": 46.4,
+    "community": 56.1,
+    "youth": 34.0,
+    "overall": 31.4,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 16,
+    "state_name": "Idaho",
+    "state_abbr": "ID",
+    "year": 2024,
+    "lgbtq_pop": 68100,
+    "lgbtq_pct": 5.3,
+    "same_sex_hh": 4519,
+    "trans_pop": 4426,
+    "trans_pct": 0.344
+  },
+  "legal_detail": {
+    "state_fips": 16,
+    "year": 2024,
+    "map_total_score": 25,
+    "overall_climate": "Attempting to Legislate Exclusion",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 28
+  },
+  "safety_detail": {
+    "state_fips": 16,
+    "year": 2024,
+    "so_incidents": 11,
+    "gi_incidents": 4,
+    "so_per_100k": 16.152716593245227,
+    "gi_per_100k": 5.873715124816446,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 16,
+    "year": 2024,
+    "depression_pct": 38.0,
+    "healthcare_avoidance_pct": 62.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 26.0
+  },
+  "economic_detail": {
+    "state_fips": 16,
+    "year": 2024,
+    "lgbtq_poverty_pct": 18.2,
+    "income_gap_pct": -16.0,
+    "housing_instability_pct": 14.0
+  },
+  "community_detail": {
+    "state_fips": 16,
+    "year": 2024,
+    "lgbtq_orgs_count": 29,
+    "lgbtq_orgs_per_100k": 42.584434654919235,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 16,
+    "year": 2024,
+    "suicidality_pct": 38.0,
+    "school_safety_score": 28.0,
+    "gsa_presence_pct": 28.0,
+    "conversion_therapy_exposure_pct": 5.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 31.4
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "ID-boise-id",
+      "city_name": "Boise",
+      "state_fips": 16,
+      "year": 2025,
+      "mei_score": 82,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "ID-pocatello-id",
+      "city_name": "Pocatello",
+      "state_fips": 16,
+      "year": 2025,
+      "mei_score": 65,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "ID-moscow-id",
+      "city_name": "Moscow",
+      "state_fips": 16,
+      "year": 2025,
+      "mei_score": 58,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "ID-coeur-dalene-id",
+      "city_name": "Coeur d'Alene",
+      "state_fips": 16,
+      "year": 2025,
+      "mei_score": 55,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "ID-idaho-falls-id",
+      "city_name": "Idaho Falls",
+      "state_fips": 16,
+      "year": 2025,
+      "mei_score": 53,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Astegos",
+      "org_addr_city": "NAMPA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 8461927
+    },
+    {
+      "org_name_display": "Charitable Assistance To Communitys Homeless",
+      "org_addr_city": "BOISE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 4308101
+    },
+    {
+      "org_name_display": "Boise Pride Festival",
+      "org_addr_city": "BOISE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 556651
+    },
+    {
+      "org_name_display": "Family Promise Of The Palouse",
+      "org_addr_city": "MOSCOW",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 526327
+    },
+    {
+      "org_name_display": "Corpus Christi House",
+      "org_addr_city": "BOISE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 398847
+    },
+    {
+      "org_name_display": "Trans Cascadia",
+      "org_addr_city": "DALTON GDNS",
+      "ntee_code_definition": "Land Resources Conservation",
+      "revenue_amount": 229395
+    },
+    {
+      "org_name_display": "North Idaho Pride Alliance",
+      "org_addr_city": "COEUR D ALENE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 193870
+    },
+    {
+      "org_name_display": "Good Samaritan Inn",
+      "org_addr_city": "SANDPOINT",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 75065
+    },
+    {
+      "org_name_display": "Boise Gay Mens Chorus",
+      "org_addr_city": "BOISE",
+      "ntee_code_definition": "Music",
+      "revenue_amount": 69794
+    },
+    {
+      "org_name_display": "Power Of Pride",
+      "org_addr_city": "AMERICAN FLS",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 37431
+    },
+    {
+      "org_name_display": "Serve One",
+      "org_addr_city": "NAMPA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 8370
+    },
+    {
+      "org_name_display": "Pride Business League",
+      "org_addr_city": "BOISE",
+      "ntee_code_definition": "Chambers of Commerce & Business Leagues",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Southern Idaho Pride",
+      "org_addr_city": "TWIN FALLS",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Boise Trans Collective",
+      "org_addr_city": "MERIDIAN",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Mighty To Save Ministries",
+      "org_addr_city": "POST FALLS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Silver Valley Pride",
+      "org_addr_city": "SILVERTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "South-Eastern Idaho Pride",
+      "org_addr_city": "FORT HALL",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Clutch",
+      "org_addr_city": "NAMPA",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Idaho Falls Pride",
+      "org_addr_city": "IDAHO FALLS",
+      "ntee_code_definition": "Civil Rights, Social Action, Advocacy N.E.C.",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "The Mgi Foundation",
+      "org_addr_city": "BOISE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    }
+  ]
+}

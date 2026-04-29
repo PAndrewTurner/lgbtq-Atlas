@@ -1,0 +1,32 @@
+[project]
+name = "lgbtq-atlas"
+version = "0.1.0"
+description = "LGBTQ+ Atlas — interactive data platform for U.S. state and city profiles"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.50",
+    "fastapi>=0.136.1",
+    "geopandas>=1.1.3",
+    "httpx>=0.28.1",
+    "openpyxl>=3.1.5",
+    "pdfplumber>=0.11.9",
+    "polars>=1.40.1",
+    "pydantic>=2",
+    "pydantic-settings>=2.14.0",
+    "pytest>=9.0.3",
+    "pytest-asyncio>=1.3.0",
+    "python-multipart>=0.0.27",
+    "scikit-learn>=1.8.0",
+    "shapely>=2.1.2",
+    "starlette>=1.0.0",
+    "tenacity>=9.1.4",
+    "typer>=0.25.0",
+    "uvicorn>=0.46.0",
+]
+
+[project.scripts]
+atlas = "pipeline.cli:app"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"

@@ -1,0 +1,266 @@
+{
+  "fips": "19",
+  "name": "Iowa",
+  "abbr": "IA",
+  "year": 2024,
+  "scores": {
+    "legal": 5.0,
+    "safety": 53.3,
+    "health": 39.7,
+    "economic": 52.0,
+    "community": 78.4,
+    "youth": 37.5,
+    "overall": 38.8,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 19,
+    "state_name": "Iowa",
+    "state_abbr": "IA",
+    "year": 2024,
+    "lgbtq_pop": 113600,
+    "lgbtq_pct": 4.7,
+    "same_sex_hh": 7621,
+    "trans_pop": 7384,
+    "trans_pct": 0.306
+  },
+  "legal_detail": {
+    "state_fips": 19,
+    "year": 2024,
+    "map_total_score": 25,
+    "overall_climate": "Attempting to Legislate Exclusion",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 31
+  },
+  "safety_detail": {
+    "state_fips": 19,
+    "year": 2024,
+    "so_incidents": 16,
+    "gi_incidents": 4,
+    "so_per_100k": 14.084507042253522,
+    "gi_per_100k": 3.5211267605633805,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 19,
+    "year": 2024,
+    "depression_pct": 34.0,
+    "healthcare_avoidance_pct": 48.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 35.0
+  },
+  "economic_detail": {
+    "state_fips": 19,
+    "year": 2024,
+    "lgbtq_poverty_pct": 16.5,
+    "income_gap_pct": -13.0,
+    "housing_instability_pct": 13.0
+  },
+  "community_detail": {
+    "state_fips": 19,
+    "year": 2024,
+    "lgbtq_orgs_count": 62,
+    "lgbtq_orgs_per_100k": 54.57746478873239,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 19,
+    "year": 2024,
+    "suicidality_pct": 34.0,
+    "school_safety_score": 35.0,
+    "gsa_presence_pct": 35.0,
+    "conversion_therapy_exposure_pct": 7.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 38.8
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "IA-iowa-city-ia",
+      "city_name": "Iowa City",
+      "state_fips": 19,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "IA-cedar-rapids-ia",
+      "city_name": "Cedar Rapids",
+      "state_fips": 19,
+      "year": 2025,
+      "mei_score": 97,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "IA-davenport-ia",
+      "city_name": "Davenport",
+      "state_fips": 19,
+      "year": 2025,
+      "mei_score": 95,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "IA-des-moines-ia",
+      "city_name": "Des Moines",
+      "state_fips": 19,
+      "year": 2025,
+      "mei_score": 92,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "IA-dubuque-ia",
+      "city_name": "Dubuque",
+      "state_fips": 19,
+      "year": 2025,
+      "mei_score": 91,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Virginia Gay Hospital",
+      "org_addr_city": "VINTON",
+      "ntee_code_definition": "Hospital, General",
+      "revenue_amount": 47921225
+    },
+    {
+      "org_name_display": "Hope Ministries",
+      "org_addr_city": "DES MOINES",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 15611456
+    },
+    {
+      "org_name_display": "Pride Group",
+      "org_addr_city": "LE MARS",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 12175175
+    },
+    {
+      "org_name_display": "Capital City Pride Des Moines",
+      "org_addr_city": "DES MOINES",
+      "ntee_code_definition": "Centers to Support the Independence of Specific Populations",
+      "revenue_amount": 860371
+    },
+    {
+      "org_name_display": "Virginia Gay",
+      "org_addr_city": "VINTON",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 298029
+    },
+    {
+      "org_name_display": "Virginia Gay Hospital Health Care Foundation",
+      "org_addr_city": "VINTON",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 288016
+    },
+    {
+      "org_name_display": "Des Moines Gay Mens Chorus",
+      "org_addr_city": "DES MOINES",
+      "ntee_code_definition": "Singing, Choral",
+      "revenue_amount": 242520
+    },
+    {
+      "org_name_display": "Midwest Pride In Your Ride",
+      "org_addr_city": "WORTHINGTON",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 147876
+    },
+    {
+      "org_name_display": "Tabletop Gaymers",
+      "org_addr_city": "AMES",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 144582
+    },
+    {
+      "org_name_display": "Cr Pride",
+      "org_addr_city": "CEDAR RAPIDS",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 109049
+    },
+    {
+      "org_name_display": "Room For All",
+      "org_addr_city": "WDM",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 90267
+    },
+    {
+      "org_name_display": "Iowa City Lgbt Pride Organization",
+      "org_addr_city": "IOWA CITY",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 89798
+    },
+    {
+      "org_name_display": "Lynx Pride",
+      "org_addr_city": "TROY MILLS",
+      "ntee_code_definition": "Elementary, Secondary Education, K - 12",
+      "revenue_amount": 76263
+    },
+    {
+      "org_name_display": "Sheltered Reality",
+      "org_addr_city": "WEST LIBERTY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 68888
+    },
+    {
+      "org_name_display": "Scarlet Pride",
+      "org_addr_city": "DES MOINES",
+      "ntee_code_definition": "Scholarships, Student Financial Aid Services, Awards",
+      "revenue_amount": 64818
+    },
+    {
+      "org_name_display": "New Providence Pride & Progress",
+      "org_addr_city": "NEW PROVIDNCE",
+      "ntee_code_definition": "Community, Neighborhood Development",
+      "revenue_amount": 14670
+    },
+    {
+      "org_name_display": "Cedar Valley Lgbtq Coalition",
+      "org_addr_city": "WATERLOO",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 2982
+    },
+    {
+      "org_name_display": "Mingo Hometown Pride",
+      "org_addr_city": "MINGO",
+      "ntee_code_definition": "Unknown",
+      "revenue_amount": 1594
+    },
+    {
+      "org_name_display": "One Iowa",
+      "org_addr_city": "DES MOINES",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Holy Cross Hometown Pride",
+      "org_addr_city": "HOLY CROSS",
+      "ntee_code_definition": "Rural Economic Development",
+      "revenue_amount": 0
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "fips": "17",
+  "name": "Illinois",
+  "abbr": "IL",
+  "year": 2024,
+  "scores": {
+    "legal": 70.0,
+    "safety": 46.8,
+    "health": 35.0,
+    "economic": 56.3,
+    "community": 83.9,
+    "youth": 41.5,
+    "overall": 58.0,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 17,
+    "state_name": "Illinois",
+    "state_abbr": "IL",
+    "year": 2024,
+    "lgbtq_pop": 446600,
+    "lgbtq_pct": 4.5,
+    "same_sex_hh": 44785,
+    "trans_pop": 29029,
+    "trans_pct": 0.292
+  },
+  "legal_detail": {
+    "state_fips": 17,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 22
+  },
+  "safety_detail": {
+    "state_fips": 17,
+    "year": 2024,
+    "so_incidents": 75,
+    "gi_incidents": 20,
+    "so_per_100k": 16.793551276309895,
+    "gi_per_100k": 4.478280340349306,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 17,
+    "year": 2024,
+    "depression_pct": 41.0,
+    "healthcare_avoidance_pct": 47.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 34.0
+  },
+  "economic_detail": {
+    "state_fips": 17,
+    "year": 2024,
+    "lgbtq_poverty_pct": 15.8,
+    "income_gap_pct": -10.0,
+    "housing_instability_pct": 12.0
+  },
+  "community_detail": {
+    "state_fips": 17,
+    "year": 2024,
+    "lgbtq_orgs_count": 198,
+    "lgbtq_orgs_per_100k": 44.33497536945813,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 17,
+    "year": 2024,
+    "suicidality_pct": 41.0,
+    "school_safety_score": 43.0,
+    "gsa_presence_pct": 43.0,
+    "conversion_therapy_exposure_pct": 4.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 58.0
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "IL-aurora-il",
+      "city_name": "Aurora",
+      "state_fips": 17,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "IL-champaign-il",
+      "city_name": "Champaign",
+      "state_fips": 17,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "IL-chicago-il",
+      "city_name": "Chicago",
+      "state_fips": 17,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "IL-naperville-il",
+      "city_name": "Naperville",
+      "state_fips": 17,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "IL-rockford-il",
+      "city_name": "Rockford",
+      "state_fips": 17,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Facing Forward To End Homelessness",
+      "org_addr_city": "CHICAGO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 7006455
+    },
+    {
+      "org_name_display": "Covenant House Illinois",
+      "org_addr_city": "CHICAGO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 6766790
+    },
+    {
+      "org_name_display": "Midwest Shelter For Homeless Veterans",
+      "org_addr_city": "WHEATON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 4592841
+    },
+    {
+      "org_name_display": "Lazarus House",
+      "org_addr_city": "ST CHARLES",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2508422
+    },
+    {
+      "org_name_display": "World Professional Association For Transgender Health",
+      "org_addr_city": "EAST DUNDEE",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 2360387
+    },
+    {
+      "org_name_display": "Pads To Hope",
+      "org_addr_city": "PALATINE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2305983
+    },
+    {
+      "org_name_display": "Brave Space Alliance",
+      "org_addr_city": "CHICAGO",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 2259101
+    },
+    {
+      "org_name_display": "Revive Center For Housing And Healing",
+      "org_addr_city": "CHICAGO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2031462
+    },
+    {
+      "org_name_display": "Care For Friends",
+      "org_addr_city": "CHICAGO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1989368
+    },
+    {
+      "org_name_display": "South Suburban Council On Homelessness",
+      "org_addr_city": "ALSIP",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1539419
+    },
+    {
+      "org_name_display": "Southern Pride Senior Program",
+      "org_addr_city": "VIENNA",
+      "ntee_code_definition": "Senior Centers",
+      "revenue_amount": 1382027
+    },
+    {
+      "org_name_display": "Reconciling Ministries Network",
+      "org_addr_city": "CHICAGO",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 977263
+    },
+    {
+      "org_name_display": "Pride In The Pews Nfp",
+      "org_addr_city": "CHICAGO",
+      "ntee_code_definition": "Civil Rights, Social Action, Advocacy N.E.C.",
+      "revenue_amount": 590711
+    },
+    {
+      "org_name_display": "Chicago Gay Mens Chorus",
+      "org_addr_city": "CHICAGO",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 477985
+    },
+    {
+      "org_name_display": "Pride Roc",
+      "org_addr_city": "CHICAGO",
+      "ntee_code_definition": "Rehabilitation Services for Offenders",
+      "revenue_amount": 424125
+    },
+    {
+      "org_name_display": "Rainbow Cafe Lgbtq Center",
+      "org_addr_city": "CARBONDALE",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 409133
+    },
+    {
+      "org_name_display": "Lion Pride Mentoring",
+      "org_addr_city": "CHICAGO",
+      "ntee_code_definition": "Educational Services and Schools - Other",
+      "revenue_amount": 408665
+    },
+    {
+      "org_name_display": "Jeffrey Pride Foundation",
+      "org_addr_city": "BARRINGTON",
+      "ntee_code_definition": "Cancer Research",
+      "revenue_amount": 381633
+    },
+    {
+      "org_name_display": "The Poor Peoples Campaign",
+      "org_addr_city": "CHICAGO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 316296
+    },
+    {
+      "org_name_display": "The Up Center Of Champaign County",
+      "org_addr_city": "CHAMPAIGN",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 314541
+    }
+  ]
+}

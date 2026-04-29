@@ -1,0 +1,266 @@
+{
+  "fips": "27",
+  "name": "Minnesota",
+  "abbr": "MN",
+  "year": 2024,
+  "scores": {
+    "legal": 70.0,
+    "safety": 39.8,
+    "health": 37.0,
+    "economic": 60.7,
+    "community": 38.8,
+    "youth": 43.6,
+    "overall": 50.8,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 27,
+    "state_name": "Minnesota",
+    "state_abbr": "MN",
+    "year": 2024,
+    "lgbtq_pop": 267600,
+    "lgbtq_pct": 6.3,
+    "same_sex_hh": 21677,
+    "trans_pop": 17394,
+    "trans_pct": 0.41
+  },
+  "legal_detail": {
+    "state_fips": 27,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 33
+  },
+  "safety_detail": {
+    "state_fips": 27,
+    "year": 2024,
+    "so_incidents": 61,
+    "gi_incidents": 8,
+    "so_per_100k": 22.79521674140508,
+    "gi_per_100k": 2.9895366218236172,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 27,
+    "year": 2024,
+    "depression_pct": 39.0,
+    "healthcare_avoidance_pct": 46.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 35.0
+  },
+  "economic_detail": {
+    "state_fips": 27,
+    "year": 2024,
+    "lgbtq_poverty_pct": 14.0,
+    "income_gap_pct": -9.0,
+    "housing_instability_pct": 11.0
+  },
+  "community_detail": {
+    "state_fips": 27,
+    "year": 2024,
+    "lgbtq_orgs_count": 78,
+    "lgbtq_orgs_per_100k": 29.147982062780265,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 27,
+    "year": 2024,
+    "suicidality_pct": 39.0,
+    "school_safety_score": 51.0,
+    "gsa_presence_pct": 51.0,
+    "conversion_therapy_exposure_pct": 6.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 50.8
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "MN-saint-paul-mn",
+      "city_name": "Saint Paul",
+      "state_fips": 27,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MN-minneapolis-mn",
+      "city_name": "Minneapolis",
+      "state_fips": 27,
+      "year": 2025,
+      "mei_score": 99,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MN-duluth-mn",
+      "city_name": "Duluth",
+      "state_fips": 27,
+      "year": 2025,
+      "mei_score": 97,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MN-bloomington-mn",
+      "city_name": "Bloomington",
+      "state_fips": 27,
+      "year": 2025,
+      "mei_score": 96,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MN-rochester-mn",
+      "city_name": "Rochester",
+      "state_fips": 27,
+      "year": 2025,
+      "mei_score": 84,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Project For Pride In Living",
+      "org_addr_city": "MINNEAPOLIS",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 36117781
+    },
+    {
+      "org_name_display": "National Gay Pilots Association",
+      "org_addr_city": "SAINT PAUL",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 2748466
+    },
+    {
+      "org_name_display": "Gay-Lesbian-Bisexual Transgender Pride-Twin Cities",
+      "org_addr_city": "MINNEAPOLIS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 2148077
+    },
+    {
+      "org_name_display": "Owatonna Hope Center",
+      "org_addr_city": "OWATONNA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2070981
+    },
+    {
+      "org_name_display": "Grace House Of Itasca County",
+      "org_addr_city": "GRAND RAPIDS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2057243
+    },
+    {
+      "org_name_display": "Lgbtq Real Estate Alliance",
+      "org_addr_city": "SAINT PAUL",
+      "ntee_code_definition": "Boards of Trade",
+      "revenue_amount": 1723992
+    },
+    {
+      "org_name_display": "Queer Space Collective",
+      "org_addr_city": "MINNEAPOLIS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 1195637
+    },
+    {
+      "org_name_display": "Family Promise Of Anoka County",
+      "org_addr_city": "COON RAPIDS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1181909
+    },
+    {
+      "org_name_display": "Minnesota Coalition For The Homeless",
+      "org_addr_city": "SAINT PAUL",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 887586
+    },
+    {
+      "org_name_display": "Pride In Tiger Foundation",
+      "org_addr_city": "MARSHALL",
+      "ntee_code_definition": "Fund Raising and/or Fund Distribution",
+      "revenue_amount": 658998
+    },
+    {
+      "org_name_display": "Twin Cities Gay Mens Chorus",
+      "org_addr_city": "MINNEAPOLIS",
+      "ntee_code_definition": "Singing, Choral",
+      "revenue_amount": 606208
+    },
+    {
+      "org_name_display": "Homeless Helping Homeless",
+      "org_addr_city": "SAINT CLOUD",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 549669
+    },
+    {
+      "org_name_display": "Hope And Harbor",
+      "org_addr_city": "RED WING",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 393737
+    },
+    {
+      "org_name_display": "Serenity Homes",
+      "org_addr_city": "ROCHESTER",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 327799
+    },
+    {
+      "org_name_display": "Telling Queer History",
+      "org_addr_city": "MINNEAPOLIS",
+      "ntee_code_definition": "Cultural, Ethnic Awareness",
+      "revenue_amount": 197672
+    },
+    {
+      "org_name_display": "Jordan Pride Booster Club",
+      "org_addr_city": "JORDAN",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 176454
+    },
+    {
+      "org_name_display": "Lgbtq Presidents In Higher Education",
+      "org_addr_city": "MINNEAPOLIS",
+      "ntee_code_definition": "Professional Societies, Associations",
+      "revenue_amount": 167182
+    },
+    {
+      "org_name_display": "Outfront Minnesota",
+      "org_addr_city": "SAINT PAUL",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 156377
+    },
+    {
+      "org_name_display": "Help For The Homeless",
+      "org_addr_city": "HOPKINS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 109345
+    },
+    {
+      "org_name_display": "Upper Midwest Gay Lesbian Athletic",
+      "org_addr_city": "MINNEAPOLIS",
+      "ntee_code_definition": "Camps",
+      "revenue_amount": 85797
+    }
+  ]
+}

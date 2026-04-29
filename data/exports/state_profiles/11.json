@@ -1,0 +1,210 @@
+{
+  "fips": "11",
+  "name": "District of Columbia",
+  "abbr": "DC",
+  "year": 2024,
+  "scores": {
+    "legal": 90.0,
+    "safety": 9.8,
+    "health": 50.0,
+    "economic": 36.7,
+    "community": 79.6,
+    "youth": 50.0,
+    "overall": 57.1,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 11,
+    "state_name": "District of Columbia",
+    "state_abbr": "DC",
+    "year": 2024,
+    "lgbtq_pop": 81400,
+    "lgbtq_pct": 14.3,
+    "same_sex_hh": 9332,
+    "trans_pop": 5291,
+    "trans_pct": 0.93
+  },
+  "legal_detail": {
+    "state_fips": 11,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 0
+  },
+  "safety_detail": {
+    "state_fips": 11,
+    "year": 2024,
+    "so_incidents": 35,
+    "gi_incidents": 18,
+    "so_per_100k": 42.99754299754299,
+    "gi_per_100k": 22.113022113022115,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 11,
+    "year": 2024,
+    "depression_pct": null,
+    "healthcare_avoidance_pct": null,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": null
+  },
+  "economic_detail": {
+    "state_fips": 11,
+    "year": 2024,
+    "lgbtq_poverty_pct": 18.0,
+    "income_gap_pct": -15.0,
+    "housing_instability_pct": 22.0
+  },
+  "community_detail": {
+    "state_fips": 11,
+    "year": 2024,
+    "lgbtq_orgs_count": 62,
+    "lgbtq_orgs_per_100k": 76.16707616707617,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 11,
+    "year": 2024,
+    "suicidality_pct": null,
+    "school_safety_score": null,
+    "gsa_presence_pct": null,
+    "conversion_therapy_exposure_pct": null
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 57.1
+    }
+  ],
+  "cities": [],
+  "organizations": [
+    {
+      "org_name_display": "Human Rights Campaign",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 45862455
+    },
+    {
+      "org_name_display": "Pathways To Housing DC",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 19203747
+    },
+    {
+      "org_name_display": "Miriams Kitchen",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 11326819
+    },
+    {
+      "org_name_display": "National Gay & Lesbian Chamber Of Commerce",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Chambers of Commerce & Business Leagues",
+      "revenue_amount": 10769698
+    },
+    {
+      "org_name_display": "Samaritan Inns",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 7100604
+    },
+    {
+      "org_name_display": "National Lgbtq Task Force",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 3982672
+    },
+    {
+      "org_name_display": "Lgbtq Victory Institute",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 3920626
+    },
+    {
+      "org_name_display": "Capital Pride Alliance",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Centers to Support the Independence of Specific Populations",
+      "revenue_amount": 3897790
+    },
+    {
+      "org_name_display": "National Lesbian And Gay Law Foundation",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 2919188
+    },
+    {
+      "org_name_display": "Global Black Gay Men Connect",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 2407011
+    },
+    {
+      "org_name_display": "National Coalition For Homeless Veterans",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1641452
+    },
+    {
+      "org_name_display": "The National Lesbian And Gay Journalists Association",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Unknown",
+      "revenue_amount": 1070182
+    },
+    {
+      "org_name_display": "Cbe-Pride",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Group Homes",
+      "revenue_amount": 907869
+    },
+    {
+      "org_name_display": "Gifts For The Homeless",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 807548
+    },
+    {
+      "org_name_display": "Street Sense",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 659645
+    },
+    {
+      "org_name_display": "Lpac Action Network",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 568098
+    },
+    {
+      "org_name_display": "National Lesbian And Gay Law Association",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 419914
+    },
+    {
+      "org_name_display": "Modern Military Association Of America",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 372502
+    },
+    {
+      "org_name_display": "National Lgbtq Task Force Action Fund",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 371212
+    },
+    {
+      "org_name_display": "Pride At Work",
+      "org_addr_city": "WASHINGTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 363186
+    }
+  ]
+}

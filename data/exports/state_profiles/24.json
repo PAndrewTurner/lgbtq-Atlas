@@ -1,0 +1,266 @@
+{
+  "fips": "24",
+  "name": "Maryland",
+  "abbr": "MD",
+  "year": 2024,
+  "scores": {
+    "legal": 81.0,
+    "safety": 41.0,
+    "health": 37.0,
+    "economic": 64.9,
+    "community": 50.2,
+    "youth": 46.0,
+    "overall": 56.7,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 24,
+    "state_name": "Maryland",
+    "state_abbr": "MD",
+    "year": 2024,
+    "lgbtq_pop": 252700,
+    "lgbtq_pct": 5.4,
+    "same_sex_hh": 22089,
+    "trans_pop": 16426,
+    "trans_pct": 0.351
+  },
+  "legal_detail": {
+    "state_fips": 24,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 6
+  },
+  "safety_detail": {
+    "state_fips": 24,
+    "year": 2024,
+    "so_incidents": 48,
+    "gi_incidents": 15,
+    "so_per_100k": 18.994855559952512,
+    "gi_per_100k": 5.935892362485161,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 24,
+    "year": 2024,
+    "depression_pct": 40.0,
+    "healthcare_avoidance_pct": 39.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 30.0
+  },
+  "economic_detail": {
+    "state_fips": 24,
+    "year": 2024,
+    "lgbtq_poverty_pct": 12.8,
+    "income_gap_pct": -7.0,
+    "housing_instability_pct": 10.0
+  },
+  "community_detail": {
+    "state_fips": 24,
+    "year": 2024,
+    "lgbtq_orgs_count": 84,
+    "lgbtq_orgs_per_100k": 33.2409972299169,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 24,
+    "year": 2024,
+    "suicidality_pct": 40.0,
+    "school_safety_score": 47.0,
+    "gsa_presence_pct": 47.0,
+    "conversion_therapy_exposure_pct": 2.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 56.7
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "MD-annapolis-md",
+      "city_name": "Annapolis",
+      "state_fips": 24,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MD-baltimore-md",
+      "city_name": "Baltimore",
+      "state_fips": 24,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MD-college-park-md",
+      "city_name": "College Park",
+      "state_fips": 24,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MD-columbia-md",
+      "city_name": "Columbia",
+      "state_fips": 24,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MD-frederick-md",
+      "city_name": "Frederick",
+      "state_fips": 24,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "For The Girls",
+      "org_addr_city": "SILVER SPRING",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 16027231
+    },
+    {
+      "org_name_display": "Pride Center Of Maryland",
+      "org_addr_city": "BALTIMORE",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 2539125
+    },
+    {
+      "org_name_display": "Arundel House Of Hope",
+      "org_addr_city": "GLEN BURNIE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1650868
+    },
+    {
+      "org_name_display": "Lindaben Foundation",
+      "org_addr_city": "COLUMBIA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1441012
+    },
+    {
+      "org_name_display": "Pride Of Baltimore",
+      "org_addr_city": "BALTIMORE",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 1399351
+    },
+    {
+      "org_name_display": "Paris Foundation",
+      "org_addr_city": "ELKTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 745519
+    },
+    {
+      "org_name_display": "Pride Youth Servces",
+      "org_addr_city": "ROCKVILLE",
+      "ntee_code_definition": "Family Services",
+      "revenue_amount": 742904
+    },
+    {
+      "org_name_display": "Pride Hockey Association",
+      "org_addr_city": "BETHESDA",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 692025
+    },
+    {
+      "org_name_display": "The Frederick Center",
+      "org_addr_city": "FREDERICK",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 426086
+    },
+    {
+      "org_name_display": "Moco Pride Center",
+      "org_addr_city": "KENSINGTON",
+      "ntee_code_definition": "Human Services N.E.C.",
+      "revenue_amount": 297753
+    },
+    {
+      "org_name_display": "Happy Helpers For The Homeless",
+      "org_addr_city": "PASADENA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 239468
+    },
+    {
+      "org_name_display": "Lions Pride Athletic Booster Club",
+      "org_addr_city": "ELLICOTT CITY",
+      "ntee_code_definition": "Fund Raising and Fund Distribution",
+      "revenue_amount": 189465
+    },
+    {
+      "org_name_display": "Youth Empowered Society",
+      "org_addr_city": "BALTIMORE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 173091
+    },
+    {
+      "org_name_display": "Annapolis Pride",
+      "org_addr_city": "ANNAPOLIS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 172054
+    },
+    {
+      "org_name_display": "Friends Of Sparsh",
+      "org_addr_city": "ELLICOTT CITY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 126184
+    },
+    {
+      "org_name_display": "Maryland Lgbt Chamber Of Commerce",
+      "org_addr_city": "BALTIMORE",
+      "ntee_code_definition": "Chambers of Commerce & Business Leagues",
+      "revenue_amount": 115861
+    },
+    {
+      "org_name_display": "Adodi National",
+      "org_addr_city": "TEMPLE HILLS",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 89610
+    },
+    {
+      "org_name_display": "Puma Pride Boosters",
+      "org_addr_city": "UPPER MARLBORO",
+      "ntee_code_definition": "Secondary, High School",
+      "revenue_amount": 55700
+    },
+    {
+      "org_name_display": "On The Move Homeless Outreach",
+      "org_addr_city": "BROOKLYN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 49769
+    },
+    {
+      "org_name_display": "Deep Launching",
+      "org_addr_city": "BRANDYWINE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 48008
+    }
+  ]
+}

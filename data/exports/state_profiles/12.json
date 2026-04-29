@@ -1,0 +1,266 @@
+{
+  "fips": "12",
+  "name": "Florida",
+  "abbr": "FL",
+  "year": 2024,
+  "scores": {
+    "legal": 0.0,
+    "safety": 83.0,
+    "health": 29.7,
+    "economic": 41.6,
+    "community": 66.7,
+    "youth": 34.1,
+    "overall": 38.6,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 12,
+    "state_name": "Florida",
+    "state_abbr": "FL",
+    "year": 2024,
+    "lgbtq_pop": 898000,
+    "lgbtq_pct": 5.4,
+    "same_sex_hh": 98070,
+    "trans_pop": 58370,
+    "trans_pct": 0.351
+  },
+  "legal_detail": {
+    "state_fips": 12,
+    "year": 2024,
+    "map_total_score": 10,
+    "overall_climate": "Actively Hostile",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 16
+  },
+  "safety_detail": {
+    "state_fips": 12,
+    "year": 2024,
+    "so_incidents": 39,
+    "gi_incidents": 8,
+    "so_per_100k": 4.342984409799555,
+    "gi_per_100k": 0.89086859688196,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 12,
+    "year": 2024,
+    "depression_pct": 37.0,
+    "healthcare_avoidance_pct": 56.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 19.0
+  },
+  "economic_detail": {
+    "state_fips": 12,
+    "year": 2024,
+    "lgbtq_poverty_pct": 19.3,
+    "income_gap_pct": -17.0,
+    "housing_instability_pct": 16.0
+  },
+  "community_detail": {
+    "state_fips": 12,
+    "year": 2024,
+    "lgbtq_orgs_count": 304,
+    "lgbtq_orgs_per_100k": 33.85300668151447,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 12,
+    "year": 2024,
+    "suicidality_pct": 37.0,
+    "school_safety_score": 32.0,
+    "gsa_presence_pct": 32.0,
+    "conversion_therapy_exposure_pct": 7.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 38.6
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "FL-fort-lauderdale-fl",
+      "city_name": "Fort Lauderdale",
+      "state_fips": 12,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "FL-hollywood-fl",
+      "city_name": "Hollywood",
+      "state_fips": 12,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "FL-miami-fl",
+      "city_name": "Miami",
+      "state_fips": 12,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "FL-oakland-park-fl",
+      "city_name": "Oakland Park",
+      "state_fips": 12,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "FL-orlando-fl",
+      "city_name": "Orlando",
+      "state_fips": 12,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Homeless Services Network Of Central Florida",
+      "org_addr_city": "ORLANDO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 23972231
+    },
+    {
+      "org_name_display": "Alachua County Coalition For The Homeless And Hungry",
+      "org_addr_city": "GAINESVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 4698612
+    },
+    {
+      "org_name_display": "Home Again St Johns",
+      "org_addr_city": "ST AUGUSTINE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 3728174
+    },
+    {
+      "org_name_display": "St Ann Place Outreach Center",
+      "org_addr_city": "WEST PALM BCH",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 3583579
+    },
+    {
+      "org_name_display": "Centerlink",
+      "org_addr_city": "FT LAUDERDALE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 2863693
+    },
+    {
+      "org_name_display": "Our Pride Academy",
+      "org_addr_city": "MIAMI",
+      "ntee_code_definition": "Specialized Education Institutions",
+      "revenue_amount": 2845425
+    },
+    {
+      "org_name_display": "Volusia-Flagler County Coalition For The Homeless",
+      "org_addr_city": "DAYTONA BEACH",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2782315
+    },
+    {
+      "org_name_display": "Gay & Lesbian Community Center Of Greater Fort Lauderdale",
+      "org_addr_city": "WILTON MANORS",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 2700786
+    },
+    {
+      "org_name_display": "Homeless Coalition Of Palm Beach County",
+      "org_addr_city": "WEST PALM BCH",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2606391
+    },
+    {
+      "org_name_display": "Jacksonville Area Sexual Minority Youth Network",
+      "org_addr_city": "JACKSONVILLE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 2458843
+    },
+    {
+      "org_name_display": "The Smile Trust",
+      "org_addr_city": "MIAMI",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2354057
+    },
+    {
+      "org_name_display": "International Gay & Lesbian Travel Association",
+      "org_addr_city": "FORT LAUDERDALE",
+      "ntee_code_definition": "Chambers of Commerce & Business Leagues",
+      "revenue_amount": 2258322
+    },
+    {
+      "org_name_display": "Mid Florida Homeless Coalition",
+      "org_addr_city": "INVERNESS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1996446
+    },
+    {
+      "org_name_display": "Lgbt Plus Center Orlando",
+      "org_addr_city": "ORLANDO",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 1877831
+    },
+    {
+      "org_name_display": "Miami Beach Gay Pride",
+      "org_addr_city": "MIAMI BEACH",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 1599819
+    },
+    {
+      "org_name_display": "Collier County Hunger And Homeless Coalition",
+      "org_addr_city": "NAPLES",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1540994
+    },
+    {
+      "org_name_display": "High Point Community Pride Association",
+      "org_addr_city": "CLEARWATER",
+      "ntee_code_definition": "Neighborhood, Block Associations",
+      "revenue_amount": 1471803
+    },
+    {
+      "org_name_display": "Brevard Homeless Coalition",
+      "org_addr_city": "ROCKLEDGE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1426053
+    },
+    {
+      "org_name_display": "Resurrection House",
+      "org_addr_city": "SARASOTA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1389355
+    },
+    {
+      "org_name_display": "Homeless Childrens Foundation Of Indian River County",
+      "org_addr_city": "VERO BEACH",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1075096
+    }
+  ]
+}

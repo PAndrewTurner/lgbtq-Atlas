@@ -1,0 +1,236 @@
+{
+  "fips": "02",
+  "name": "Alaska",
+  "abbr": "AK",
+  "year": 2024,
+  "scores": {
+    "legal": 59.0,
+    "safety": 15.5,
+    "health": 29.3,
+    "economic": 55.3,
+    "community": 56.1,
+    "youth": 32.2,
+    "overall": 42.4,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 2,
+    "state_name": "Alaska",
+    "state_abbr": "AK",
+    "year": 2024,
+    "lgbtq_pop": 32600,
+    "lgbtq_pct": 5.9,
+    "same_sex_hh": 2259,
+    "trans_pop": 2119,
+    "trans_pct": 0.384
+  },
+  "legal_detail": {
+    "state_fips": 2,
+    "year": 2024,
+    "map_total_score": 65,
+    "overall_climate": "Working Toward Inclusion",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": false,
+    "preemption_law": false,
+    "bills_passed_against": 4
+  },
+  "safety_detail": {
+    "state_fips": 2,
+    "year": 2024,
+    "so_incidents": 15,
+    "gi_incidents": 2,
+    "so_per_100k": 46.012269938650306,
+    "gi_per_100k": 6.134969325153374,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 2,
+    "year": 2024,
+    "depression_pct": 44.0,
+    "healthcare_avoidance_pct": 46.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 22.0
+  },
+  "economic_detail": {
+    "state_fips": 2,
+    "year": 2024,
+    "lgbtq_poverty_pct": 15.5,
+    "income_gap_pct": -12.0,
+    "housing_instability_pct": 12.0
+  },
+  "community_detail": {
+    "state_fips": 2,
+    "year": 2024,
+    "lgbtq_orgs_count": 15,
+    "lgbtq_orgs_per_100k": 46.012269938650306,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 2,
+    "year": 2024,
+    "suicidality_pct": 44.0,
+    "school_safety_score": 32.0,
+    "gsa_presence_pct": 32.0,
+    "conversion_therapy_exposure_pct": 7.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 42.4
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "AK-juneau-ak",
+      "city_name": "Juneau",
+      "state_fips": 2,
+      "year": 2025,
+      "mei_score": 95,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "AK-anchorage-ak",
+      "city_name": "Anchorage",
+      "state_fips": 2,
+      "year": 2025,
+      "mei_score": 89,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "AK-ketchikan-ak",
+      "city_name": "Ketchikan",
+      "state_fips": 2,
+      "year": 2025,
+      "mei_score": 67,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "AK-fairbanks-ak",
+      "city_name": "Fairbanks",
+      "state_fips": 2,
+      "year": 2025,
+      "mei_score": 40,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "AK-sitka-ak",
+      "city_name": "Sitka",
+      "state_fips": 2,
+      "year": 2025,
+      "mei_score": 34,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Anchorage Coalition To End Homelessness",
+      "org_addr_city": "ANCHORAGE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2726072
+    },
+    {
+      "org_name_display": "Choosing Our Roots",
+      "org_addr_city": "ANCHORAGE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 587460
+    },
+    {
+      "org_name_display": "Mat-Su Valley Interfaith Hospitality Network",
+      "org_addr_city": "WASILLA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 374902
+    },
+    {
+      "org_name_display": "Anchorage Responsible Beverage Retailers Association",
+      "org_addr_city": "ANCHORAGE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 179799
+    },
+    {
+      "org_name_display": "Alaskans Together For Equality",
+      "org_addr_city": "ANCHORAGE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Southeast Alaska Gay And Lesbian Alliance",
+      "org_addr_city": "JUNEAU",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Running For Hope",
+      "org_addr_city": "ANCHORAGE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Homer Pride",
+      "org_addr_city": "HOMER",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Queens Guard",
+      "org_addr_city": "WASILLA",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Ketchikan Pride Alliance",
+      "org_addr_city": "KETCHIKAN",
+      "ntee_code_definition": "Education N.E.C.",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Wasilla Homeless-Committee",
+      "org_addr_city": "WASILLA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "International Association Of Gay & Lesbian Martial Art Inc A Pa",
+      "org_addr_city": "ANCHORAGE",
+      "ntee_code_definition": "Education N.E.C.",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pet Pride Of Alaska",
+      "org_addr_city": "FAIRBANKS",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Ship Creek Community Assets I",
+      "org_addr_city": "ANCHORAGE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Ship Creek Community Assets Ii",
+      "org_addr_city": "ANCHORAGE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "fips": "53",
+  "name": "Washington",
+  "abbr": "WA",
+  "year": 2024,
+  "scores": {
+    "legal": 78.0,
+    "safety": 27.5,
+    "health": 35.7,
+    "economic": 60.0,
+    "community": 60.0,
+    "youth": 41.4,
+    "overall": 53.4,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 53,
+    "state_name": "Washington",
+    "state_abbr": "WA",
+    "year": 2024,
+    "lgbtq_pop": 398700,
+    "lgbtq_pct": 6.9,
+    "same_sex_hh": 39571,
+    "trans_pop": 25916,
+    "trans_pct": 0.449
+  },
+  "legal_detail": {
+    "state_fips": 53,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 8
+  },
+  "safety_detail": {
+    "state_fips": 53,
+    "year": 2024,
+    "so_incidents": 117,
+    "gi_incidents": 27,
+    "so_per_100k": 29.345372460496613,
+    "gi_per_100k": 6.772009029345373,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 53,
+    "year": 2024,
+    "depression_pct": 37.0,
+    "healthcare_avoidance_pct": 49.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 30.0
+  },
+  "economic_detail": {
+    "state_fips": 53,
+    "year": 2024,
+    "lgbtq_poverty_pct": 14.0,
+    "income_gap_pct": -8.0,
+    "housing_instability_pct": 12.0
+  },
+  "community_detail": {
+    "state_fips": 53,
+    "year": 2024,
+    "lgbtq_orgs_count": 133,
+    "lgbtq_orgs_per_100k": 33.358414848256835,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 53,
+    "year": 2024,
+    "suicidality_pct": 37.0,
+    "school_safety_score": 44.0,
+    "gsa_presence_pct": 44.0,
+    "conversion_therapy_exposure_pct": 6.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 53.4
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "WA-bellevue-wa",
+      "city_name": "Bellevue",
+      "state_fips": 53,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "WA-kent-wa",
+      "city_name": "Kent",
+      "state_fips": 53,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "WA-olympia-wa",
+      "city_name": "Olympia",
+      "state_fips": 53,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "WA-seattle-wa",
+      "city_name": "Seattle",
+      "state_fips": 53,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "WA-spokane-wa",
+      "city_name": "Spokane",
+      "state_fips": 53,
+      "year": 2025,
+      "mei_score": 94,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Marys Place Seattle",
+      "org_addr_city": "SEATTLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 32402300
+    },
+    {
+      "org_name_display": "Pride Foundation",
+      "org_addr_city": "SEATTLE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 10549999
+    },
+    {
+      "org_name_display": "The Sophia Way",
+      "org_addr_city": "BELLEVUE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 4474487
+    },
+    {
+      "org_name_display": "Gay City Health Project",
+      "org_addr_city": "SEATTLE",
+      "ntee_code_definition": "Arts, Culture, and Humanities N.E.C.",
+      "revenue_amount": 4255580
+    },
+    {
+      "org_name_display": "Lake City Partners Ending Homelessness",
+      "org_addr_city": "SHORELINE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 3312597
+    },
+    {
+      "org_name_display": "Olympia Mutual Aid Partners",
+      "org_addr_city": "OLYMPIA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 3217961
+    },
+    {
+      "org_name_display": "Bread Of Life Mission",
+      "org_addr_city": "SEATTLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2929490
+    },
+    {
+      "org_name_display": "Fusion-Friends United To Shelter The Indigent Oppressed And Needy",
+      "org_addr_city": "FEDERAL WAY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2696258
+    },
+    {
+      "org_name_display": "Jewels Helping Hands",
+      "org_addr_city": "SPOKANE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1768083
+    },
+    {
+      "org_name_display": "Spectrum",
+      "org_addr_city": "SPOKANE",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 1519149
+    },
+    {
+      "org_name_display": "Seattle Out & Proud Foundation",
+      "org_addr_city": "SEATTLE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 1219956
+    },
+    {
+      "org_name_display": "Blessings Under The Bridge",
+      "org_addr_city": "SPOKANE VLY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1124227
+    },
+    {
+      "org_name_display": "Generations With Pride",
+      "org_addr_city": "SEATTLE",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 1001729
+    },
+    {
+      "org_name_display": "Rainbow Center",
+      "org_addr_city": "TACOMA",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 768279
+    },
+    {
+      "org_name_display": "Gender Odyssey Alliance",
+      "org_addr_city": "SEATTLE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 752987
+    },
+    {
+      "org_name_display": "Community Lifeline",
+      "org_addr_city": "SHELTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 733036
+    },
+    {
+      "org_name_display": "Live Love Outreach",
+      "org_addr_city": "VANCOUVER",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 712254
+    },
+    {
+      "org_name_display": "Gender Justice League",
+      "org_addr_city": "SEATTLE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 616653
+    },
+    {
+      "org_name_display": "Stonewall Youth",
+      "org_addr_city": "OLYMPIA",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 518526
+    },
+    {
+      "org_name_display": "Queer Power Alliance",
+      "org_addr_city": "SEATTLE",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 461049
+    }
+  ]
+}

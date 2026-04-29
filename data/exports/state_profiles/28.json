@@ -1,0 +1,266 @@
+{
+  "fips": "28",
+  "name": "Mississippi",
+  "abbr": "MS",
+  "year": 2024,
+  "scores": {
+    "legal": 25.0,
+    "safety": 72.0,
+    "health": 27.7,
+    "economic": 22.7,
+    "community": 35.7,
+    "youth": 30.9,
+    "overall": 36.8,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 28,
+    "state_name": "Mississippi",
+    "state_abbr": "MS",
+    "year": 2024,
+    "lgbtq_pop": 93300,
+    "lgbtq_pct": 4.1,
+    "same_sex_hh": 5768,
+    "trans_pop": 6064,
+    "trans_pct": 0.266
+  },
+  "legal_detail": {
+    "state_fips": 28,
+    "year": 2024,
+    "map_total_score": 45,
+    "overall_climate": "Stagnating",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": false,
+    "preemption_law": false,
+    "bills_passed_against": 27
+  },
+  "safety_detail": {
+    "state_fips": 28,
+    "year": 2024,
+    "so_incidents": 0,
+    "gi_incidents": 0,
+    "so_per_100k": 0.0,
+    "gi_per_100k": 0.0,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 28,
+    "year": 2024,
+    "depression_pct": 37.0,
+    "healthcare_avoidance_pct": 59.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 16.0
+  },
+  "economic_detail": {
+    "state_fips": 28,
+    "year": 2024,
+    "lgbtq_poverty_pct": 26.1,
+    "income_gap_pct": -24.0,
+    "housing_instability_pct": 21.0
+  },
+  "community_detail": {
+    "state_fips": 28,
+    "year": 2024,
+    "lgbtq_orgs_count": 31,
+    "lgbtq_orgs_per_100k": 33.226152197213295,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 28,
+    "year": 2024,
+    "suicidality_pct": 37.0,
+    "school_safety_score": 28.0,
+    "gsa_presence_pct": 28.0,
+    "conversion_therapy_exposure_pct": 8.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 36.8
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "MS-jackson-ms",
+      "city_name": "Jackson",
+      "state_fips": 28,
+      "year": 2025,
+      "mei_score": 50,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MS-hattiesburg-ms",
+      "city_name": "Hattiesburg",
+      "state_fips": 28,
+      "year": 2025,
+      "mei_score": 42,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MS-starkville-ms",
+      "city_name": "Starkville",
+      "state_fips": 28,
+      "year": 2025,
+      "mei_score": 31,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MS-biloxi-ms",
+      "city_name": "Biloxi",
+      "state_fips": 28,
+      "year": 2025,
+      "mei_score": 26,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MS-oxford-ms",
+      "city_name": "Oxford",
+      "state_fips": 28,
+      "year": 2025,
+      "mei_score": 26,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Mississippi United To End Homelessness",
+      "org_addr_city": "JACKSON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2964025
+    },
+    {
+      "org_name_display": "Golden Triangle Regional Homeless Coalition",
+      "org_addr_city": "COLUMBUS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 185402
+    },
+    {
+      "org_name_display": "Capital City Pride",
+      "org_addr_city": "JACKSON",
+      "ntee_code_definition": "Philanthropy, Charity, Voluntarism Promotion",
+      "revenue_amount": 149494
+    },
+    {
+      "org_name_display": "The Fieldhouse",
+      "org_addr_city": "HATTIESBURG",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 92307
+    },
+    {
+      "org_name_display": "Spectrum Center",
+      "org_addr_city": "HATTIESBURG",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 57710
+    },
+    {
+      "org_name_display": "Open Arms",
+      "org_addr_city": "PHILADELPHIA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 54144
+    },
+    {
+      "org_name_display": "Sweet Magnolia Foundation",
+      "org_addr_city": "JACKSON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Healing Hearts Through Christ Outreach",
+      "org_addr_city": "SOUTHAVEN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Step Two Restoration",
+      "org_addr_city": "BYRAM",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Rashads Homeless Care",
+      "org_addr_city": "HATTIESBURG",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Homes For Homeless",
+      "org_addr_city": "SUMRALL",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pride Resource Center Of North Mississippi",
+      "org_addr_city": "TUPELO",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Professional Association Of Mississippi Interpreters And Trans",
+      "org_addr_city": "RICHLAND",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Endeavor Services",
+      "org_addr_city": "WAVELAND",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pascagoula Pride",
+      "org_addr_city": "PASCAGOULA",
+      "ntee_code_definition": "Public, Society Benefit N.E.C.",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Gulf Coast Association Of Pride",
+      "org_addr_city": "BILOXI",
+      "ntee_code_definition": "Alliance/Advocacy Organizations",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Helping Hands Helping Homeless",
+      "org_addr_city": "TUPELO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Gautier Pride",
+      "org_addr_city": "GAUTIER",
+      "ntee_code_definition": "Community, Neighborhood Development",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Hurricane Community Center",
+      "org_addr_city": "THAXTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Helping Hands Restoration Home",
+      "org_addr_city": "JACKSON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

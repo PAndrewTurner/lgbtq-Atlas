@@ -1,0 +1,266 @@
+{
+  "fips": "42",
+  "name": "Pennsylvania",
+  "abbr": "PA",
+  "year": 2024,
+  "scores": {
+    "legal": 47.0,
+    "safety": 73.8,
+    "health": 35.7,
+    "economic": 49.3,
+    "community": 52.9,
+    "youth": 40.5,
+    "overall": 51.1,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 42,
+    "state_name": "Pennsylvania",
+    "state_abbr": "PA",
+    "year": 2024,
+    "lgbtq_pop": 586500,
+    "lgbtq_pct": 5.8,
+    "same_sex_hh": 44238,
+    "trans_pop": 38122,
+    "trans_pct": 0.377
+  },
+  "legal_detail": {
+    "state_fips": 42,
+    "year": 2024,
+    "map_total_score": 65,
+    "overall_climate": "Working Toward Inclusion",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 12
+  },
+  "safety_detail": {
+    "state_fips": 42,
+    "year": 2024,
+    "so_incidents": 46,
+    "gi_incidents": 4,
+    "so_per_100k": 7.843137254901961,
+    "gi_per_100k": 0.6820119352088662,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 42,
+    "year": 2024,
+    "depression_pct": 36.0,
+    "healthcare_avoidance_pct": 47.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 26.0
+  },
+  "economic_detail": {
+    "state_fips": 42,
+    "year": 2024,
+    "lgbtq_poverty_pct": 17.5,
+    "income_gap_pct": -13.0,
+    "housing_instability_pct": 14.0
+  },
+  "community_detail": {
+    "state_fips": 42,
+    "year": 2024,
+    "lgbtq_orgs_count": 175,
+    "lgbtq_orgs_per_100k": 29.838022165387894,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 42,
+    "year": 2024,
+    "suicidality_pct": 36.0,
+    "school_safety_score": 36.0,
+    "gsa_presence_pct": 36.0,
+    "conversion_therapy_exposure_pct": 4.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 51.1
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "PA-allentown-pa",
+      "city_name": "Allentown",
+      "state_fips": 42,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "PA-carlisle-pa",
+      "city_name": "Carlisle",
+      "state_fips": 42,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "PA-erie-pa",
+      "city_name": "Erie",
+      "state_fips": 42,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "PA-philadelphia-pa",
+      "city_name": "Philadelphia",
+      "state_fips": 42,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "PA-pittsburgh-pa",
+      "city_name": "Pittsburgh",
+      "state_fips": 42,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "North Central District Aids Coalition",
+      "org_addr_city": "MILL HALL",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 6159930
+    },
+    {
+      "org_name_display": "William Way Lgbt Community Center",
+      "org_addr_city": "PHILADELPHIA",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 4708206
+    },
+    {
+      "org_name_display": "Back On My Feet",
+      "org_addr_city": "PHILADELPHIA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 4115142
+    },
+    {
+      "org_name_display": "Family Promise Montco Pa",
+      "org_addr_city": "AMBLER",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 3700767
+    },
+    {
+      "org_name_display": "Drueding Center",
+      "org_addr_city": "PHILADELPHIA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 3569754
+    },
+    {
+      "org_name_display": "Feast Of Justice",
+      "org_addr_city": "PHILADELPHIA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 3195153
+    },
+    {
+      "org_name_display": "Welfare Pride",
+      "org_addr_city": "PHILADELPHIA",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 2286052
+    },
+    {
+      "org_name_display": "Whosoever Gospel Mission And Res Cue Home Asso Of Germantown",
+      "org_addr_city": "PHILADELPHIA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2253410
+    },
+    {
+      "org_name_display": "Downtown Daily Bread",
+      "org_addr_city": "HARRISBURG",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2013447
+    },
+    {
+      "org_name_display": "Berks Coalition To End Homelessness",
+      "org_addr_city": "READING",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1960187
+    },
+    {
+      "org_name_display": "Catherine Mcauley Center",
+      "org_addr_city": "SCRANTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1638905
+    },
+    {
+      "org_name_display": "Bradbury-Sullivan Lgbt Community Center",
+      "org_addr_city": "ALLENTOWN",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 1560155
+    },
+    {
+      "org_name_display": "Lgbt Community Center Coalition Of Central Pa",
+      "org_addr_city": "HARRISBURG",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 954798
+    },
+    {
+      "org_name_display": "Elizabethtown Community Housing & Outreach Services",
+      "org_addr_city": "ELIZABETHTOWN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 927977
+    },
+    {
+      "org_name_display": "Bethlehem Emergency Sheltering",
+      "org_addr_city": "BETHLEHEM",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 539378
+    },
+    {
+      "org_name_display": "Lgbt Center Of Greater Reading",
+      "org_addr_city": "READING",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 478357
+    },
+    {
+      "org_name_display": "Willow Foundation",
+      "org_addr_city": "DRUMS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 461484
+    },
+    {
+      "org_name_display": "Tioga County Homeless Initiative",
+      "org_addr_city": "MANSFIELD",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 410902
+    },
+    {
+      "org_name_display": "Disability Pride Philadelphia",
+      "org_addr_city": "PHILADELPHIA",
+      "ntee_code_definition": "Community, Neighborhood Development",
+      "revenue_amount": 359480
+    },
+    {
+      "org_name_display": "Lancaster Lgbtq Center",
+      "org_addr_city": "LANCASTER",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 354282
+    }
+  ]
+}

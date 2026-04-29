@@ -1,0 +1,818 @@
+[
+  {
+    "fips": "01",
+    "name": "Alabama",
+    "abbr": "AL",
+    "scores": {
+      "legal": 11.5,
+      "safety": 55.0,
+      "health": 31.7,
+      "economic": 33.2,
+      "community": 30.2,
+      "youth": 33.5,
+      "overall": 30.4,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "02",
+    "name": "Alaska",
+    "abbr": "AK",
+    "scores": {
+      "legal": 59.0,
+      "safety": 15.5,
+      "health": 29.3,
+      "economic": 55.3,
+      "community": 56.1,
+      "youth": 32.2,
+      "overall": 42.4,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "04",
+    "name": "Arizona",
+    "abbr": "AZ",
+    "scores": {
+      "legal": 45.0,
+      "safety": 57.0,
+      "health": 31.7,
+      "economic": 47.6,
+      "community": 45.5,
+      "youth": 38.4,
+      "overall": 45.1,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "05",
+    "name": "Arkansas",
+    "abbr": "AR",
+    "scores": {
+      "legal": 5.0,
+      "safety": 91.6,
+      "health": 21.7,
+      "economic": 28.8,
+      "community": 43.9,
+      "youth": 35.0,
+      "overall": 36.0,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "06",
+    "name": "California",
+    "abbr": "CA",
+    "scores": {
+      "legal": 79.5,
+      "safety": 26.7,
+      "health": 35.7,
+      "economic": 61.1,
+      "community": 89.4,
+      "youth": 47.6,
+      "overall": 58.8,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "08",
+    "name": "Colorado",
+    "abbr": "CO",
+    "scores": {
+      "legal": 82.5,
+      "safety": 39.3,
+      "health": 33.3,
+      "economic": 64.5,
+      "community": 41.6,
+      "youth": 36.8,
+      "overall": 54.0,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "09",
+    "name": "Connecticut",
+    "abbr": "CT",
+    "scores": {
+      "legal": 70.0,
+      "safety": 73.0,
+      "health": 46.3,
+      "economic": 68.0,
+      "community": 19.6,
+      "youth": 53.8,
+      "overall": 57.7,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "10",
+    "name": "Delaware",
+    "abbr": "DE",
+    "scores": {
+      "legal": 88.5,
+      "safety": 93.9,
+      "health": 34.7,
+      "economic": 59.3,
+      "community": 64.7,
+      "youth": 45.9,
+      "overall": 70.8,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "11",
+    "name": "District of Columbia",
+    "abbr": "DC",
+    "scores": {
+      "legal": 90.0,
+      "safety": 9.8,
+      "health": 50.0,
+      "economic": 36.7,
+      "community": 79.6,
+      "youth": 50.0,
+      "overall": 57.1,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "12",
+    "name": "Florida",
+    "abbr": "FL",
+    "scores": {
+      "legal": 0.0,
+      "safety": 83.0,
+      "health": 29.7,
+      "economic": 41.6,
+      "community": 66.7,
+      "youth": 34.1,
+      "overall": 38.6,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "13",
+    "name": "Georgia",
+    "abbr": "GA",
+    "scores": {
+      "legal": 45.5,
+      "safety": 77.3,
+      "health": 31.7,
+      "economic": 36.7,
+      "community": 87.8,
+      "youth": 37.2,
+      "overall": 54.4,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "15",
+    "name": "Hawaii",
+    "abbr": "HI",
+    "scores": {
+      "legal": 82.5,
+      "safety": 50.1,
+      "health": 37.0,
+      "economic": 60.7,
+      "community": 51.0,
+      "youth": 43.0,
+      "overall": 58.3,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "16",
+    "name": "Idaho",
+    "abbr": "ID",
+    "scores": {
+      "legal": 5.0,
+      "safety": 45.5,
+      "health": 29.3,
+      "economic": 46.4,
+      "community": 56.1,
+      "youth": 34.0,
+      "overall": 31.4,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "17",
+    "name": "Illinois",
+    "abbr": "IL",
+    "scores": {
+      "legal": 70.0,
+      "safety": 46.8,
+      "health": 35.0,
+      "economic": 56.3,
+      "community": 83.9,
+      "youth": 41.5,
+      "overall": 58.0,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "18",
+    "name": "Indiana",
+    "abbr": "IN",
+    "scores": {
+      "legal": 25.0,
+      "safety": 66.2,
+      "health": 29.7,
+      "economic": 39.9,
+      "community": 75.3,
+      "youth": 33.8,
+      "overall": 43.9,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "19",
+    "name": "Iowa",
+    "abbr": "IA",
+    "scores": {
+      "legal": 5.0,
+      "safety": 53.3,
+      "health": 39.7,
+      "economic": 52.0,
+      "community": 78.4,
+      "youth": 37.5,
+      "overall": 38.8,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "20",
+    "name": "Kansas",
+    "abbr": "KS",
+    "scores": {
+      "legal": 56.0,
+      "safety": 45.0,
+      "health": 35.3,
+      "economic": 50.7,
+      "community": 75.3,
+      "youth": 37.9,
+      "overall": 51.2,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "21",
+    "name": "Kentucky",
+    "abbr": "KY",
+    "scores": {
+      "legal": 25.0,
+      "safety": 65.5,
+      "health": 29.3,
+      "economic": 31.6,
+      "community": 62.0,
+      "youth": 32.5,
+      "overall": 40.7,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "22",
+    "name": "Louisiana",
+    "abbr": "LA",
+    "scores": {
+      "legal": 39.0,
+      "safety": 85.3,
+      "health": 33.7,
+      "economic": 24.7,
+      "community": 23.9,
+      "youth": 42.2,
+      "overall": 44.1,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "23",
+    "name": "Maine",
+    "abbr": "ME",
+    "scores": {
+      "legal": 76.5,
+      "safety": 50.7,
+      "health": 40.0,
+      "economic": 57.3,
+      "community": 5.1,
+      "youth": 34.2,
+      "overall": 49.0,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "24",
+    "name": "Maryland",
+    "abbr": "MD",
+    "scores": {
+      "legal": 81.0,
+      "safety": 41.0,
+      "health": 37.0,
+      "economic": 64.9,
+      "community": 50.2,
+      "youth": 46.0,
+      "overall": 56.7,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "25",
+    "name": "Massachusetts",
+    "abbr": "MA",
+    "scores": {
+      "legal": 81.0,
+      "safety": 36.3,
+      "health": 38.3,
+      "economic": 67.6,
+      "community": 66.3,
+      "youth": 44.4,
+      "overall": 58.4,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "26",
+    "name": "Michigan",
+    "abbr": "MI",
+    "scores": {
+      "legal": 45.0,
+      "safety": 57.7,
+      "health": 35.7,
+      "economic": 44.1,
+      "community": 39.6,
+      "youth": 37.9,
+      "overall": 44.5,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "27",
+    "name": "Minnesota",
+    "abbr": "MN",
+    "scores": {
+      "legal": 70.0,
+      "safety": 39.8,
+      "health": 37.0,
+      "economic": 60.7,
+      "community": 38.8,
+      "youth": 43.6,
+      "overall": 50.8,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "28",
+    "name": "Mississippi",
+    "abbr": "MS",
+    "scores": {
+      "legal": 25.0,
+      "safety": 72.0,
+      "health": 27.7,
+      "economic": 22.7,
+      "community": 35.7,
+      "youth": 30.9,
+      "overall": 36.8,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "29",
+    "name": "Missouri",
+    "abbr": "MO",
+    "scores": {
+      "legal": 45.0,
+      "safety": 55.1,
+      "health": 32.3,
+      "economic": 42.4,
+      "community": 61.2,
+      "youth": 34.6,
+      "overall": 46.2,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "30",
+    "name": "Montana",
+    "abbr": "MT",
+    "scores": {
+      "legal": 45.0,
+      "safety": 77.4,
+      "health": 34.7,
+      "economic": 52.7,
+      "community": 64.3,
+      "youth": 29.0,
+      "overall": 52.0,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "31",
+    "name": "Nebraska",
+    "abbr": "NE",
+    "scores": {
+      "legal": 39.0,
+      "safety": 60.7,
+      "health": 29.7,
+      "economic": 51.6,
+      "community": 9.8,
+      "youth": 39.8,
+      "overall": 38.9,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "32",
+    "name": "Nevada",
+    "abbr": "NV",
+    "scores": {
+      "legal": 85.5,
+      "safety": 66.7,
+      "health": 24.3,
+      "economic": 47.3,
+      "community": 38.0,
+      "youth": 34.0,
+      "overall": 56.5,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "33",
+    "name": "New Hampshire",
+    "abbr": "NH",
+    "scores": {
+      "legal": 45.0,
+      "safety": 76.1,
+      "health": 38.0,
+      "economic": 65.3,
+      "community": 7.8,
+      "youth": 46.8,
+      "overall": 46.8,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "34",
+    "name": "New Jersey",
+    "abbr": "NJ",
+    "scores": {
+      "legal": 70.0,
+      "safety": 12.6,
+      "health": 38.7,
+      "economic": 64.7,
+      "community": 32.9,
+      "youth": 47.8,
+      "overall": 45.5,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "35",
+    "name": "New Mexico",
+    "abbr": "NM",
+    "scores": {
+      "legal": 78.0,
+      "safety": 58.9,
+      "health": 27.7,
+      "economic": 38.0,
+      "community": 51.4,
+      "youth": 38.2,
+      "overall": 54.7,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "36",
+    "name": "New York",
+    "abbr": "NY",
+    "scores": {
+      "legal": 79.5,
+      "safety": 57.1,
+      "health": 36.7,
+      "economic": 52.0,
+      "community": 67.1,
+      "youth": 43.6,
+      "overall": 60.4,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "37",
+    "name": "North Carolina",
+    "abbr": "NC",
+    "scores": {
+      "legal": 45.5,
+      "safety": 63.4,
+      "health": 31.7,
+      "economic": 40.9,
+      "community": 82.0,
+      "youth": 35.8,
+      "overall": 51.1,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "38",
+    "name": "North Dakota",
+    "abbr": "ND",
+    "scores": {
+      "legal": 11.5,
+      "safety": 77.8,
+      "health": 34.7,
+      "economic": 55.3,
+      "community": 56.9,
+      "youth": 33.8,
+      "overall": 41.7,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "39",
+    "name": "Ohio",
+    "abbr": "OH",
+    "scores": {
+      "legal": 45.5,
+      "safety": 55.8,
+      "health": 32.0,
+      "economic": 43.1,
+      "community": 55.3,
+      "youth": 38.2,
+      "overall": 46.0,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "40",
+    "name": "Oklahoma",
+    "abbr": "OK",
+    "scores": {
+      "legal": 5.0,
+      "safety": 70.7,
+      "health": 25.0,
+      "economic": 33.3,
+      "community": 24.3,
+      "youth": 28.0,
+      "overall": 29.2,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "41",
+    "name": "Oregon",
+    "abbr": "OR",
+    "scores": {
+      "legal": 70.0,
+      "safety": 24.1,
+      "health": 34.7,
+      "economic": 56.0,
+      "community": 69.4,
+      "youth": 41.0,
+      "overall": 51.1,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "42",
+    "name": "Pennsylvania",
+    "abbr": "PA",
+    "scores": {
+      "legal": 47.0,
+      "safety": 73.8,
+      "health": 35.7,
+      "economic": 49.3,
+      "community": 52.9,
+      "youth": 40.5,
+      "overall": 51.1,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "44",
+    "name": "Rhode Island",
+    "abbr": "RI",
+    "scores": {
+      "legal": 82.5,
+      "safety": 67.6,
+      "health": 40.0,
+      "economic": 60.7,
+      "community": 45.5,
+      "youth": 44.1,
+      "overall": 61.6,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "45",
+    "name": "South Carolina",
+    "abbr": "SC",
+    "scores": {
+      "legal": 25.0,
+      "safety": 75.7,
+      "health": 26.7,
+      "economic": 36.0,
+      "community": 43.9,
+      "youth": 31.5,
+      "overall": 40.0,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "46",
+    "name": "South Dakota",
+    "abbr": "SD",
+    "scores": {
+      "legal": 34.5,
+      "safety": 66.1,
+      "health": 31.0,
+      "economic": 52.0,
+      "community": 38.8,
+      "youth": 23.5,
+      "overall": 41.6,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "47",
+    "name": "Tennessee",
+    "abbr": "TN",
+    "scores": {
+      "legal": 20.0,
+      "safety": 82.2,
+      "health": 27.7,
+      "economic": 36.7,
+      "community": 51.0,
+      "youth": 31.2,
+      "overall": 41.0,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "48",
+    "name": "Texas",
+    "abbr": "TX",
+    "scores": {
+      "legal": 25.0,
+      "safety": 68.8,
+      "health": 26.3,
+      "economic": 39.6,
+      "community": 71.0,
+      "youth": 35.8,
+      "overall": 43.4,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "49",
+    "name": "Utah",
+    "abbr": "UT",
+    "scores": {
+      "legal": 25.5,
+      "safety": 38.0,
+      "health": 34.3,
+      "economic": 48.7,
+      "community": 52.5,
+      "youth": 42.5,
+      "overall": 37.4,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "50",
+    "name": "Vermont",
+    "abbr": "VT",
+    "scores": {
+      "legal": 90.0,
+      "safety": 46.8,
+      "health": 40.7,
+      "economic": 62.0,
+      "community": 11.4,
+      "youth": 51.0,
+      "overall": 55.5,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "51",
+    "name": "Virginia",
+    "abbr": "VA",
+    "scores": {
+      "legal": 73.5,
+      "safety": 65.1,
+      "health": 32.3,
+      "economic": 58.7,
+      "community": 40.8,
+      "youth": 41.0,
+      "overall": 56.0,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "53",
+    "name": "Washington",
+    "abbr": "WA",
+    "scores": {
+      "legal": 78.0,
+      "safety": 27.5,
+      "health": 35.7,
+      "economic": 60.0,
+      "community": 60.0,
+      "youth": 41.4,
+      "overall": 53.4,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "54",
+    "name": "West Virginia",
+    "abbr": "WV",
+    "scores": {
+      "legal": 25.0,
+      "safety": 49.0,
+      "health": 31.3,
+      "economic": 28.0,
+      "community": 69.4,
+      "youth": 37.5,
+      "overall": 39.0,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "55",
+    "name": "Wisconsin",
+    "abbr": "WI",
+    "scores": {
+      "legal": 45.0,
+      "safety": 67.0,
+      "health": 34.7,
+      "economic": 52.7,
+      "community": 36.9,
+      "youth": 38.1,
+      "overall": 46.7,
+      "confidence": 1.0
+    },
+    "year": 2024
+  },
+  {
+    "fips": "56",
+    "name": "Wyoming",
+    "abbr": "WY",
+    "scores": {
+      "legal": 25.0,
+      "safety": 38.7,
+      "health": 21.7,
+      "economic": 48.0,
+      "community": 45.1,
+      "youth": 32.2,
+      "overall": 33.3,
+      "confidence": 1.0
+    },
+    "year": 2024
+  }
+]

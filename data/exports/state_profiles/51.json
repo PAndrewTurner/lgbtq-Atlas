@@ -1,0 +1,266 @@
+{
+  "fips": "51",
+  "name": "Virginia",
+  "abbr": "VA",
+  "year": 2024,
+  "scores": {
+    "legal": 73.5,
+    "safety": 65.1,
+    "health": 32.3,
+    "economic": 58.7,
+    "community": 40.8,
+    "youth": 41.0,
+    "overall": 56.0,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 51,
+    "state_name": "Virginia",
+    "state_abbr": "VA",
+    "year": 2024,
+    "lgbtq_pop": 390700,
+    "lgbtq_pct": 5.9,
+    "same_sex_hh": 27949,
+    "trans_pop": 25396,
+    "trans_pct": 0.384
+  },
+  "legal_detail": {
+    "state_fips": 51,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": false,
+    "preemption_law": false,
+    "bills_passed_against": 11
+  },
+  "safety_detail": {
+    "state_fips": 51,
+    "year": 2024,
+    "so_incidents": 43,
+    "gi_incidents": 4,
+    "so_per_100k": 11.005886869721014,
+    "gi_per_100k": 1.0238034297414897,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 51,
+    "year": 2024,
+    "depression_pct": 42.0,
+    "healthcare_avoidance_pct": 49.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 30.0
+  },
+  "economic_detail": {
+    "state_fips": 51,
+    "year": 2024,
+    "lgbtq_poverty_pct": 14.5,
+    "income_gap_pct": -9.0,
+    "housing_instability_pct": 12.0
+  },
+  "community_detail": {
+    "state_fips": 51,
+    "year": 2024,
+    "lgbtq_orgs_count": 104,
+    "lgbtq_orgs_per_100k": 26.61888917327873,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 51,
+    "year": 2024,
+    "suicidality_pct": 42.0,
+    "school_safety_score": 42.0,
+    "gsa_presence_pct": 42.0,
+    "conversion_therapy_exposure_pct": 4.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 56.0
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "VA-alexandria-va",
+      "city_name": "Alexandria",
+      "state_fips": 51,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "VA-arlington-county-va",
+      "city_name": "Arlington County",
+      "state_fips": 51,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "VA-charlottesville-va",
+      "city_name": "Charlottesville",
+      "state_fips": 51,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "VA-fairfax-county-va",
+      "city_name": "Fairfax County",
+      "state_fips": 51,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "VA-hampton-va",
+      "city_name": "Hampton",
+      "state_fips": 51,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "National Railway Carriers & United Trans Union Health & Welfare Plan",
+      "org_addr_city": "ARLINGTON",
+      "ntee_code_definition": "Voluntary Employees Beneficiary Associations (Non-Government)",
+      "revenue_amount": 792398664
+    },
+    {
+      "org_name_display": "Lgbt Life Center",
+      "org_addr_city": "NORFOLK",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 11858781
+    },
+    {
+      "org_name_display": "Lgbt Technology Institute",
+      "org_addr_city": "STAUNTON",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 3155353
+    },
+    {
+      "org_name_display": "Fish",
+      "org_addr_city": "WILLIAMSBURG",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2261332
+    },
+    {
+      "org_name_display": "Housing Trust Fund Of Northern Virginia",
+      "org_addr_city": "CHANTILLY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1300234
+    },
+    {
+      "org_name_display": "Thurman Brisben Homeless Shelter",
+      "org_addr_city": "FREDERICKSBRG",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1076823
+    },
+    {
+      "org_name_display": "Equality Virginia",
+      "org_addr_city": "RICHMOND",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 614474
+    },
+    {
+      "org_name_display": "Open Doors",
+      "org_addr_city": "HARRISONBURG",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 565365
+    },
+    {
+      "org_name_display": "Hampton Roads Pride",
+      "org_addr_city": "NORFOLK",
+      "ntee_code_definition": "Intergroup, Race Relations",
+      "revenue_amount": 495231
+    },
+    {
+      "org_name_display": "Portsmouth Volunteers For The Homeless",
+      "org_addr_city": "PORTSMOUTH",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 492377
+    },
+    {
+      "org_name_display": "Shenandoah Lgbtq Center",
+      "org_addr_city": "STAUNTON",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 377017
+    },
+    {
+      "org_name_display": "Beacon Of Hope In Western Tidewater",
+      "org_addr_city": "SUFFOLK",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 349021
+    },
+    {
+      "org_name_display": "Empowering Transgender Services",
+      "org_addr_city": "PORTSMOUTH",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 291977
+    },
+    {
+      "org_name_display": "Vb Home Now",
+      "org_addr_city": "VIRGINIA BCH",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 257063
+    },
+    {
+      "org_name_display": "Abbas Pride",
+      "org_addr_city": "VIRGINIA BCH",
+      "ntee_code_definition": "Protestant",
+      "revenue_amount": 180611
+    },
+    {
+      "org_name_display": "Lesbian Gay Bisexual And Transgendered Lgbt Meeting Profess",
+      "org_addr_city": "ALEXANDRIA",
+      "ntee_code_definition": "Seniors' Rights",
+      "revenue_amount": 170413
+    },
+    {
+      "org_name_display": "Southeastern Transgender Center",
+      "org_addr_city": "NORFOLK",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 164013
+    },
+    {
+      "org_name_display": "Ride With Pride",
+      "org_addr_city": "STAUNTON",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 158351
+    },
+    {
+      "org_name_display": "Dc Front Runners Pride Run Foundation",
+      "org_addr_city": "ARLINGTON",
+      "ntee_code_definition": "Centers to Support the Independence of Specific Populations",
+      "revenue_amount": 116199
+    },
+    {
+      "org_name_display": "Teens Opposing Poverty",
+      "org_addr_city": "BERRYVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 112833
+    }
+  ]
+}

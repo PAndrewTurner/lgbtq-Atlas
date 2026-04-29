@@ -1,0 +1,266 @@
+{
+  "fips": "10",
+  "name": "Delaware",
+  "abbr": "DE",
+  "year": 2024,
+  "scores": {
+    "legal": 88.5,
+    "safety": 93.9,
+    "health": 34.7,
+    "economic": 59.3,
+    "community": 64.7,
+    "youth": 45.9,
+    "overall": 70.8,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 10,
+    "state_name": "Delaware",
+    "state_abbr": "DE",
+    "year": 2024,
+    "lgbtq_pop": 56600,
+    "lgbtq_pct": 7.5,
+    "same_sex_hh": 5293,
+    "trans_pop": 3679,
+    "trans_pct": 0.488
+  },
+  "legal_detail": {
+    "state_fips": 10,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 1
+  },
+  "safety_detail": {
+    "state_fips": 10,
+    "year": 2024,
+    "so_incidents": 0,
+    "gi_incidents": 1,
+    "so_per_100k": 0.0,
+    "gi_per_100k": 1.76678445229682,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 10,
+    "year": 2024,
+    "depression_pct": 37.0,
+    "healthcare_avoidance_pct": 43.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 21.0
+  },
+  "economic_detail": {
+    "state_fips": 10,
+    "year": 2024,
+    "lgbtq_poverty_pct": 14.5,
+    "income_gap_pct": -10.0,
+    "housing_instability_pct": 11.0
+  },
+  "community_detail": {
+    "state_fips": 10,
+    "year": 2024,
+    "lgbtq_orgs_count": 28,
+    "lgbtq_orgs_per_100k": 49.46996466431095,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 10,
+    "year": 2024,
+    "suicidality_pct": 37.0,
+    "school_safety_score": 48.0,
+    "gsa_presence_pct": 48.0,
+    "conversion_therapy_exposure_pct": 4.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 70.8
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "DE-rehoboth-beach-de",
+      "city_name": "Rehoboth Beach",
+      "state_fips": 10,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "DE-milford-de",
+      "city_name": "Milford",
+      "state_fips": 10,
+      "year": 2025,
+      "mei_score": 83,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "DE-wilmington-de",
+      "city_name": "Wilmington",
+      "state_fips": 10,
+      "year": 2025,
+      "mei_score": 76,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "DE-newark-de",
+      "city_name": "Newark",
+      "state_fips": 10,
+      "year": 2025,
+      "mei_score": 72,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "DE-dover-de",
+      "city_name": "Dover",
+      "state_fips": 10,
+      "year": 2025,
+      "mei_score": 69,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Camp Rehoboth",
+      "org_addr_city": "REHOBOTH BCH",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 1793174
+    },
+    {
+      "org_name_display": "Be The Transformational Change Fund",
+      "org_addr_city": "NEWARK",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 199933
+    },
+    {
+      "org_name_display": "Shepherds Office",
+      "org_addr_city": "GEORGETOWN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 188919
+    },
+    {
+      "org_name_display": "The Richard Klevins And Gay Nichols Family Foundation",
+      "org_addr_city": "MIDDLETOWN",
+      "ntee_code_definition": "Public Foundations",
+      "revenue_amount": 151000
+    },
+    {
+      "org_name_display": "Gay Women Of Rehoboth",
+      "org_addr_city": "REHOBOTH BEACH",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 56552
+    },
+    {
+      "org_name_display": "House Of Pride",
+      "org_addr_city": "DOVER",
+      "ntee_code_definition": "Employment Procurement Assistance",
+      "revenue_amount": 48285
+    },
+    {
+      "org_name_display": "Equality Delaware",
+      "org_addr_city": "MIDDLETOWN",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Scream Queens Coaster Community",
+      "org_addr_city": "WILMINGTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Queer Response Corps",
+      "org_addr_city": "REHOBOTH BCH",
+      "ntee_code_definition": "Cultural, Ethnic Awareness",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Hughs Haven",
+      "org_addr_city": "NEW CASTLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Delaware Youth Pride",
+      "org_addr_city": "WILMINGTON",
+      "ntee_code_definition": "Alliance/Advocacy Organizations",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Delaware Sexuality & Gender Collective",
+      "org_addr_city": "HST NEWCASTLE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Lets Support Ministry",
+      "org_addr_city": "DOVER",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Sussex Pride",
+      "org_addr_city": "REHOBOTH BCH",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Carry With Pride",
+      "org_addr_city": "MIDDLETOWN",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Heart For The City De",
+      "org_addr_city": "WILMINGTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Intersections Of Pride Foundation",
+      "org_addr_city": "WILMINGTON",
+      "ntee_code_definition": "Civil Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Juanitas Restoration Center",
+      "org_addr_city": "WILMINGTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Women Against Registry Family Foundation",
+      "org_addr_city": "DOVER",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Women At The Well",
+      "org_addr_city": "NEW CASTLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

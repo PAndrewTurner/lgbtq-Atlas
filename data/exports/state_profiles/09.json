@@ -1,0 +1,266 @@
+{
+  "fips": "09",
+  "name": "Connecticut",
+  "abbr": "CT",
+  "year": 2024,
+  "scores": {
+    "legal": 70.0,
+    "safety": 73.0,
+    "health": 46.3,
+    "economic": 68.0,
+    "community": 19.6,
+    "youth": 53.8,
+    "overall": 57.7,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 9,
+    "state_name": "Connecticut",
+    "state_abbr": "CT",
+    "year": 2024,
+    "lgbtq_pop": 170500,
+    "lgbtq_pct": 6.0,
+    "same_sex_hh": 14063,
+    "trans_pop": 11082,
+    "trans_pct": 0.39
+  },
+  "legal_detail": {
+    "state_fips": 9,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 27
+  },
+  "safety_detail": {
+    "state_fips": 9,
+    "year": 2024,
+    "so_incidents": 13,
+    "gi_incidents": 2,
+    "so_per_100k": 7.624633431085043,
+    "gi_per_100k": 1.1730205278592376,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 9,
+    "year": 2024,
+    "depression_pct": 26.0,
+    "healthcare_avoidance_pct": 43.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 34.0
+  },
+  "economic_detail": {
+    "state_fips": 9,
+    "year": 2024,
+    "lgbtq_poverty_pct": 12.0,
+    "income_gap_pct": -6.0,
+    "housing_instability_pct": 9.0
+  },
+  "community_detail": {
+    "state_fips": 9,
+    "year": 2024,
+    "lgbtq_orgs_count": 43,
+    "lgbtq_orgs_per_100k": 25.21994134897361,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 9,
+    "year": 2024,
+    "suicidality_pct": 26.0,
+    "school_safety_score": 50.0,
+    "gsa_presence_pct": 50.0,
+    "conversion_therapy_exposure_pct": 4.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 57.7
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "CT-new-haven-ct",
+      "city_name": "New Haven",
+      "state_fips": 9,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "CT-norwalk-ct",
+      "city_name": "Norwalk",
+      "state_fips": 9,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "CT-stamford-ct",
+      "city_name": "Stamford",
+      "state_fips": 9,
+      "year": 2025,
+      "mei_score": 99,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "CT-hartford-ct",
+      "city_name": "Hartford",
+      "state_fips": 9,
+      "year": 2025,
+      "mei_score": 85,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "CT-new-britain-ct",
+      "city_name": "New Britain",
+      "state_fips": 9,
+      "year": 2025,
+      "mei_score": 81,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Connecticut Coalition To End Homelessness",
+      "org_addr_city": "HARTFORD",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 3005308
+    },
+    {
+      "org_name_display": "Hartford Gay And Lesbian Health",
+      "org_addr_city": "HARTFORD",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 1667413
+    },
+    {
+      "org_name_display": "Zezzo House",
+      "org_addr_city": "MANCHESTER",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 600644
+    },
+    {
+      "org_name_display": "New Haven Gay And Lesbian Community Center",
+      "org_addr_city": "NEW HAVEN",
+      "ntee_code_definition": "Centers to Support the Independence of Specific Populations",
+      "revenue_amount": 491395
+    },
+    {
+      "org_name_display": "Off The Streets",
+      "org_addr_city": "BETHEL",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 414813
+    },
+    {
+      "org_name_display": "Bridgeport Pride Center",
+      "org_addr_city": "BRIDGEPORT",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 232140
+    },
+    {
+      "org_name_display": "Q Plus- Queer Youth Program Of Connecticut",
+      "org_addr_city": "WEST HARTFORD",
+      "ntee_code_definition": "Youth Development N.E.C.",
+      "revenue_amount": 231170
+    },
+    {
+      "org_name_display": "Brian Gibbons Homeless Outreach",
+      "org_addr_city": "NAUGATUCK",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 224973
+    },
+    {
+      "org_name_display": "Blue Wave Pride Club",
+      "org_addr_city": "DARIEN",
+      "ntee_code_definition": "Elementary, Secondary Education, K - 12",
+      "revenue_amount": 148469
+    },
+    {
+      "org_name_display": "Hartford Gay Mens Chorus",
+      "org_addr_city": "HARTFORD",
+      "ntee_code_definition": "Education N.E.C.",
+      "revenue_amount": 86329
+    },
+    {
+      "org_name_display": "Ridgefield Ct Pride",
+      "org_addr_city": "RIDGEFIELD",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "International Ministry Of The Compassion",
+      "org_addr_city": "BEACON FALLS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Interqual Research And Training Institute",
+      "org_addr_city": "HAMDEN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pride And Prejudice",
+      "org_addr_city": "MERIDEN",
+      "ntee_code_definition": "Civil Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Wartime Outreach Ministry",
+      "org_addr_city": "NAUGATUCK",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Glastonbury Pride",
+      "org_addr_city": "GLASTONBURY",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Outbox Education",
+      "org_addr_city": "GREENWICH",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Bristol Pride",
+      "org_addr_city": "BRISTOL",
+      "ntee_code_definition": "Alliance/Advocacy",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "North Haven Pride",
+      "org_addr_city": "NORTH HAVEN",
+      "ntee_code_definition": "Alliance/Advocacy",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Out Of The Trunk Ministry",
+      "org_addr_city": "NEW HAVEN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

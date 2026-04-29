@@ -1,0 +1,266 @@
+{
+  "fips": "15",
+  "name": "Hawaii",
+  "abbr": "HI",
+  "year": 2024,
+  "scores": {
+    "legal": 82.5,
+    "safety": 50.1,
+    "health": 37.0,
+    "economic": 60.7,
+    "community": 51.0,
+    "youth": 43.0,
+    "overall": 58.3,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 15,
+    "state_name": "Hawaii",
+    "state_abbr": "HI",
+    "year": 2024,
+    "lgbtq_pop": 56900,
+    "lgbtq_pct": 5.1,
+    "same_sex_hh": 6507,
+    "trans_pop": 3698,
+    "trans_pct": 0.331
+  },
+  "legal_detail": {
+    "state_fips": 15,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 5
+  },
+  "safety_detail": {
+    "state_fips": 15,
+    "year": 2024,
+    "so_incidents": 9,
+    "gi_incidents": 2,
+    "so_per_100k": 15.817223198594023,
+    "gi_per_100k": 3.51493848857645,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 15,
+    "year": 2024,
+    "depression_pct": 32.0,
+    "healthcare_avoidance_pct": 57.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 32.0
+  },
+  "economic_detail": {
+    "state_fips": 15,
+    "year": 2024,
+    "lgbtq_poverty_pct": 12.5,
+    "income_gap_pct": -8.0,
+    "housing_instability_pct": 13.0
+  },
+  "community_detail": {
+    "state_fips": 15,
+    "year": 2024,
+    "lgbtq_orgs_count": 23,
+    "lgbtq_orgs_per_100k": 40.421792618629176,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 15,
+    "year": 2024,
+    "suicidality_pct": 32.0,
+    "school_safety_score": 36.0,
+    "gsa_presence_pct": 36.0,
+    "conversion_therapy_exposure_pct": 4.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 58.3
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "HI-honolulu-county-hi",
+      "city_name": "Honolulu County",
+      "state_fips": 15,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "HI-maui-county-hi",
+      "city_name": "Maui County",
+      "state_fips": 15,
+      "year": 2025,
+      "mei_score": 92,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "HI-hawaii-county-hi",
+      "city_name": "Hawaii County",
+      "state_fips": 15,
+      "year": 2025,
+      "mei_score": 70,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "HI-kauai-county-hi",
+      "city_name": "Kauai County",
+      "state_fips": 15,
+      "year": 2025,
+      "mei_score": 47,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "HI-kalawao-county-hi",
+      "city_name": "Kalawao County",
+      "state_fips": 15,
+      "year": 2025,
+      "mei_score": 36,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Family Promise Of Hawaii",
+      "org_addr_city": "HONOLULU",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 3688874
+    },
+    {
+      "org_name_display": "Ho Okahua",
+      "org_addr_city": "LIHUE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 535860
+    },
+    {
+      "org_name_display": "Hawaii Lgbt Legacy Foundation",
+      "org_addr_city": "HONOLULU",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 442279
+    },
+    {
+      "org_name_display": "Paa Lima",
+      "org_addr_city": "KOLOA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 40791
+    },
+    {
+      "org_name_display": "Ku Anuenue",
+      "org_addr_city": "HILO",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 100
+    },
+    {
+      "org_name_display": "Living The Word Project Date",
+      "org_addr_city": "HONOLULU",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Back To The Beginning",
+      "org_addr_city": "KAILUA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Trans World Metals Foundation",
+      "org_addr_city": "HONOLULU",
+      "ntee_code_definition": "Philanthropy, Charity, Voluntarism Promotion",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pacific Pride Organization",
+      "org_addr_city": "WAILUKU",
+      "ntee_code_definition": "Baseball, Softball",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Aloha State Outreach",
+      "org_addr_city": "WAHIAWA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Essential Project",
+      "org_addr_city": "HALEIWA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Maui Equality Coalition",
+      "org_addr_city": "KAHULUI",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Puuhonua O Pahoa Marae",
+      "org_addr_city": "HILO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Kona Pride",
+      "org_addr_city": "KAILUA KONA",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Keiki Of Da Aina Foundation",
+      "org_addr_city": "KAILUA KONA",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Hawaii Gay Flag Football League",
+      "org_addr_city": "HONOLULU",
+      "ntee_code_definition": "Football",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Gay Mens Chorus Of Honolulu",
+      "org_addr_city": "HONOLULU",
+      "ntee_code_definition": "Singing, Choral",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pride Athletics",
+      "org_addr_city": "WAIANAE",
+      "ntee_code_definition": "Amateur Sports",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Called To Greatness",
+      "org_addr_city": "HONOLULU",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Mana Pono Holomua",
+      "org_addr_city": "HONOLULU",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "fips": "08",
+  "name": "Colorado",
+  "abbr": "CO",
+  "year": 2024,
+  "scores": {
+    "legal": 82.5,
+    "safety": 39.3,
+    "health": 33.3,
+    "economic": 64.5,
+    "community": 41.6,
+    "youth": 36.8,
+    "overall": 54.0,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 8,
+    "state_name": "Colorado",
+    "state_abbr": "CO",
+    "year": 2024,
+    "lgbtq_pop": 294500,
+    "lgbtq_pct": 6.8,
+    "same_sex_hh": 27598,
+    "trans_pop": 19142,
+    "trans_pct": 0.442
+  },
+  "legal_detail": {
+    "state_fips": 8,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 5
+  },
+  "safety_detail": {
+    "state_fips": 8,
+    "year": 2024,
+    "so_incidents": 61,
+    "gi_incidents": 16,
+    "so_per_100k": 20.71307300509338,
+    "gi_per_100k": 5.432937181663837,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 8,
+    "year": 2024,
+    "depression_pct": 41.0,
+    "healthcare_avoidance_pct": 48.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 30.0
+  },
+  "economic_detail": {
+    "state_fips": 8,
+    "year": 2024,
+    "lgbtq_poverty_pct": 13.1,
+    "income_gap_pct": -7.0,
+    "housing_instability_pct": 10.0
+  },
+  "community_detail": {
+    "state_fips": 8,
+    "year": 2024,
+    "lgbtq_orgs_count": 86,
+    "lgbtq_orgs_per_100k": 29.202037351443124,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 8,
+    "year": 2024,
+    "suicidality_pct": 41.0,
+    "school_safety_score": 41.0,
+    "gsa_presence_pct": 41.0,
+    "conversion_therapy_exposure_pct": 7.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 54.0
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "CO-boulder-co",
+      "city_name": "Boulder",
+      "state_fips": 8,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "CO-denver-co",
+      "city_name": "Denver",
+      "state_fips": 8,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "CO-fort-collins-co",
+      "city_name": "Fort Collins",
+      "state_fips": 8,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "CO-aspen-co",
+      "city_name": "Aspen",
+      "state_fips": 8,
+      "year": 2025,
+      "mei_score": 94,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "CO-colorado-springs-co",
+      "city_name": "Colorado Springs",
+      "state_fips": 8,
+      "year": 2025,
+      "mei_score": 82,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Mercy Housing Management Group",
+      "org_addr_city": "DENVER",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 22914699
+    },
+    {
+      "org_name_display": "Boulder Pride",
+      "org_addr_city": "BOULDER",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 4821381
+    },
+    {
+      "org_name_display": "Movement Advancement Project",
+      "org_addr_city": "BOULDER",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 4159010
+    },
+    {
+      "org_name_display": "The Gay Lesbian Bisexual & Transgender Community Center Of",
+      "org_addr_city": "DENVER",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 4056173
+    },
+    {
+      "org_name_display": "El Paso Pride Soccer Association",
+      "org_addr_city": "COLORADO SPGS",
+      "ntee_code_definition": "Soccer",
+      "revenue_amount": 3909004
+    },
+    {
+      "org_name_display": "One Colorado Education Fund",
+      "org_addr_city": "DENVER",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 1624438
+    },
+    {
+      "org_name_display": "Hope-Homeless Outreach Providing Encouragement",
+      "org_addr_city": "LONGMONT",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1602585
+    },
+    {
+      "org_name_display": "Queer Asterisk",
+      "org_addr_city": "BOULDER",
+      "ntee_code_definition": "Counseling, Support Groups",
+      "revenue_amount": 1462406
+    },
+    {
+      "org_name_display": "Roaring Fork Gay & Lesbian Community Fund",
+      "org_addr_city": "ASPEN",
+      "ntee_code_definition": "Civil Rights, Social Action, Advocacy N.E.C.",
+      "revenue_amount": 1298895
+    },
+    {
+      "org_name_display": "Colorado Civic Engagement Roundtable",
+      "org_addr_city": "DENVER",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 1178143
+    },
+    {
+      "org_name_display": "Interfaith Hospitality Network Of Colorado Springs",
+      "org_addr_city": "COLORADO SPGS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 909685
+    },
+    {
+      "org_name_display": "Mountain Pride",
+      "org_addr_city": "AVON",
+      "ntee_code_definition": "Nonmonetary Support N.E.C.",
+      "revenue_amount": 670430
+    },
+    {
+      "org_name_display": "You Can Play",
+      "org_addr_city": "DENVER",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 347783
+    },
+    {
+      "org_name_display": "Dignity Project",
+      "org_addr_city": "LAKEWOOD",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 263060
+    },
+    {
+      "org_name_display": "Feet Forward - Peer Supportive Services And Outreach",
+      "org_addr_city": "BOULDER",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 245414
+    },
+    {
+      "org_name_display": "Denver Gay And Lesbian Flag Football League",
+      "org_addr_city": "DENVER",
+      "ntee_code_definition": "Football",
+      "revenue_amount": 131667
+    },
+    {
+      "org_name_display": "Colorado Gay Volleyball Association",
+      "org_addr_city": "AURORA",
+      "ntee_code_definition": "Recreational l Clubs",
+      "revenue_amount": 113996
+    },
+    {
+      "org_name_display": "International Gay Rodeo Association",
+      "org_addr_city": "AURORA",
+      "ntee_code_definition": "Equestrian",
+      "revenue_amount": 93267
+    },
+    {
+      "org_name_display": "Mad Ministries",
+      "org_addr_city": "BOULDER",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 84894
+    },
+    {
+      "org_name_display": "Pikes Peak Pride",
+      "org_addr_city": "COLORADO SPGS",
+      "ntee_code_definition": "Human Services N.E.C.",
+      "revenue_amount": 77241
+    }
+  ]
+}

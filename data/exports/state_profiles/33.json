@@ -1,0 +1,236 @@
+{
+  "fips": "33",
+  "name": "New Hampshire",
+  "abbr": "NH",
+  "year": 2024,
+  "scores": {
+    "legal": 45.0,
+    "safety": 76.1,
+    "health": 38.0,
+    "economic": 65.3,
+    "community": 7.8,
+    "youth": 46.8,
+    "overall": 46.8,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 33,
+    "state_name": "New Hampshire",
+    "state_abbr": "NH",
+    "year": 2024,
+    "lgbtq_pop": 78400,
+    "lgbtq_pct": 7.2,
+    "same_sex_hh": 6180,
+    "trans_pop": 5096,
+    "trans_pct": 0.468
+  },
+  "legal_detail": {
+    "state_fips": 33,
+    "year": 2024,
+    "map_total_score": 65,
+    "overall_climate": "Working Toward Inclusion",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": false,
+    "preemption_law": false,
+    "bills_passed_against": 14
+  },
+  "safety_detail": {
+    "state_fips": 33,
+    "year": 2024,
+    "so_incidents": 6,
+    "gi_incidents": 0,
+    "so_per_100k": 7.653061224489796,
+    "gi_per_100k": 0.0,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 33,
+    "year": 2024,
+    "depression_pct": 36.0,
+    "healthcare_avoidance_pct": 47.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 33.0
+  },
+  "economic_detail": {
+    "state_fips": 33,
+    "year": 2024,
+    "lgbtq_poverty_pct": 12.5,
+    "income_gap_pct": -7.0,
+    "housing_instability_pct": 10.0
+  },
+  "community_detail": {
+    "state_fips": 33,
+    "year": 2024,
+    "lgbtq_orgs_count": 15,
+    "lgbtq_orgs_per_100k": 19.132653061224488,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 33,
+    "year": 2024,
+    "suicidality_pct": 36.0,
+    "school_safety_score": 46.0,
+    "gsa_presence_pct": 46.0,
+    "conversion_therapy_exposure_pct": 3.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 46.8
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "NH-portsmouth-nh",
+      "city_name": "Portsmouth",
+      "state_fips": 33,
+      "year": 2025,
+      "mei_score": 95,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NH-durham-nh",
+      "city_name": "Durham",
+      "state_fips": 33,
+      "year": 2025,
+      "mei_score": 93,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NH-manchester-nh",
+      "city_name": "Manchester",
+      "state_fips": 33,
+      "year": 2025,
+      "mei_score": 81,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NH-dover-nh",
+      "city_name": "Dover",
+      "state_fips": 33,
+      "year": 2025,
+      "mei_score": 80,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NH-nashua-nh",
+      "city_name": "Nashua",
+      "state_fips": 33,
+      "year": 2025,
+      "mei_score": 71,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "The Bridge House",
+      "org_addr_city": "PLYMOUTH",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1586622
+    },
+    {
+      "org_name_display": "Hundred Nights",
+      "org_addr_city": "KEENE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1277859
+    },
+    {
+      "org_name_display": "Concord Coalition To End Homelessness",
+      "org_addr_city": "CONCORD",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1247071
+    },
+    {
+      "org_name_display": "Family Promise Of Southern New Hampshire",
+      "org_addr_city": "NASHUA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 989210
+    },
+    {
+      "org_name_display": "Stepping Stones",
+      "org_addr_city": "NASHUA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 495245
+    },
+    {
+      "org_name_display": "Boxes Of Love For The Homeless",
+      "org_addr_city": "CANDIA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 396310
+    },
+    {
+      "org_name_display": "Keene Pride",
+      "org_addr_city": "KEENE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 124363
+    },
+    {
+      "org_name_display": "Manchester True Collaborative",
+      "org_addr_city": "MANCHESTER",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 73675
+    },
+    {
+      "org_name_display": "Central Pride Foundation",
+      "org_addr_city": "MANCHESTER",
+      "ntee_code_definition": "Secondary, High School",
+      "revenue_amount": 54719
+    },
+    {
+      "org_name_display": "White Mountains Pride",
+      "org_addr_city": "NORTH CONWAY",
+      "ntee_code_definition": "Cultural, Ethnic Awareness",
+      "revenue_amount": 23071
+    },
+    {
+      "org_name_display": "Gay Outdoors",
+      "org_addr_city": "THORNTON",
+      "ntee_code_definition": "Recreational l Clubs",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Granite State Gay Men",
+      "org_addr_city": "MANCHESTER",
+      "ntee_code_definition": "Centers to Support the Independence of Specific Populations",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "North Country Pride",
+      "org_addr_city": "LITTLETON",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Acts Of Kindness",
+      "org_addr_city": "BEDFORD",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Uvgear",
+      "org_addr_city": "LEBANON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

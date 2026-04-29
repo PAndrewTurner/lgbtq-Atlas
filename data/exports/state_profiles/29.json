@@ -1,0 +1,266 @@
+{
+  "fips": "29",
+  "name": "Missouri",
+  "abbr": "MO",
+  "year": 2024,
+  "scores": {
+    "legal": 45.0,
+    "safety": 55.1,
+    "health": 32.3,
+    "economic": 42.4,
+    "community": 61.2,
+    "youth": 34.6,
+    "overall": 46.2,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 29,
+    "state_name": "Missouri",
+    "state_abbr": "MO",
+    "year": 2024,
+    "lgbtq_pop": 282000,
+    "lgbtq_pct": 6.0,
+    "same_sex_hh": 20781,
+    "trans_pop": 18330,
+    "trans_pct": 0.39
+  },
+  "legal_detail": {
+    "state_fips": 29,
+    "year": 2024,
+    "map_total_score": 65,
+    "overall_climate": "Working Toward Inclusion",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 67
+  },
+  "safety_detail": {
+    "state_fips": 29,
+    "year": 2024,
+    "so_incidents": 35,
+    "gi_incidents": 12,
+    "so_per_100k": 12.411347517730498,
+    "gi_per_100k": 4.25531914893617,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 29,
+    "year": 2024,
+    "depression_pct": 39.0,
+    "healthcare_avoidance_pct": 53.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 28.0
+  },
+  "economic_detail": {
+    "state_fips": 29,
+    "year": 2024,
+    "lgbtq_poverty_pct": 19.7,
+    "income_gap_pct": -17.0,
+    "housing_instability_pct": 15.0
+  },
+  "community_detail": {
+    "state_fips": 29,
+    "year": 2024,
+    "lgbtq_orgs_count": 101,
+    "lgbtq_orgs_per_100k": 35.815602836879435,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 29,
+    "year": 2024,
+    "suicidality_pct": 39.0,
+    "school_safety_score": 38.0,
+    "gsa_presence_pct": 38.0,
+    "conversion_therapy_exposure_pct": 8.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 46.2
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "MO-columbia-mo",
+      "city_name": "Columbia",
+      "state_fips": 29,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MO-kansas-city-mo",
+      "city_name": "Kansas City",
+      "state_fips": 29,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MO-st.-louis-mo",
+      "city_name": "St. Louis",
+      "state_fips": 29,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MO-springfield-mo",
+      "city_name": "Springfield",
+      "state_fips": 29,
+      "year": 2025,
+      "mei_score": 55,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MO-independence-mo",
+      "city_name": "Independence",
+      "state_fips": 29,
+      "year": 2025,
+      "mei_score": 53,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Hillcrest Ministries Of Midamerica",
+      "org_addr_city": "KANSAS CITY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 5909620
+    },
+    {
+      "org_name_display": "Sisters In Christ",
+      "org_addr_city": "RAYTOWN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1974960
+    },
+    {
+      "org_name_display": "Russell House Response To Domestic And Sexual Violence",
+      "org_addr_city": "ROLLA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1699109
+    },
+    {
+      "org_name_display": "Downtown Kansas City Civic Ventures",
+      "org_addr_city": "KANSAS CITY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 973330
+    },
+    {
+      "org_name_display": "Pride St Louis",
+      "org_addr_city": "SAINT LOUIS",
+      "ntee_code_definition": "Intergroup, Race Relations",
+      "revenue_amount": 769673
+    },
+    {
+      "org_name_display": "Blue Springs South High School Jaguar Pride Band Parents",
+      "org_addr_city": "BLUE SPRINGS",
+      "ntee_code_definition": "Music Groups, Bands, Ensembles",
+      "revenue_amount": 678751
+    },
+    {
+      "org_name_display": "St Louis Queer Plus Support Helpline",
+      "org_addr_city": "SAINT LOUIS",
+      "ntee_code_definition": "Hot Line, Crisis Intervention Services",
+      "revenue_amount": 631510
+    },
+    {
+      "org_name_display": "Kansas City Pride Community Alliance",
+      "org_addr_city": "KANSAS CITY",
+      "ntee_code_definition": "Civil Rights, Social Action, Advocacy N.E.C.",
+      "revenue_amount": 574189
+    },
+    {
+      "org_name_display": "Metro Trans Umbrella Group",
+      "org_addr_city": "SAINT LOUIS",
+      "ntee_code_definition": "Civil Rights, Social Action, Advocacy N.E.C.",
+      "revenue_amount": 543031
+    },
+    {
+      "org_name_display": "Lincoln County Housing Task Force",
+      "org_addr_city": "TROY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 400582
+    },
+    {
+      "org_name_display": "Sisters Of Solace",
+      "org_addr_city": "SAINT JOSEPH",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 327391
+    },
+    {
+      "org_name_display": "Womens Medical Respite",
+      "org_addr_city": "SPRINGFIELD",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 318497
+    },
+    {
+      "org_name_display": "Como Mobile Aid Collective",
+      "org_addr_city": "COLUMBIA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 312757
+    },
+    {
+      "org_name_display": "Mid-America Gay & Lesbian Chamber Of Commerce",
+      "org_addr_city": "KANSAS CITY",
+      "ntee_code_definition": "Chambers of Commerce & Business Leagues",
+      "revenue_amount": 288267
+    },
+    {
+      "org_name_display": "Gay And Lesbian Community Center Of The Ozarks",
+      "org_addr_city": "SPRINGFIELD",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 255262
+    },
+    {
+      "org_name_display": "Teamsters Local Union 600 Trans Warehousing & The Dairy Industry",
+      "org_addr_city": "MARYLAND HTS",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 205058
+    },
+    {
+      "org_name_display": "Pride Of The Lake Band Booster",
+      "org_addr_city": "CAMDENTON",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 165461
+    },
+    {
+      "org_name_display": "Restoration House",
+      "org_addr_city": "SAINT LOUIS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 161033
+    },
+    {
+      "org_name_display": "Street Patrol",
+      "org_addr_city": "SAINT LOUIS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 159816
+    },
+    {
+      "org_name_display": "Ritenour Pride & Promise Foundation",
+      "org_addr_city": "SAINT LOUIS",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 119561
+    }
+  ]
+}

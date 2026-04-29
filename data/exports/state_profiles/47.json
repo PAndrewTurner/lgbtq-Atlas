@@ -1,0 +1,266 @@
+{
+  "fips": "47",
+  "name": "Tennessee",
+  "abbr": "TN",
+  "year": 2024,
+  "scores": {
+    "legal": 20.0,
+    "safety": 82.2,
+    "health": 27.7,
+    "economic": 36.7,
+    "community": 51.0,
+    "youth": 31.2,
+    "overall": 41.0,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 47,
+    "state_name": "Tennessee",
+    "state_abbr": "TN",
+    "year": 2024,
+    "lgbtq_pop": 328900,
+    "lgbtq_pct": 6.3,
+    "same_sex_hh": 20722,
+    "trans_pop": 21378,
+    "trans_pct": 0.41
+  },
+  "legal_detail": {
+    "state_fips": 47,
+    "year": 2024,
+    "map_total_score": 45,
+    "overall_climate": "Stagnating",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": false,
+    "preemption_law": true,
+    "bills_passed_against": 30
+  },
+  "safety_detail": {
+    "state_fips": 47,
+    "year": 2024,
+    "so_incidents": 16,
+    "gi_incidents": 2,
+    "so_per_100k": 4.86470051687443,
+    "gi_per_100k": 0.6080875646093038,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 47,
+    "year": 2024,
+    "depression_pct": 42.0,
+    "healthcare_avoidance_pct": 55.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 22.0
+  },
+  "economic_detail": {
+    "state_fips": 47,
+    "year": 2024,
+    "lgbtq_poverty_pct": 21.0,
+    "income_gap_pct": -19.0,
+    "housing_instability_pct": 17.0
+  },
+  "community_detail": {
+    "state_fips": 47,
+    "year": 2024,
+    "lgbtq_orgs_count": 105,
+    "lgbtq_orgs_per_100k": 31.92459714198845,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 47,
+    "year": 2024,
+    "suicidality_pct": 42.0,
+    "school_safety_score": 30.0,
+    "gsa_presence_pct": 30.0,
+    "conversion_therapy_exposure_pct": 7.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 41.0
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "TN-nashville-tn",
+      "city_name": "Nashville",
+      "state_fips": 47,
+      "year": 2025,
+      "mei_score": 80,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "TN-knoxville-tn",
+      "city_name": "Knoxville",
+      "state_fips": 47,
+      "year": 2025,
+      "mei_score": 64,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "TN-memphis-tn",
+      "city_name": "Memphis",
+      "state_fips": 47,
+      "year": 2025,
+      "mei_score": 63,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "TN-chattanooga-tn",
+      "city_name": "Chattanooga",
+      "state_fips": 47,
+      "year": 2025,
+      "mei_score": 41,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "TN-clarksville-tn",
+      "city_name": "Clarksville",
+      "state_fips": 47,
+      "year": 2025,
+      "mei_score": 32,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "National Health Care For The Homeless Council",
+      "org_addr_city": "NASHVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 9091940
+    },
+    {
+      "org_name_display": "Case Management",
+      "org_addr_city": "MEMPHIS",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 7666689
+    },
+    {
+      "org_name_display": "Yaipak Outreach",
+      "org_addr_city": "CLARKSVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 6600019
+    },
+    {
+      "org_name_display": "Hospitality Hub Of Memphis",
+      "org_addr_city": "MEMPHIS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 6044075
+    },
+    {
+      "org_name_display": "Community Alliance For The Homeless",
+      "org_addr_city": "MEMPHIS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 3246782
+    },
+    {
+      "org_name_display": "Appalachian Regional Coalition On Homelessness",
+      "org_addr_city": "JOHNSON CITY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2045323
+    },
+    {
+      "org_name_display": "Our Pride Encompasses Nashville",
+      "org_addr_city": "NASHVILLE",
+      "ntee_code_definition": "Cultural, Ethnic Awareness",
+      "revenue_amount": 1703032
+    },
+    {
+      "org_name_display": "Door Of Hope",
+      "org_addr_city": "MEMPHIS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1345295
+    },
+    {
+      "org_name_display": "Shower Up",
+      "org_addr_city": "SPRING HILL",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1313474
+    },
+    {
+      "org_name_display": "Shepherds Arms Rescue Mission",
+      "org_addr_city": "CHATTANOOGA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 690084
+    },
+    {
+      "org_name_display": "Merge Memphis",
+      "org_addr_city": "MEMPHIS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 502445
+    },
+    {
+      "org_name_display": "Kingsport Homeless Ministry",
+      "org_addr_city": "KINGSPORT",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 400501
+    },
+    {
+      "org_name_display": "Tennessee Equality Project Foundation",
+      "org_addr_city": "NASHVILLE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 396467
+    },
+    {
+      "org_name_display": "Family Promise Of Greater Chattanooga",
+      "org_addr_city": "CHATTANOOGA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 345157
+    },
+    {
+      "org_name_display": "Kinsman Redeemer Homeless Ministry",
+      "org_addr_city": "CHARLOTTE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 343282
+    },
+    {
+      "org_name_display": "Family Promise Of Blount County",
+      "org_addr_city": "MARYVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 328541
+    },
+    {
+      "org_name_display": "Wounded Healers Ministries",
+      "org_addr_city": "CLEVELAND",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 307922
+    },
+    {
+      "org_name_display": "East Tennessee Equality Council",
+      "org_addr_city": "KNOXVILLE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 304579
+    },
+    {
+      "org_name_display": "A Place To Stay",
+      "org_addr_city": "MARYVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 259747
+    },
+    {
+      "org_name_display": "Mid-South Pride Foundation",
+      "org_addr_city": "MEMPHIS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 221480
+    }
+  ]
+}

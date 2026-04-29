@@ -1,0 +1,266 @@
+{
+  "fips": "41",
+  "name": "Oregon",
+  "abbr": "OR",
+  "year": 2024,
+  "scores": {
+    "legal": 70.0,
+    "safety": 24.1,
+    "health": 34.7,
+    "economic": 56.0,
+    "community": 69.4,
+    "youth": 41.0,
+    "overall": 51.1,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 41,
+    "state_name": "Oregon",
+    "state_abbr": "OR",
+    "year": 2024,
+    "lgbtq_pop": 253300,
+    "lgbtq_pct": 7.8,
+    "same_sex_hh": 22786,
+    "trans_pop": 16464,
+    "trans_pct": 0.507
+  },
+  "legal_detail": {
+    "state_fips": 41,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 14
+  },
+  "safety_detail": {
+    "state_fips": 41,
+    "year": 2024,
+    "so_incidents": 84,
+    "gi_incidents": 17,
+    "so_per_100k": 33.16225819186735,
+    "gi_per_100k": 6.711409395973154,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 41,
+    "year": 2024,
+    "depression_pct": 41.0,
+    "healthcare_avoidance_pct": 45.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 31.0
+  },
+  "economic_detail": {
+    "state_fips": 41,
+    "year": 2024,
+    "lgbtq_poverty_pct": 15.0,
+    "income_gap_pct": -10.0,
+    "housing_instability_pct": 13.0
+  },
+  "community_detail": {
+    "state_fips": 41,
+    "year": 2024,
+    "lgbtq_orgs_count": 101,
+    "lgbtq_orgs_per_100k": 39.87366758784051,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 41,
+    "year": 2024,
+    "suicidality_pct": 41.0,
+    "school_safety_score": 42.0,
+    "gsa_presence_pct": 42.0,
+    "conversion_therapy_exposure_pct": 4.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 51.1
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "OR-eugene-or",
+      "city_name": "Eugene",
+      "state_fips": 41,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "OR-portland-or",
+      "city_name": "Portland",
+      "state_fips": 41,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "OR-salem-or",
+      "city_name": "Salem",
+      "state_fips": 41,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "OR-bend-or",
+      "city_name": "Bend",
+      "state_fips": 41,
+      "year": 2025,
+      "mei_score": 91,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "OR-gresham-or",
+      "city_name": "Gresham",
+      "state_fips": 41,
+      "year": 2025,
+      "mei_score": 90,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Family Promise Of Tualatin Valley",
+      "org_addr_city": "TIGARD",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 9769289
+    },
+    {
+      "org_name_display": "Point Of Pride",
+      "org_addr_city": "EUGENE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 3267308
+    },
+    {
+      "org_name_display": "Street Roots",
+      "org_addr_city": "PORTLAND",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2859040
+    },
+    {
+      "org_name_display": "Unity Shelter",
+      "org_addr_city": "CORVALLIS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2372848
+    },
+    {
+      "org_name_display": "Utopia Pdx - United Territories Of Pacific Islanders Alliance Portlan",
+      "org_addr_city": "PORTLAND",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 1675100
+    },
+    {
+      "org_name_display": "Family Promise Of Greater Washington County",
+      "org_addr_city": "BEAVERTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1432769
+    },
+    {
+      "org_name_display": "Lifeboat Services",
+      "org_addr_city": "ASTORIA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1266706
+    },
+    {
+      "org_name_display": "Pride Northwest",
+      "org_addr_city": "PORTLAND",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 1040662
+    },
+    {
+      "org_name_display": "Homeless Solutions Coalition Of Clackamas County",
+      "org_addr_city": "OREGON CITY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1037199
+    },
+    {
+      "org_name_display": "Community Outreach Through Radical Empowerment",
+      "org_addr_city": "EUGENE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 991237
+    },
+    {
+      "org_name_display": "Basic Rights Education Fund",
+      "org_addr_city": "PORTLAND",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 890713
+    },
+    {
+      "org_name_display": "Reach Out Np",
+      "org_addr_city": "BEND",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 777653
+    },
+    {
+      "org_name_display": "Portland Gay Mens Chorus",
+      "org_addr_city": "PORTLAND",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 708640
+    },
+    {
+      "org_name_display": "Beacon Village",
+      "org_addr_city": "PORTLAND",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 701777
+    },
+    {
+      "org_name_display": "Artist Mentorship Program",
+      "org_addr_city": "PORTLAND",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 654031
+    },
+    {
+      "org_name_display": "Carry It Forward",
+      "org_addr_city": "EUGENE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 603259
+    },
+    {
+      "org_name_display": "Lgbtq Community Center Fund",
+      "org_addr_city": "PORTLAND",
+      "ntee_code_definition": "Educational Services and Schools - Other",
+      "revenue_amount": 438740
+    },
+    {
+      "org_name_display": "Encompass Yamhill Valley",
+      "org_addr_city": "MCMINNVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 375109
+    },
+    {
+      "org_name_display": "Oregon Trail Of Hope",
+      "org_addr_city": "PORTLAND",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 360635
+    },
+    {
+      "org_name_display": "Gather Make Shelter",
+      "org_addr_city": "PORTLAND",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 324978
+    }
+  ]
+}

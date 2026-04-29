@@ -1,0 +1,266 @@
+{
+  "fips": "01",
+  "name": "Alabama",
+  "abbr": "AL",
+  "year": 2024,
+  "scores": {
+    "legal": 11.5,
+    "safety": 55.0,
+    "health": 31.7,
+    "economic": 33.2,
+    "community": 30.2,
+    "youth": 33.5,
+    "overall": 30.4,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 1,
+    "state_name": "Alabama",
+    "state_abbr": "AL",
+    "year": 2024,
+    "lgbtq_pop": 173000,
+    "lgbtq_pct": 4.6,
+    "same_sex_hh": 12170,
+    "trans_pop": 11245,
+    "trans_pct": 0.299
+  },
+  "legal_detail": {
+    "state_fips": 1,
+    "year": 2024,
+    "map_total_score": 25,
+    "overall_climate": "Attempting to Legislate Exclusion",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": false,
+    "preemption_law": false,
+    "bills_passed_against": 9
+  },
+  "safety_detail": {
+    "state_fips": 1,
+    "year": 2024,
+    "so_incidents": 17,
+    "gi_incidents": 12,
+    "so_per_100k": 9.826589595375722,
+    "gi_per_100k": 6.936416184971098,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 1,
+    "year": 2024,
+    "depression_pct": 38.0,
+    "healthcare_avoidance_pct": 52.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 23.0
+  },
+  "economic_detail": {
+    "state_fips": 1,
+    "year": 2024,
+    "lgbtq_poverty_pct": 22.1,
+    "income_gap_pct": -20.0,
+    "housing_instability_pct": 18.0
+  },
+  "community_detail": {
+    "state_fips": 1,
+    "year": 2024,
+    "lgbtq_orgs_count": 49,
+    "lgbtq_orgs_per_100k": 28.32369942196532,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 1,
+    "year": 2024,
+    "suicidality_pct": 38.0,
+    "school_safety_score": 27.0,
+    "gsa_presence_pct": 27.0,
+    "conversion_therapy_exposure_pct": 5.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 30.4
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "AL-birmingham-al",
+      "city_name": "Birmingham",
+      "state_fips": 1,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "AL-montgomery-al",
+      "city_name": "Montgomery",
+      "state_fips": 1,
+      "year": 2025,
+      "mei_score": 37,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "AL-mobile-al",
+      "city_name": "Mobile",
+      "state_fips": 1,
+      "year": 2025,
+      "mei_score": 36,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "AL-tuscaloosa-al",
+      "city_name": "Tuscaloosa",
+      "state_fips": 1,
+      "year": 2025,
+      "mei_score": 27,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "AL-huntsville-al",
+      "city_name": "Huntsville",
+      "state_fips": 1,
+      "year": 2025,
+      "mei_score": 26,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Transgender Advocates Knowledgeable Empowering",
+      "org_addr_city": "BIRMINGHAM",
+      "ntee_code_definition": "Centers to Support the Independence of Specific Populations",
+      "revenue_amount": 1503723
+    },
+    {
+      "org_name_display": "Pride Of Atmore",
+      "org_addr_city": "ATMORE",
+      "ntee_code_definition": "Public Foundations",
+      "revenue_amount": 956688
+    },
+    {
+      "org_name_display": "Family Promise Of Baldwin County",
+      "org_addr_city": "SUMMERDALE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 415836
+    },
+    {
+      "org_name_display": "Community On The Rise",
+      "org_addr_city": "BIRMINGHAM",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 277666
+    },
+    {
+      "org_name_display": "Central Alabama Pride",
+      "org_addr_city": "BIRMINGHAM",
+      "ntee_code_definition": "Alliance/Advocacy",
+      "revenue_amount": 190114
+    },
+    {
+      "org_name_display": "Family Promise Of Birmingham",
+      "org_addr_city": "BIRMINGHAM",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 150108
+    },
+    {
+      "org_name_display": "Big Red Pride",
+      "org_addr_city": "HUNTSVILLE",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 138492
+    },
+    {
+      "org_name_display": "Hands Across Decatur",
+      "org_addr_city": "DECATUR",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 135986
+    },
+    {
+      "org_name_display": "Life Resource Services Of Jackson County",
+      "org_addr_city": "SCOTTSBORO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 112008
+    },
+    {
+      "org_name_display": "Huntsville Community Of Hope",
+      "org_addr_city": "HUNTSVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 70424
+    },
+    {
+      "org_name_display": "Pride Music Association",
+      "org_addr_city": "RAINBOW CITY",
+      "ntee_code_definition": "Arts, Culture, and Humanities N.E.C.",
+      "revenue_amount": 61543
+    },
+    {
+      "org_name_display": "Montgomery Pride United",
+      "org_addr_city": "MONTGOMERY",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 46136
+    },
+    {
+      "org_name_display": "Love Foundation",
+      "org_addr_city": "MADISON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 5213
+    },
+    {
+      "org_name_display": "Hsv Hoop Therapy",
+      "org_addr_city": "HUNTSVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pantazis Foundation",
+      "org_addr_city": "VESTAVIA HLS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "House Of Faith One",
+      "org_addr_city": "MOBILE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Be Spoken Community",
+      "org_addr_city": "VESTAVIA HLS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Loving Hearts Ministry",
+      "org_addr_city": "WETUMPKA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Bread Of Heaven Ministries",
+      "org_addr_city": "MOBILE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Beyond Blessed Ministry",
+      "org_addr_city": "ATHENS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

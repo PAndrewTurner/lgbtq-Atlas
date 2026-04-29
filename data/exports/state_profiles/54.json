@@ -1,0 +1,266 @@
+{
+  "fips": "54",
+  "name": "West Virginia",
+  "abbr": "WV",
+  "year": 2024,
+  "scores": {
+    "legal": 25.0,
+    "safety": 49.0,
+    "health": 31.3,
+    "economic": 28.0,
+    "community": 69.4,
+    "youth": 37.5,
+    "overall": 39.0,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 54,
+    "state_name": "West Virginia",
+    "state_abbr": "WV",
+    "year": 2024,
+    "lgbtq_pop": 60000,
+    "lgbtq_pct": 4.1,
+    "same_sex_hh": 4938,
+    "trans_pop": 3900,
+    "trans_pct": 0.266
+  },
+  "legal_detail": {
+    "state_fips": 54,
+    "year": 2024,
+    "map_total_score": 45,
+    "overall_climate": "Stagnating",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": false,
+    "preemption_law": false,
+    "bills_passed_against": 35
+  },
+  "safety_detail": {
+    "state_fips": 54,
+    "year": 2024,
+    "so_incidents": 8,
+    "gi_incidents": 4,
+    "so_per_100k": 13.333333333333334,
+    "gi_per_100k": 6.666666666666667,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 54,
+    "year": 2024,
+    "depression_pct": 40.0,
+    "healthcare_avoidance_pct": 47.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 21.0
+  },
+  "economic_detail": {
+    "state_fips": 54,
+    "year": 2024,
+    "lgbtq_poverty_pct": 24.0,
+    "income_gap_pct": -22.0,
+    "housing_instability_pct": 19.0
+  },
+  "community_detail": {
+    "state_fips": 54,
+    "year": 2024,
+    "lgbtq_orgs_count": 32,
+    "lgbtq_orgs_per_100k": 53.333333333333336,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 54,
+    "year": 2024,
+    "suicidality_pct": 40.0,
+    "school_safety_score": 35.0,
+    "gsa_presence_pct": 35.0,
+    "conversion_therapy_exposure_pct": 4.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 39.0
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "WV-morgantown-wv",
+      "city_name": "Morgantown",
+      "state_fips": 54,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "WV-charleston-wv",
+      "city_name": "Charleston",
+      "state_fips": 54,
+      "year": 2025,
+      "mei_score": 96,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "WV-huntington-wv",
+      "city_name": "Huntington",
+      "state_fips": 54,
+      "year": 2025,
+      "mei_score": 93,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "WV-wheeling-wv",
+      "city_name": "Wheeling",
+      "state_fips": 54,
+      "year": 2025,
+      "mei_score": 62,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "WV-charles-town-wv",
+      "city_name": "Charles Town",
+      "state_fips": 54,
+      "year": 2025,
+      "mei_score": 48,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "West Virginia Coalition To End Homelessness",
+      "org_addr_city": "BRIDGEPORT",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 7775600
+    },
+    {
+      "org_name_display": "Pride Community Services",
+      "org_addr_city": "LOGAN",
+      "ntee_code_definition": "Rural Economic Development",
+      "revenue_amount": 7348983
+    },
+    {
+      "org_name_display": "Fort Gay Primary Health Care",
+      "org_addr_city": "FORT GAY",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 4524400
+    },
+    {
+      "org_name_display": "Cabell - Huntington Coalition For The Homeless",
+      "org_addr_city": "HUNTINGTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2237524
+    },
+    {
+      "org_name_display": "Fairness Wv Institute",
+      "org_addr_city": "CHARLESTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 674165
+    },
+    {
+      "org_name_display": "Peak Living Services",
+      "org_addr_city": "CHARLESTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 603788
+    },
+    {
+      "org_name_display": "Life Hub",
+      "org_addr_city": "WHEELING",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 287844
+    },
+    {
+      "org_name_display": "Fairness West Virginia",
+      "org_addr_city": "CHARLESTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 236045
+    },
+    {
+      "org_name_display": "Warm A Heart Give A Bed",
+      "org_addr_city": "PRINCETON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 126571
+    },
+    {
+      "org_name_display": "Parkersburg Area Coalition For The Homeless",
+      "org_addr_city": "PARKERSBURG",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 93911
+    },
+    {
+      "org_name_display": "Rainbow Pride Of West Virginia",
+      "org_addr_city": "CHARLESTON",
+      "ntee_code_definition": "Fairs",
+      "revenue_amount": 87609
+    },
+    {
+      "org_name_display": "Morgan County Homeless Coalition",
+      "org_addr_city": "BERKELEY SPRINGS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 71629
+    },
+    {
+      "org_name_display": "Pride Band Boosters",
+      "org_addr_city": "CHARLESTON",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 53261
+    },
+    {
+      "org_name_display": "Homestead Haven Foundation",
+      "org_addr_city": "HOLDEN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Beckley Pride",
+      "org_addr_city": "BECKLEY",
+      "ntee_code_definition": "Alliance/Advocacy",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Footprint Outreach",
+      "org_addr_city": "S CHARLESTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Parkersburg Pride",
+      "org_addr_city": "PARKERSBURG",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Country Town Pride",
+      "org_addr_city": "MULLENS",
+      "ntee_code_definition": "Economic Development",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Northern Ohio West Virginia Pride",
+      "org_addr_city": "FOLLANSBEE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Berkeley County Pride Of West Virgi Nia",
+      "org_addr_city": "MARTINSBURG",
+      "ntee_code_definition": "Public, Society Benefit N.E.C.",
+      "revenue_amount": 0
+    }
+  ]
+}

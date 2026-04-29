@@ -1,0 +1,266 @@
+{
+  "fips": "06",
+  "name": "California",
+  "abbr": "CA",
+  "year": 2024,
+  "scores": {
+    "legal": 79.5,
+    "safety": 26.7,
+    "health": 35.7,
+    "economic": 61.1,
+    "community": 89.4,
+    "youth": 47.6,
+    "overall": 58.8,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 6,
+    "state_name": "California",
+    "state_abbr": "CA",
+    "year": 2024,
+    "lgbtq_pop": 1549600,
+    "lgbtq_pct": 5.1,
+    "same_sex_hh": 164869,
+    "trans_pop": 100724,
+    "trans_pct": 0.331
+  },
+  "legal_detail": {
+    "state_fips": 6,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 7
+  },
+  "safety_detail": {
+    "state_fips": 6,
+    "year": 2024,
+    "so_incidents": 481,
+    "gi_incidents": 92,
+    "so_per_100k": 31.040268456375838,
+    "gi_per_100k": 5.937016004130098,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 6,
+    "year": 2024,
+    "depression_pct": 35.0,
+    "healthcare_avoidance_pct": 50.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 27.0
+  },
+  "economic_detail": {
+    "state_fips": 6,
+    "year": 2024,
+    "lgbtq_poverty_pct": 14.2,
+    "income_gap_pct": -8.0,
+    "housing_instability_pct": 11.0
+  },
+  "community_detail": {
+    "state_fips": 6,
+    "year": 2024,
+    "lgbtq_orgs_count": 698,
+    "lgbtq_orgs_per_100k": 45.043882292204444,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 6,
+    "year": 2024,
+    "suicidality_pct": 35.0,
+    "school_safety_score": 49.0,
+    "gsa_presence_pct": 49.0,
+    "conversion_therapy_exposure_pct": 4.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 58.8
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "CA-berkeley-ca",
+      "city_name": "Berkeley",
+      "state_fips": 6,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "CA-cathedral-city-ca",
+      "city_name": "Cathedral City",
+      "state_fips": 6,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "CA-chula-vista-ca",
+      "city_name": "Chula Vista",
+      "state_fips": 6,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "CA-elk-grove-ca",
+      "city_name": "Elk Grove",
+      "state_fips": 6,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "CA-irvine-ca",
+      "city_name": "Irvine",
+      "state_fips": 6,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Pride Industries",
+      "org_addr_city": "ROSEVILLE",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 295854580
+    },
+    {
+      "org_name_display": "Pride Industries One",
+      "org_addr_city": "ROSEVILLE",
+      "ntee_code_definition": "Vocational Rehabilitation",
+      "revenue_amount": 213922733
+    },
+    {
+      "org_name_display": "Los Angeles Lgbt Center",
+      "org_addr_city": "LOS ANGELES",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 211510542
+    },
+    {
+      "org_name_display": "Episcopal Community Services Of San Francis",
+      "org_addr_city": "SAN FRANCISCO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 67718850
+    },
+    {
+      "org_name_display": "Illumination Health Home",
+      "org_addr_city": "SANTA ANA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 61633147
+    },
+    {
+      "org_name_display": "Union Station Homeless Services",
+      "org_addr_city": "PASADENA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 41163715
+    },
+    {
+      "org_name_display": "Sacramento Steps Forward",
+      "org_addr_city": "SACRAMENTO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 24261724
+    },
+    {
+      "org_name_display": "Transportation Communications Intl Unin La Met Trans Auth Hlth Wel",
+      "org_addr_city": "LOS ANGELES",
+      "ntee_code_definition": "Voluntary Employees Beneficiary Associations (Non-Government)",
+      "revenue_amount": 23388295
+    },
+    {
+      "org_name_display": "Homeless Health Care Los Angeles",
+      "org_addr_city": "LOS ANGELES",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 20598177
+    },
+    {
+      "org_name_display": "Transgender Law Center",
+      "org_addr_city": "OAKLAND",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 15659809
+    },
+    {
+      "org_name_display": "The Translatin Coalition",
+      "org_addr_city": "LOS ANGELES",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 12509783
+    },
+    {
+      "org_name_display": "San Diego Lesbian Gay Bisexual And Transgender Community Center",
+      "org_addr_city": "SAN DIEGO",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 11631708
+    },
+    {
+      "org_name_display": "Lgbt Benefit Plan",
+      "org_addr_city": "PASADENA",
+      "ntee_code_definition": "Voluntary Employees Beneficiary Associations (Government)",
+      "revenue_amount": 10076042
+    },
+    {
+      "org_name_display": "Society St Vincent De Paul Alameda",
+      "org_addr_city": "OAKLAND",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 9485822
+    },
+    {
+      "org_name_display": "North Valley Caring Services",
+      "org_addr_city": "NORTH HILLS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 9340539
+    },
+    {
+      "org_name_display": "Gathering Inn",
+      "org_addr_city": "ROCKLIN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 8577984
+    },
+    {
+      "org_name_display": "Sacramento Lgbt Community Center",
+      "org_addr_city": "SACRAMENTO",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 7319128
+    },
+    {
+      "org_name_display": "Bakersfield-Kern Regional Home",
+      "org_addr_city": "BAKERSFIELD",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 7033749
+    },
+    {
+      "org_name_display": "San Francisco Lesbian Gay Bisexual Transgender Community Center",
+      "org_addr_city": "SAN FRANCISCO",
+      "ntee_code_definition": "Community, Neighborhood Development",
+      "revenue_amount": 6338324
+    },
+    {
+      "org_name_display": "Uplift All Foundation",
+      "org_addr_city": "STOCKTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 5418769
+    }
+  ]
+}

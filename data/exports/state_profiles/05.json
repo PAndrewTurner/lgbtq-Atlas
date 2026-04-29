@@ -1,0 +1,266 @@
+{
+  "fips": "05",
+  "name": "Arkansas",
+  "abbr": "AR",
+  "year": 2024,
+  "scores": {
+    "legal": 5.0,
+    "safety": 91.6,
+    "health": 21.7,
+    "economic": 28.8,
+    "community": 43.9,
+    "youth": 35.0,
+    "overall": 36.0,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 5,
+    "state_name": "Arkansas",
+    "state_abbr": "AR",
+    "year": 2024,
+    "lgbtq_pop": 121900,
+    "lgbtq_pct": 5.3,
+    "same_sex_hh": 7370,
+    "trans_pop": 7924,
+    "trans_pct": 0.344
+  },
+  "legal_detail": {
+    "state_fips": 5,
+    "year": 2024,
+    "map_total_score": 25,
+    "overall_climate": "Attempting to Legislate Exclusion",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": false,
+    "preemption_law": true,
+    "bills_passed_against": 14
+  },
+  "safety_detail": {
+    "state_fips": 5,
+    "year": 2024,
+    "so_incidents": 3,
+    "gi_incidents": 0,
+    "so_per_100k": 2.461033634126333,
+    "gi_per_100k": 0.0,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 5,
+    "year": 2024,
+    "depression_pct": 45.0,
+    "healthcare_avoidance_pct": 66.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 21.0
+  },
+  "economic_detail": {
+    "state_fips": 5,
+    "year": 2024,
+    "lgbtq_poverty_pct": 23.4,
+    "income_gap_pct": -22.0,
+    "housing_instability_pct": 19.0
+  },
+  "community_detail": {
+    "state_fips": 5,
+    "year": 2024,
+    "lgbtq_orgs_count": 42,
+    "lgbtq_orgs_per_100k": 34.454470877768664,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 5,
+    "year": 2024,
+    "suicidality_pct": 45.0,
+    "school_safety_score": 30.0,
+    "gsa_presence_pct": 30.0,
+    "conversion_therapy_exposure_pct": 4.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 36.0
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "AR-little-rock-ar",
+      "city_name": "Little Rock",
+      "state_fips": 5,
+      "year": 2025,
+      "mei_score": 51,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "AR-fayetteville-ar",
+      "city_name": "Fayetteville",
+      "state_fips": 5,
+      "year": 2025,
+      "mei_score": 38,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "AR-conway-ar",
+      "city_name": "Conway",
+      "state_fips": 5,
+      "year": 2025,
+      "mei_score": 26,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "AR-eureka-springs-ar",
+      "city_name": "Eureka Springs",
+      "state_fips": 5,
+      "year": 2025,
+      "mei_score": 26,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "AR-fort-smith-ar",
+      "city_name": "Fort Smith",
+      "state_fips": 5,
+      "year": 2025,
+      "mei_score": 26,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Seven Hills Homeless Center",
+      "org_addr_city": "FAYETTEVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1091355
+    },
+    {
+      "org_name_display": "Jeremiah Recovery House",
+      "org_addr_city": "BERRYVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1031010
+    },
+    {
+      "org_name_display": "Neighbor To Neighbor",
+      "org_addr_city": "PINE BLUFF",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 910835
+    },
+    {
+      "org_name_display": "Potters Clay Ministries",
+      "org_addr_city": "HOT SPRINGS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 523558
+    },
+    {
+      "org_name_display": "Northwest Arkansas Equality",
+      "org_addr_city": "FAYETTEVILLE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 398471
+    },
+    {
+      "org_name_display": "Hope-In-Action",
+      "org_addr_city": "HOPE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 124779
+    },
+    {
+      "org_name_display": "Hope Works Job Experience Program",
+      "org_addr_city": "HOT SPRINGS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 100081
+    },
+    {
+      "org_name_display": "Equality Crew",
+      "org_addr_city": "ROGERS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 63258
+    },
+    {
+      "org_name_display": "Central Arkansas Pride",
+      "org_addr_city": "LITTLE ROCK",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 54556
+    },
+    {
+      "org_name_display": "Lula Mae S Day Center",
+      "org_addr_city": "PINE BLUFF",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 23575
+    },
+    {
+      "org_name_display": "El Dorado Pride Foundation",
+      "org_addr_city": "EL DORADO",
+      "ntee_code_definition": "Research Institutes and Public Policy Analysis",
+      "revenue_amount": 1825
+    },
+    {
+      "org_name_display": "River Valley Pride",
+      "org_addr_city": "FORT SMITH",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Gay Business Guild Of Eureka Springs",
+      "org_addr_city": "EUREKA SPGS",
+      "ntee_code_definition": "Mutual/Membership Benefit N.E.C.",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "2 Fish & 5 Loaves",
+      "org_addr_city": "JONESBORO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "His Mercy Houses",
+      "org_addr_city": "JONESBORO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Meka Kares",
+      "org_addr_city": "LITTLE ROCK",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pride Of Arkansas Booster Club",
+      "org_addr_city": "FAYETTEVILLE",
+      "ntee_code_definition": "Fund Raising and Fund Distribution",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pride Of Heritage Band Boosters",
+      "org_addr_city": "ROGERS",
+      "ntee_code_definition": "Parent/Teacher Group",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Dream Again",
+      "org_addr_city": "POTTSVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Saline County Pride",
+      "org_addr_city": "BRYANT",
+      "ntee_code_definition": "Alliance/Advocacy Organizations",
+      "revenue_amount": 0
+    }
+  ]
+}

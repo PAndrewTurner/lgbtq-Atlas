@@ -1,0 +1,266 @@
+{
+  "fips": "34",
+  "name": "New Jersey",
+  "abbr": "NJ",
+  "year": 2024,
+  "scores": {
+    "legal": 70.0,
+    "safety": 12.6,
+    "health": 38.7,
+    "economic": 64.7,
+    "community": 32.9,
+    "youth": 47.8,
+    "overall": 45.5,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 34,
+    "state_name": "New Jersey",
+    "state_abbr": "NJ",
+    "year": 2024,
+    "lgbtq_pop": 367300,
+    "lgbtq_pct": 5.3,
+    "same_sex_hh": 28621,
+    "trans_pop": 23874,
+    "trans_pct": 0.344
+  },
+  "legal_detail": {
+    "state_fips": 34,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 18
+  },
+  "safety_detail": {
+    "state_fips": 34,
+    "year": 2024,
+    "so_incidents": 165,
+    "gi_incidents": 48,
+    "so_per_100k": 44.92240675197386,
+    "gi_per_100k": 13.068336509665125,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 34,
+    "year": 2024,
+    "depression_pct": 34.0,
+    "healthcare_avoidance_pct": 45.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 29.0
+  },
+  "economic_detail": {
+    "state_fips": 34,
+    "year": 2024,
+    "lgbtq_poverty_pct": 13.0,
+    "income_gap_pct": -7.0,
+    "housing_instability_pct": 10.0
+  },
+  "community_detail": {
+    "state_fips": 34,
+    "year": 2024,
+    "lgbtq_orgs_count": 95,
+    "lgbtq_orgs_per_100k": 25.864416008712226,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 34,
+    "year": 2024,
+    "suicidality_pct": 34.0,
+    "school_safety_score": 48.0,
+    "gsa_presence_pct": 48.0,
+    "conversion_therapy_exposure_pct": 4.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 45.5
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "NJ-asbury-park-nj",
+      "city_name": "Asbury Park",
+      "state_fips": 34,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NJ-hoboken-nj",
+      "city_name": "Hoboken",
+      "state_fips": 34,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NJ-jersey-city-nj",
+      "city_name": "Jersey City",
+      "state_fips": 34,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NJ-montclair-nj",
+      "city_name": "Montclair",
+      "state_fips": 34,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NJ-princeton-nj",
+      "city_name": "Princeton",
+      "state_fips": 34,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Crossroads Programs",
+      "org_addr_city": "WILLINGBORO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 12478531
+    },
+    {
+      "org_name_display": "Pride Academy Charter School",
+      "org_addr_city": "EAST ORANGE",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 8239405
+    },
+    {
+      "org_name_display": "Eclc Of New Jersey Pride Day Program",
+      "org_addr_city": "CHATHAM",
+      "ntee_code_definition": "Educational Services and Schools - Other",
+      "revenue_amount": 4268252
+    },
+    {
+      "org_name_display": "Homes By Tlc",
+      "org_addr_city": "LAWRENCEVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2986212
+    },
+    {
+      "org_name_display": "Nj Coalition To End Homelessness - A New Jersey Nonprofit",
+      "org_addr_city": "PRINCETON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2188893
+    },
+    {
+      "org_name_display": "Family Promise Of The Jersey Shore",
+      "org_addr_city": "WEST CREEK",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1583300
+    },
+    {
+      "org_name_display": "Art Pride New Jersey Foundation",
+      "org_addr_city": "BURLINGTON",
+      "ntee_code_definition": "Arts Council/Agency",
+      "revenue_amount": 1424345
+    },
+    {
+      "org_name_display": "Coming Home Of Middlesex County",
+      "org_addr_city": "MILLTOWN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1008524
+    },
+    {
+      "org_name_display": "Helping The Homeless",
+      "org_addr_city": "NEWARK",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 604699
+    },
+    {
+      "org_name_display": "Christ Church Community Development",
+      "org_addr_city": "HACKENSACK",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 586363
+    },
+    {
+      "org_name_display": "Out Montclair",
+      "org_addr_city": "MONTCLAIR",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 459855
+    },
+    {
+      "org_name_display": "Sam & Devorah Foundation For Trans Youth",
+      "org_addr_city": "CHATHAM",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 434848
+    },
+    {
+      "org_name_display": "Friends Of Pride Academy Charter School",
+      "org_addr_city": "EAST ORANGE",
+      "ntee_code_definition": "Nonmonetary Support N.E.C.",
+      "revenue_amount": 431571
+    },
+    {
+      "org_name_display": "Perth Amboy Young Mens Christian Association",
+      "org_addr_city": "PERTH AMBOY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 402779
+    },
+    {
+      "org_name_display": "New Jersey Lesbian Gay Bisexual & Transgender Chamber Of Commerce",
+      "org_addr_city": "WAYNE",
+      "ntee_code_definition": "Chambers of Commerce & Business Leagues",
+      "revenue_amount": 271994
+    },
+    {
+      "org_name_display": "Family Promise Of Hudson County A New NJ Nonprofit",
+      "org_addr_city": "JERSEY CITY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 249798
+    },
+    {
+      "org_name_display": "Pride Ventures",
+      "org_addr_city": "MEDFORD",
+      "ntee_code_definition": "Vocational Rehabilitation",
+      "revenue_amount": 112513
+    },
+    {
+      "org_name_display": "Newark Pride",
+      "org_addr_city": "NEWARK",
+      "ntee_code_definition": "Centers to Support the Independence of Specific Populations",
+      "revenue_amount": 106505
+    },
+    {
+      "org_name_display": "Pride Network",
+      "org_addr_city": "NEWARK",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 100327
+    },
+    {
+      "org_name_display": "Pride Center Of New Jersey",
+      "org_addr_city": "HIGHLAND PARK",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 91898
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "fips": "22",
+  "name": "Louisiana",
+  "abbr": "LA",
+  "year": 2024,
+  "scores": {
+    "legal": 39.0,
+    "safety": 85.3,
+    "health": 33.7,
+    "economic": 24.7,
+    "community": 23.9,
+    "youth": 42.2,
+    "overall": 44.1,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 22,
+    "state_name": "Louisiana",
+    "state_abbr": "LA",
+    "year": 2024,
+    "lgbtq_pop": 202600,
+    "lgbtq_pct": 5.7,
+    "same_sex_hh": 13824,
+    "trans_pop": 13169,
+    "trans_pct": 0.371
+  },
+  "legal_detail": {
+    "state_fips": 22,
+    "year": 2024,
+    "map_total_score": 45,
+    "overall_climate": "Stagnating",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 4
+  },
+  "safety_detail": {
+    "state_fips": 22,
+    "year": 2024,
+    "so_incidents": 9,
+    "gi_incidents": 0,
+    "so_per_100k": 4.4422507403751235,
+    "gi_per_100k": 0.0,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 22,
+    "year": 2024,
+    "depression_pct": 32.0,
+    "healthcare_avoidance_pct": 58.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 23.0
+  },
+  "economic_detail": {
+    "state_fips": 22,
+    "year": 2024,
+    "lgbtq_poverty_pct": 25.3,
+    "income_gap_pct": -23.0,
+    "housing_instability_pct": 20.0
+  },
+  "community_detail": {
+    "state_fips": 22,
+    "year": 2024,
+    "lgbtq_orgs_count": 52,
+    "lgbtq_orgs_per_100k": 25.666337611056267,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 22,
+    "year": 2024,
+    "suicidality_pct": 32.0,
+    "school_safety_score": 37.0,
+    "gsa_presence_pct": 37.0,
+    "conversion_therapy_exposure_pct": 5.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 44.1
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "LA-new-orleans-la",
+      "city_name": "New Orleans",
+      "state_fips": 22,
+      "year": 2025,
+      "mei_score": 88,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "LA-shreveport-la",
+      "city_name": "Shreveport",
+      "state_fips": 22,
+      "year": 2025,
+      "mei_score": 66,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "LA-baton-rouge-la",
+      "city_name": "Baton Rouge",
+      "state_fips": 22,
+      "year": 2025,
+      "mei_score": 27,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "LA-alexandria-la",
+      "city_name": "Alexandria",
+      "state_fips": 22,
+      "year": 2025,
+      "mei_score": 19,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "LA-lake-charles-la",
+      "city_name": "Lake Charles",
+      "state_fips": 22,
+      "year": 2025,
+      "mei_score": 14,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Pride And Hope Ministry & Activity Center",
+      "org_addr_city": "ANGIE",
+      "ntee_code_definition": "Youth Development Programs",
+      "revenue_amount": 4220860
+    },
+    {
+      "org_name_display": "Alternatives Living",
+      "org_addr_city": "NEW ORLEANS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1847960
+    },
+    {
+      "org_name_display": "Pride Community Association",
+      "org_addr_city": "TALLULAH",
+      "ntee_code_definition": "Low-Income & Subsidized Rental Housing",
+      "revenue_amount": 133464
+    },
+    {
+      "org_name_display": "Pride Youth And Community Resources",
+      "org_addr_city": "MANDEVILLE",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 122140
+    },
+    {
+      "org_name_display": "Crescent City Cafe",
+      "org_addr_city": "NEW ORLEANS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 120373
+    },
+    {
+      "org_name_display": "Two Penny Missions",
+      "org_addr_city": "WEST MONROE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 113270
+    },
+    {
+      "org_name_display": "Louisiana Trans Advocates",
+      "org_addr_city": "BATON ROUGE",
+      "ntee_code_definition": "Alliance/Advocacy Organizations",
+      "revenue_amount": 108153
+    },
+    {
+      "org_name_display": "Forum For Equality Foundation",
+      "org_addr_city": "NEW ORLEANS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 98150
+    },
+    {
+      "org_name_display": "New Orleans Pride Center",
+      "org_addr_city": "NEW ORLEANS",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 89479
+    },
+    {
+      "org_name_display": "Pride Of Cajunland Band Booster Organization",
+      "org_addr_city": "NEW IBERIA",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 45528
+    },
+    {
+      "org_name_display": "Jacket Pride",
+      "org_addr_city": "SHREVEPORT",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 17138
+    },
+    {
+      "org_name_display": "Harry Tompson Center Support",
+      "org_addr_city": "NEW ORLEANS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Gay And Lesbian Chamber Of Commerce Gulf South",
+      "org_addr_city": "NEW ORLEANS",
+      "ntee_code_definition": "Business and Industry",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Forum For Equality Louisiana",
+      "org_addr_city": "NEW ORLEANS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Brandon Mason Project - Feeding Hope",
+      "org_addr_city": "LAFAYETTE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "One In A Million Doors Outreach Min Istry",
+      "org_addr_city": "HARVEY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Rosepine Purple Pride Band Boosters",
+      "org_addr_city": "ROSEPINE",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Patriot Pride Football Booster Club",
+      "org_addr_city": "BATON ROUGE",
+      "ntee_code_definition": "Fund Raising and Fund Distribution",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "U R Home Foundation",
+      "org_addr_city": "LAFAYETTE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Queer Louisiana",
+      "org_addr_city": "MADISONVILLE",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

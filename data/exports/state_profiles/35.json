@@ -1,0 +1,266 @@
+{
+  "fips": "35",
+  "name": "New Mexico",
+  "abbr": "NM",
+  "year": 2024,
+  "scores": {
+    "legal": 78.0,
+    "safety": 58.9,
+    "health": 27.7,
+    "economic": 38.0,
+    "community": 51.4,
+    "youth": 38.2,
+    "overall": 54.7,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 35,
+    "state_name": "New Mexico",
+    "state_abbr": "NM",
+    "year": 2024,
+    "lgbtq_pop": 87600,
+    "lgbtq_pct": 5.5,
+    "same_sex_hh": 9942,
+    "trans_pop": 5694,
+    "trans_pct": 0.358
+  },
+  "legal_detail": {
+    "state_fips": 35,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 8
+  },
+  "safety_detail": {
+    "state_fips": 35,
+    "year": 2024,
+    "so_incidents": 5,
+    "gi_incidents": 8,
+    "so_per_100k": 5.707762557077626,
+    "gi_per_100k": 9.132420091324201,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 35,
+    "year": 2024,
+    "depression_pct": 43.0,
+    "healthcare_avoidance_pct": 53.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 22.0
+  },
+  "economic_detail": {
+    "state_fips": 35,
+    "year": 2024,
+    "lgbtq_poverty_pct": 20.5,
+    "income_gap_pct": -18.0,
+    "housing_instability_pct": 17.0
+  },
+  "community_detail": {
+    "state_fips": 35,
+    "year": 2024,
+    "lgbtq_orgs_count": 34,
+    "lgbtq_orgs_per_100k": 38.81278538812786,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 35,
+    "year": 2024,
+    "suicidality_pct": 43.0,
+    "school_safety_score": 39.0,
+    "gsa_presence_pct": 39.0,
+    "conversion_therapy_exposure_pct": 5.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 54.7
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "NM-albuquerque-nm",
+      "city_name": "Albuquerque",
+      "state_fips": 35,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NM-las-cruces-nm",
+      "city_name": "Las Cruces",
+      "state_fips": 35,
+      "year": 2025,
+      "mei_score": 94,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NM-eldorado-at-santa-fe-nm",
+      "city_name": "Eldorado at Santa Fe",
+      "state_fips": 35,
+      "year": 2025,
+      "mei_score": 68,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NM-rio-rancho-nm",
+      "city_name": "Rio Rancho",
+      "state_fips": 35,
+      "year": 2025,
+      "mei_score": 61,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NM-roswell-nm",
+      "city_name": "Roswell",
+      "state_fips": 35,
+      "year": 2025,
+      "mei_score": 60,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Albuquerque Health Care For The Homeless",
+      "org_addr_city": "ALBUQUERQUE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 10724596
+    },
+    {
+      "org_name_display": "Transgender Resource Center Of New Mexi",
+      "org_addr_city": "ALBUQUERQUE",
+      "ntee_code_definition": "Human Services N.E.C.",
+      "revenue_amount": 2667305
+    },
+    {
+      "org_name_display": "Casa De Peregrinos",
+      "org_addr_city": "LAS CRUCES",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1445371
+    },
+    {
+      "org_name_display": "Ride To Pride Partnership",
+      "org_addr_city": "LAS VEGAS",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 832707
+    },
+    {
+      "org_name_display": "Espanola Pathways Shelter",
+      "org_addr_city": "ESPANOLA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 690054
+    },
+    {
+      "org_name_display": "People Assisting The Homeless",
+      "org_addr_city": "FARMINGTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 654098
+    },
+    {
+      "org_name_display": "Family Promise Of Albuquerque",
+      "org_addr_city": "ALBUQUERQUE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 601426
+    },
+    {
+      "org_name_display": "New Mexico Gay Mens Chorus",
+      "org_addr_city": "ALBUQUERQUE",
+      "ntee_code_definition": "Singing, Choral",
+      "revenue_amount": 344098
+    },
+    {
+      "org_name_display": "Health Equity Alliance For Lgbtq New Mexicans",
+      "org_addr_city": "ALBUQUERQUE",
+      "ntee_code_definition": "Public Health Program (Includes General Health and Wellness Promotion Services)",
+      "revenue_amount": 237024
+    },
+    {
+      "org_name_display": "Human Rights Alliance",
+      "org_addr_city": "SANTA",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 236233
+    },
+    {
+      "org_name_display": "Albuquerque Pride",
+      "org_addr_city": "ALBUQUERQUE",
+      "ntee_code_definition": "Commemorative Events",
+      "revenue_amount": 218764
+    },
+    {
+      "org_name_display": "Next Step Ministries",
+      "org_addr_city": "ALBUQUERQUE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 179385
+    },
+    {
+      "org_name_display": "Puerto Seguro",
+      "org_addr_city": "SOCORRO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 151970
+    },
+    {
+      "org_name_display": "Deming Silver Linings",
+      "org_addr_city": "DEMING",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 149308
+    },
+    {
+      "org_name_display": "Equality New Mexi",
+      "org_addr_city": "ALBUQUERQUE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 120726
+    },
+    {
+      "org_name_display": "Warrior Pride Boosters",
+      "org_addr_city": "RUIDOSO",
+      "ntee_code_definition": "Fund Raising and/or Fund Distribution",
+      "revenue_amount": 43899
+    },
+    {
+      "org_name_display": "Open Arms Santa Fe",
+      "org_addr_city": "SANTA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "New Mexico Gay Rodeo Association",
+      "org_addr_city": "SANTA",
+      "ntee_code_definition": "Amateur Sports Competitions",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Disability Pride New Mexi",
+      "org_addr_city": "SANTA",
+      "ntee_code_definition": "Disabled Persons' Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Food For Faith",
+      "org_addr_city": "ANTHONY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

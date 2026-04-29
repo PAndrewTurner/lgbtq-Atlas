@@ -1,0 +1,266 @@
+{
+  "fips": "20",
+  "name": "Kansas",
+  "abbr": "KS",
+  "year": 2024,
+  "scores": {
+    "legal": 56.0,
+    "safety": 45.0,
+    "health": 35.3,
+    "economic": 50.7,
+    "community": 75.3,
+    "youth": 37.9,
+    "overall": 51.2,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 20,
+    "state_name": "Kansas",
+    "state_abbr": "KS",
+    "year": 2024,
+    "lgbtq_pop": 129800,
+    "lgbtq_pct": 5.9,
+    "same_sex_hh": 8882,
+    "trans_pop": 8437,
+    "trans_pct": 0.384
+  },
+  "legal_detail": {
+    "state_fips": 20,
+    "year": 2024,
+    "map_total_score": 65,
+    "overall_climate": "Working Toward Inclusion",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 6
+  },
+  "safety_detail": {
+    "state_fips": 20,
+    "year": 2024,
+    "so_incidents": 24,
+    "gi_incidents": 5,
+    "so_per_100k": 18.489984591679505,
+    "gi_per_100k": 3.852080123266564,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 20,
+    "year": 2024,
+    "depression_pct": 39.0,
+    "healthcare_avoidance_pct": 46.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 30.0
+  },
+  "economic_detail": {
+    "state_fips": 20,
+    "year": 2024,
+    "lgbtq_poverty_pct": 17.0,
+    "income_gap_pct": -14.0,
+    "housing_instability_pct": 13.0
+  },
+  "community_detail": {
+    "state_fips": 20,
+    "year": 2024,
+    "lgbtq_orgs_count": 64,
+    "lgbtq_orgs_per_100k": 49.306625577812014,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 20,
+    "year": 2024,
+    "suicidality_pct": 39.0,
+    "school_safety_score": 37.0,
+    "gsa_presence_pct": 37.0,
+    "conversion_therapy_exposure_pct": 5.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 51.2
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "KS-lawrence-ks",
+      "city_name": "Lawrence",
+      "state_fips": 20,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "KS-topeka-ks",
+      "city_name": "Topeka",
+      "state_fips": 20,
+      "year": 2025,
+      "mei_score": 93,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "KS-overland-park-ks",
+      "city_name": "Overland Park",
+      "state_fips": 20,
+      "year": 2025,
+      "mei_score": 91,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "KS-wichita-ks",
+      "city_name": "Wichita",
+      "state_fips": 20,
+      "year": 2025,
+      "mei_score": 89,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "KS-manhattan-ks",
+      "city_name": "Manhattan",
+      "state_fips": 20,
+      "year": 2025,
+      "mei_score": 78,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Midwest Lifeline",
+      "org_addr_city": "OVERLAND PARK",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2014277
+    },
+    {
+      "org_name_display": "Family Promise Of Lawrence",
+      "org_addr_city": "LAWRENCE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1879460
+    },
+    {
+      "org_name_display": "Transgender Film Center",
+      "org_addr_city": "WICHITA",
+      "ntee_code_definition": "Film, Video",
+      "revenue_amount": 406385
+    },
+    {
+      "org_name_display": "Pride Of Life",
+      "org_addr_city": "SUBLETTE",
+      "ntee_code_definition": "Senior Centers",
+      "revenue_amount": 195848
+    },
+    {
+      "org_name_display": "Russell Pride",
+      "org_addr_city": "RUSSELL",
+      "ntee_code_definition": "Community, Neighborhood Development",
+      "revenue_amount": 176389
+    },
+    {
+      "org_name_display": "Braided Haven",
+      "org_addr_city": "TOPEKA",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 171046
+    },
+    {
+      "org_name_display": "Olathe Northwest High School Raven Pride Band Boosters Foundation",
+      "org_addr_city": "OLATHE",
+      "ntee_code_definition": "Fund Raising and/or Fund Distribution",
+      "revenue_amount": 151157
+    },
+    {
+      "org_name_display": "Barefoot Mission",
+      "org_addr_city": "KANSAS CITY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 137664
+    },
+    {
+      "org_name_display": "Gather The Outcasts",
+      "org_addr_city": "CLAYTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 118462
+    },
+    {
+      "org_name_display": "Homeless Resource Center",
+      "org_addr_city": "LAWRENCE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 115010
+    },
+    {
+      "org_name_display": "Culture Creations",
+      "org_addr_city": "WICHITA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 82216
+    },
+    {
+      "org_name_display": "Wichita Pride",
+      "org_addr_city": "WICHITA",
+      "ntee_code_definition": "Civil Rights",
+      "revenue_amount": 69629
+    },
+    {
+      "org_name_display": "Olsburg Pride",
+      "org_addr_city": "OLSBURG",
+      "ntee_code_definition": "Parks and Playgrounds",
+      "revenue_amount": 61580
+    },
+    {
+      "org_name_display": "Olathe East Hawk Pride Band Boosters",
+      "org_addr_city": "OLATHE",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 59813
+    },
+    {
+      "org_name_display": "Lgbtq Foundation Of Kansas",
+      "org_addr_city": "TOPEKA",
+      "ntee_code_definition": "Alliance/Advocacy",
+      "revenue_amount": 54967
+    },
+    {
+      "org_name_display": "Hsh Homeless Ministry",
+      "org_addr_city": "INDEPENDENCE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 53804
+    },
+    {
+      "org_name_display": "Pride Ag Resources Foundation",
+      "org_addr_city": "DODGE CITY",
+      "ntee_code_definition": "Scholarships, Student Financial Aid Services, Awards",
+      "revenue_amount": 10352
+    },
+    {
+      "org_name_display": "Wyandotte Homeless Services Coalition",
+      "org_addr_city": "KANSAS CITY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Hays Pride",
+      "org_addr_city": "HAYS",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Proud Of Wichita The Lgbt Chamber Of Commerce",
+      "org_addr_city": "WICHITA",
+      "ntee_code_definition": "Chambers of Commerce & Business Leagues",
+      "revenue_amount": 0
+    }
+  ]
+}

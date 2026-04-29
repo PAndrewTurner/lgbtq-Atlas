@@ -1,0 +1,266 @@
+{
+  "fips": "25",
+  "name": "Massachusetts",
+  "abbr": "MA",
+  "year": 2024,
+  "scores": {
+    "legal": 81.0,
+    "safety": 36.3,
+    "health": 38.3,
+    "economic": 67.6,
+    "community": 66.3,
+    "youth": 44.4,
+    "overall": 58.4,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 25,
+    "state_name": "Massachusetts",
+    "state_abbr": "MA",
+    "year": 2024,
+    "lgbtq_pop": 356200,
+    "lgbtq_pct": 6.5,
+    "same_sex_hh": 36747,
+    "trans_pop": 23153,
+    "trans_pct": 0.422
+  },
+  "legal_detail": {
+    "state_fips": 25,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 6
+  },
+  "safety_detail": {
+    "state_fips": 25,
+    "year": 2024,
+    "so_incidents": 82,
+    "gi_incidents": 19,
+    "so_per_100k": 23.020774845592364,
+    "gi_per_100k": 5.3340819764177425,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 25,
+    "year": 2024,
+    "depression_pct": 39.0,
+    "healthcare_avoidance_pct": 42.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 35.0
+  },
+  "economic_detail": {
+    "state_fips": 25,
+    "year": 2024,
+    "lgbtq_poverty_pct": 12.3,
+    "income_gap_pct": -6.0,
+    "housing_instability_pct": 9.0
+  },
+  "community_detail": {
+    "state_fips": 25,
+    "year": 2024,
+    "lgbtq_orgs_count": 128,
+    "lgbtq_orgs_per_100k": 35.93486805165637,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 25,
+    "year": 2024,
+    "suicidality_pct": 39.0,
+    "school_safety_score": 50.0,
+    "gsa_presence_pct": 50.0,
+    "conversion_therapy_exposure_pct": 5.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 58.4
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "MA-amherst-ma",
+      "city_name": "Amherst",
+      "state_fips": 25,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MA-boston-ma",
+      "city_name": "Boston",
+      "state_fips": 25,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MA-cambridge-ma",
+      "city_name": "Cambridge",
+      "state_fips": 25,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MA-northampton-ma",
+      "city_name": "Northampton",
+      "state_fips": 25,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MA-provincetown-ma",
+      "city_name": "Provincetown",
+      "state_fips": 25,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Pine Street Inn",
+      "org_addr_city": "BOSTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 100233677
+    },
+    {
+      "org_name_display": "Mental Health Association",
+      "org_addr_city": "CHICOPEE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 45372045
+    },
+    {
+      "org_name_display": "Housing Families",
+      "org_addr_city": "MALDEN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 29887956
+    },
+    {
+      "org_name_display": "Saint Francis House",
+      "org_addr_city": "BOSTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 24925363
+    },
+    {
+      "org_name_display": "Glbtq Legal Advocates & Defenders",
+      "org_addr_city": "BOSTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 10767148
+    },
+    {
+      "org_name_display": "Interseminarian-Project Place",
+      "org_addr_city": "BOSTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 4594957
+    },
+    {
+      "org_name_display": "Keshet",
+      "org_addr_city": "NEWTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 4508381
+    },
+    {
+      "org_name_display": "Homeless Prevention Council",
+      "org_addr_city": "ORLEANS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2332449
+    },
+    {
+      "org_name_display": "North Star Family Services",
+      "org_addr_city": "LEOMINSTER",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1885432
+    },
+    {
+      "org_name_display": "Massachusetts Lgbt Chamber Of Commerce",
+      "org_addr_city": "BOSTON",
+      "ntee_code_definition": "Chambers of Commerce & Business Leagues",
+      "revenue_amount": 1625450
+    },
+    {
+      "org_name_display": "Center For Black Brown And Queer Studies",
+      "org_addr_city": "CAMBRIDGE",
+      "ntee_code_definition": "Research Institutes and/or Public Policy Analysis",
+      "revenue_amount": 834681
+    },
+    {
+      "org_name_display": "Transgender Emergency Fund Of Ma",
+      "org_addr_city": "DORCHESTER",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 726756
+    },
+    {
+      "org_name_display": "Out Metrowest",
+      "org_addr_city": "FRAMINGHAM",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 708856
+    },
+    {
+      "org_name_display": "Lgbtq Senior Housing",
+      "org_addr_city": "HYDE PARK",
+      "ntee_code_definition": "Senior Citizens' Housing/Retirement Communities",
+      "revenue_amount": 686843
+    },
+    {
+      "org_name_display": "Harvard Gay & Lesbian Review",
+      "org_addr_city": "BOSTON",
+      "ntee_code_definition": "Printing, Publishing",
+      "revenue_amount": 557440
+    },
+    {
+      "org_name_display": "South Coast Lgbtq Network",
+      "org_addr_city": "NEW BEDFORD",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 534862
+    },
+    {
+      "org_name_display": "North Shore Alliance Of Gay & Lesbian Youth",
+      "org_addr_city": "SALEM",
+      "ntee_code_definition": "Youth Development Programs",
+      "revenue_amount": 407097
+    },
+    {
+      "org_name_display": "Sexual Minorities Uganda Usa",
+      "org_addr_city": "BOSTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 325415
+    },
+    {
+      "org_name_display": "Springfield Pride Parade",
+      "org_addr_city": "SPRINGFIELD",
+      "ntee_code_definition": "Alliance/Advocacy",
+      "revenue_amount": 325112
+    },
+    {
+      "org_name_display": "Boston Lesbigay Urban Foundation",
+      "org_addr_city": "ROXBURY",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 321060
+    }
+  ]
+}

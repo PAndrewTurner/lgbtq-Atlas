@@ -1,0 +1,266 @@
+{
+  "fips": "18",
+  "name": "Indiana",
+  "abbr": "IN",
+  "year": 2024,
+  "scores": {
+    "legal": 25.0,
+    "safety": 66.2,
+    "health": 29.7,
+    "economic": 39.9,
+    "community": 75.3,
+    "youth": 33.8,
+    "overall": 43.9,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 18,
+    "state_name": "Indiana",
+    "state_abbr": "IN",
+    "year": 2024,
+    "lgbtq_pop": 277100,
+    "lgbtq_pct": 5.4,
+    "same_sex_hh": 22001,
+    "trans_pop": 18012,
+    "trans_pct": 0.351
+  },
+  "legal_detail": {
+    "state_fips": 18,
+    "year": 2024,
+    "map_total_score": 45,
+    "overall_climate": "Stagnating",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": false,
+    "preemption_law": false,
+    "bills_passed_against": 18
+  },
+  "safety_detail": {
+    "state_fips": 18,
+    "year": 2024,
+    "so_incidents": 20,
+    "gi_incidents": 12,
+    "so_per_100k": 7.217610970768675,
+    "gi_per_100k": 4.330566582461205,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 18,
+    "year": 2024,
+    "depression_pct": 43.0,
+    "healthcare_avoidance_pct": 53.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 28.0
+  },
+  "economic_detail": {
+    "state_fips": 18,
+    "year": 2024,
+    "lgbtq_poverty_pct": 20.1,
+    "income_gap_pct": -18.0,
+    "housing_instability_pct": 16.0
+  },
+  "community_detail": {
+    "state_fips": 18,
+    "year": 2024,
+    "lgbtq_orgs_count": 118,
+    "lgbtq_orgs_per_100k": 42.583904727535185,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 18,
+    "year": 2024,
+    "suicidality_pct": 43.0,
+    "school_safety_score": 30.0,
+    "gsa_presence_pct": 30.0,
+    "conversion_therapy_exposure_pct": 5.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 43.9
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "IN-bloomington-in",
+      "city_name": "Bloomington",
+      "state_fips": 18,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "IN-terre-haute-in",
+      "city_name": "Terre Haute",
+      "state_fips": 18,
+      "year": 2025,
+      "mei_score": 96,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "IN-evansville-in",
+      "city_name": "Evansville",
+      "state_fips": 18,
+      "year": 2025,
+      "mei_score": 93,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "IN-indianapolis-in",
+      "city_name": "Indianapolis",
+      "state_fips": 18,
+      "year": 2025,
+      "mei_score": 81,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "IN-west-lafayette-in",
+      "city_name": "West Lafayette",
+      "state_fips": 18,
+      "year": 2025,
+      "mei_score": 81,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Aurora",
+      "org_addr_city": "EVANSVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 3771777
+    },
+    {
+      "org_name_display": "Harrison County Community Services",
+      "org_addr_city": "CORYDON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 3170705
+    },
+    {
+      "org_name_display": "Aids Ministries-Aids Assist Of North Indiana",
+      "org_addr_city": "SOUTH BEND",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 3087758
+    },
+    {
+      "org_name_display": "Fc Pride",
+      "org_addr_city": "INDIANAPOLIS",
+      "ntee_code_definition": "Soccer",
+      "revenue_amount": 2281979
+    },
+    {
+      "org_name_display": "Indy Pride",
+      "org_addr_city": "INDIANAPOLIS",
+      "ntee_code_definition": "Fairs",
+      "revenue_amount": 1656259
+    },
+    {
+      "org_name_display": "Trans Solutions Research And Resource Center",
+      "org_addr_city": "INDIANAPOLIS",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 1138304
+    },
+    {
+      "org_name_display": "Grant County Rescue Mission",
+      "org_addr_city": "MARION",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 752952
+    },
+    {
+      "org_name_display": "Interfaith Hospitality Network Of G Reater Fort Wayne",
+      "org_addr_city": "FT WAYNE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 745924
+    },
+    {
+      "org_name_display": "Heart House",
+      "org_addr_city": "AURORA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 471783
+    },
+    {
+      "org_name_display": "Goshen Interfaith Hospitality Network",
+      "org_addr_city": "GOSHEN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 457306
+    },
+    {
+      "org_name_display": "Interfaith Community Pads",
+      "org_addr_city": "MICHIGAN CITY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 443348
+    },
+    {
+      "org_name_display": "Pirate Pride Club",
+      "org_addr_city": "CHARLESTOWN",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 361117
+    },
+    {
+      "org_name_display": "Plainfield Red Pride Band Boosters",
+      "org_addr_city": "PLAINFIELD",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 294227
+    },
+    {
+      "org_name_display": "Soar Initiative",
+      "org_addr_city": "INDIANAPOLIS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 277906
+    },
+    {
+      "org_name_display": "Fort Wayne Pride",
+      "org_addr_city": "FORT WAYNE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 271572
+    },
+    {
+      "org_name_display": "Cultivating Life",
+      "org_addr_city": "SOUTH BEND",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 245597
+    },
+    {
+      "org_name_display": "Spencer Pride",
+      "org_addr_city": "SPENCER",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 238319
+    },
+    {
+      "org_name_display": "Hoosier Pride Genetics",
+      "org_addr_city": "VINCENNES",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 173371
+    },
+    {
+      "org_name_display": "Wecare Of Clinton County",
+      "org_addr_city": "FRANKFORT",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 158825
+    },
+    {
+      "org_name_display": "Gay Lesbian And Affirming Disciples Alliance",
+      "org_addr_city": "INDIANAPOLIS",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 150620
+    }
+  ]
+}

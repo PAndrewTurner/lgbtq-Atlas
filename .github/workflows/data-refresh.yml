@@ -1,0 +1,51 @@
+name: Data Refresh
+
+on:
+  schedule:
+    # Run annually on Jan 15 to pick up new data releases
+    - cron: "0 6 15 1 *"
+  workflow_dispatch:
+    inputs:
+      year:
+        description: "Data year to process"
+        required: false
+        default: "2024"
+
+jobs:
+  refresh:
+    name: Run pipeline
+    runs-on: ubuntu-latest
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        run: pip install uv
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run transform
+        run: uv run atlas transform
+
+      - name: Run scoring
+        run: uv run atlas score --year ${{ github.event.inputs.year || '2024' }}
+
+      - name: Generate narratives
+        run: uv run atlas narratives --year ${{ github.event.inputs.year || '2024' }}
+
+      - name: Build exports
+        run: uv run atlas build --year ${{ github.event.inputs.year || '2024' }}
+
+      - name: Commit updated exports
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh data exports [${{ github.event.inputs.year || '2024' }}]"
+          file_pattern: "data/exports/**"

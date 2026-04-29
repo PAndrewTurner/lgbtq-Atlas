@@ -1,0 +1,266 @@
+{
+  "fips": "44",
+  "name": "Rhode Island",
+  "abbr": "RI",
+  "year": 2024,
+  "scores": {
+    "legal": 82.5,
+    "safety": 67.6,
+    "health": 40.0,
+    "economic": 60.7,
+    "community": 45.5,
+    "youth": 44.1,
+    "overall": 61.6,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 44,
+    "state_name": "Rhode Island",
+    "state_abbr": "RI",
+    "year": 2024,
+    "lgbtq_pop": 54800,
+    "lgbtq_pct": 6.5,
+    "same_sex_hh": 5001,
+    "trans_pop": 3562,
+    "trans_pct": 0.422
+  },
+  "legal_detail": {
+    "state_fips": 44,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 5
+  },
+  "safety_detail": {
+    "state_fips": 44,
+    "year": 2024,
+    "so_incidents": 5,
+    "gi_incidents": 1,
+    "so_per_100k": 9.124087591240876,
+    "gi_per_100k": 1.8248175182481754,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 44,
+    "year": 2024,
+    "depression_pct": 37.0,
+    "healthcare_avoidance_pct": 38.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 32.0
+  },
+  "economic_detail": {
+    "state_fips": 44,
+    "year": 2024,
+    "lgbtq_poverty_pct": 14.0,
+    "income_gap_pct": -9.0,
+    "housing_instability_pct": 11.0
+  },
+  "community_detail": {
+    "state_fips": 44,
+    "year": 2024,
+    "lgbtq_orgs_count": 21,
+    "lgbtq_orgs_per_100k": 38.32116788321168,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 44,
+    "year": 2024,
+    "suicidality_pct": 37.0,
+    "school_safety_score": 42.0,
+    "gsa_presence_pct": 42.0,
+    "conversion_therapy_exposure_pct": 3.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 61.6
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "RI-providence-ri",
+      "city_name": "Providence",
+      "state_fips": 44,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "RI-east-providence-ri",
+      "city_name": "East Providence",
+      "state_fips": 44,
+      "year": 2025,
+      "mei_score": 72,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "RI-cranston-ri",
+      "city_name": "Cranston",
+      "state_fips": 44,
+      "year": 2025,
+      "mei_score": 66,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "RI-newport-ri",
+      "city_name": "Newport",
+      "state_fips": 44,
+      "year": 2025,
+      "mei_score": 65,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "RI-pawtucket-ri",
+      "city_name": "Pawtucket",
+      "state_fips": 44,
+      "year": 2025,
+      "mei_score": 65,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Crossroads Rhode Island",
+      "org_addr_city": "PROVIDENCE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 24173480
+    },
+    {
+      "org_name_display": "National Lgbt Cancer Network",
+      "org_addr_city": "PROVIDENCE",
+      "ntee_code_definition": "Support N.E.C.",
+      "revenue_amount": 1575653
+    },
+    {
+      "org_name_display": "Youth Pride",
+      "org_addr_city": "PROVIDENCE",
+      "ntee_code_definition": "Hot Line, Crisis Intervention Services",
+      "revenue_amount": 924153
+    },
+    {
+      "org_name_display": "Rhode Island Lesbian And Gay Pride Committee",
+      "org_addr_city": "PROVIDENCE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 357152
+    },
+    {
+      "org_name_display": "Newport Pride",
+      "org_addr_city": "NEWPORT",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 308115
+    },
+    {
+      "org_name_display": "Rhode Island Dream Center",
+      "org_addr_city": "CRANSTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 142065
+    },
+    {
+      "org_name_display": "Wanderground Lesbian Archive Library",
+      "org_addr_city": "CRANSTON",
+      "ntee_code_definition": "Libraries",
+      "revenue_amount": 87852
+    },
+    {
+      "org_name_display": "Help The Homeless Ri",
+      "org_addr_city": "CRANSTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 54890
+    },
+    {
+      "org_name_display": "Gay And Lesbian Options Of Rhode Island",
+      "org_addr_city": "PAWTUCKET",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pride Connect",
+      "org_addr_city": "PROVIDENCE",
+      "ntee_code_definition": "Alliance/Advocacy Organizations",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Vhbc Pride",
+      "org_addr_city": "JAMESTOWN",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Queer Archive Work",
+      "org_addr_city": "PROVIDENCE",
+      "ntee_code_definition": "Arts, Cultural Organizations - Multipurpose",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Haunts For The Homeless",
+      "org_addr_city": "BRADFORD",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Providence Gay Mens Chorus",
+      "org_addr_city": "PROVIDENCE",
+      "ntee_code_definition": "Singing, Choral",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Rhode Island Association Of Gay Professionals",
+      "org_addr_city": "PROVIDENCE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pride In Aging Ri",
+      "org_addr_city": "CRANSTON",
+      "ntee_code_definition": "Seniors' Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Woonsocket Pride",
+      "org_addr_city": "WOONSOCKET",
+      "ntee_code_definition": "Civil Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Love Wins Little Compton",
+      "org_addr_city": "L COMPTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Providence Gay Flag Football League",
+      "org_addr_city": "PROVIDENCE",
+      "ntee_code_definition": "Football",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Lighthouse Community Development",
+      "org_addr_city": "PROVIDENCE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

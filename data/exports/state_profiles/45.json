@@ -1,0 +1,266 @@
+{
+  "fips": "45",
+  "name": "South Carolina",
+  "abbr": "SC",
+  "year": 2024,
+  "scores": {
+    "legal": 25.0,
+    "safety": 75.7,
+    "health": 26.7,
+    "economic": 36.0,
+    "community": 43.9,
+    "youth": 31.5,
+    "overall": 40.0,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 45,
+    "state_name": "South Carolina",
+    "state_abbr": "SC",
+    "year": 2024,
+    "lgbtq_pop": 192800,
+    "lgbtq_pct": 4.9,
+    "same_sex_hh": 14740,
+    "trans_pop": 12532,
+    "trans_pct": 0.319
+  },
+  "legal_detail": {
+    "state_fips": 45,
+    "year": 2024,
+    "map_total_score": 45,
+    "overall_climate": "Stagnating",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": false,
+    "preemption_law": false,
+    "bills_passed_against": 33
+  },
+  "safety_detail": {
+    "state_fips": 45,
+    "year": 2024,
+    "so_incidents": 14,
+    "gi_incidents": 1,
+    "so_per_100k": 7.261410788381744,
+    "gi_per_100k": 0.5186721991701244,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 45,
+    "year": 2024,
+    "depression_pct": 40.0,
+    "healthcare_avoidance_pct": 63.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 23.0
+  },
+  "economic_detail": {
+    "state_fips": 45,
+    "year": 2024,
+    "lgbtq_poverty_pct": 21.5,
+    "income_gap_pct": -19.0,
+    "housing_instability_pct": 17.0
+  },
+  "community_detail": {
+    "state_fips": 45,
+    "year": 2024,
+    "lgbtq_orgs_count": 63,
+    "lgbtq_orgs_per_100k": 32.67634854771784,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 45,
+    "year": 2024,
+    "suicidality_pct": 40.0,
+    "school_safety_score": 28.0,
+    "gsa_presence_pct": 28.0,
+    "conversion_therapy_exposure_pct": 6.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 40.0
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "SC-myrtle-beach-sc",
+      "city_name": "Myrtle Beach",
+      "state_fips": 45,
+      "year": 2025,
+      "mei_score": 98,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "SC-greenville-sc",
+      "city_name": "Greenville",
+      "state_fips": 45,
+      "year": 2025,
+      "mei_score": 67,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "SC-columbia-sc",
+      "city_name": "Columbia",
+      "state_fips": 45,
+      "year": 2025,
+      "mei_score": 65,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "SC-charleston-sc",
+      "city_name": "Charleston",
+      "state_fips": 45,
+      "year": 2025,
+      "mei_score": 61,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "SC-mount-pleasant-sc",
+      "city_name": "Mount Pleasant",
+      "state_fips": 45,
+      "year": 2025,
+      "mei_score": 46,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Dream Center Of Pickens County",
+      "org_addr_city": "EASLEY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 3786735
+    },
+    {
+      "org_name_display": "Palmetto Pride The Governors Council On Beautification & Litter",
+      "org_addr_city": "COLUMBIA",
+      "ntee_code_definition": "Environmental Beautification and Aesthetics",
+      "revenue_amount": 2304543
+    },
+    {
+      "org_name_display": "Bethel Mens Shelter",
+      "org_addr_city": "ROCK HILL",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1170523
+    },
+    {
+      "org_name_display": "Family Promise Of The Midlands",
+      "org_addr_city": "COLUMBIA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 613955
+    },
+    {
+      "org_name_display": "Family Promise Of York County",
+      "org_addr_city": "ROCK HILL",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 450617
+    },
+    {
+      "org_name_display": "Pride Link",
+      "org_addr_city": "GREENVILLE",
+      "ntee_code_definition": "Health Treatment Facilities, Primarily Outpatient",
+      "revenue_amount": 348324
+    },
+    {
+      "org_name_display": "Alliance For Full Acceptance",
+      "org_addr_city": "NORTH CHARLESTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 342993
+    },
+    {
+      "org_name_display": "South Carolina Pride Movement",
+      "org_addr_city": "COLUMBIA",
+      "ntee_code_definition": "Cultural, Ethnic Awareness",
+      "revenue_amount": 287502
+    },
+    {
+      "org_name_display": "Christian Assistance Bridge",
+      "org_addr_city": "BLYTHEWOOD",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 286355
+    },
+    {
+      "org_name_display": "3 Kings Project",
+      "org_addr_city": "ORANGEBURG",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 195876
+    },
+    {
+      "org_name_display": "C4 Ministries Of Laurens County",
+      "org_addr_city": "LAURENS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 187203
+    },
+    {
+      "org_name_display": "Upstate Pride Sc",
+      "org_addr_city": "GREENVILLE",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 182220
+    },
+    {
+      "org_name_display": "Vithalville Foundation",
+      "org_addr_city": "FLORENCE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 171114
+    },
+    {
+      "org_name_display": "Harriet Hancock Center Foundation",
+      "org_addr_city": "COLUMBIA",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 141361
+    },
+    {
+      "org_name_display": "Just For Today Recovery Center",
+      "org_addr_city": "TAYLORS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 100706
+    },
+    {
+      "org_name_display": "Homeless To Hope Center",
+      "org_addr_city": "CHARLESTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 93736
+    },
+    {
+      "org_name_display": "South Carolina Black Pride",
+      "org_addr_city": "COLUMBIA",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 86640
+    },
+    {
+      "org_name_display": "Greenville Gay Mens Chorus",
+      "org_addr_city": "GREENVILLE",
+      "ntee_code_definition": "Singing, Choral",
+      "revenue_amount": 81958
+    },
+    {
+      "org_name_display": "Leos Pride Foundation",
+      "org_addr_city": "BALLENTINE",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 80899
+    },
+    {
+      "org_name_display": "Upstate Lgbt Chamber Fund",
+      "org_addr_city": "GREENVILLE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 78600
+    }
+  ]
+}

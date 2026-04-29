@@ -1,0 +1,266 @@
+{
+  "fips": "26",
+  "name": "Michigan",
+  "abbr": "MI",
+  "year": 2024,
+  "scores": {
+    "legal": 45.0,
+    "safety": 57.7,
+    "health": 35.7,
+    "economic": 44.1,
+    "community": 39.6,
+    "youth": 37.9,
+    "overall": 44.5,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 26,
+    "state_name": "Michigan",
+    "state_abbr": "MI",
+    "year": 2024,
+    "lgbtq_pop": 467300,
+    "lgbtq_pct": 6.0,
+    "same_sex_hh": 29018,
+    "trans_pop": 30374,
+    "trans_pct": 0.39
+  },
+  "legal_detail": {
+    "state_fips": 26,
+    "year": 2024,
+    "map_total_score": 65,
+    "overall_climate": "Working Toward Inclusion",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": false,
+    "preemption_law": false,
+    "bills_passed_against": 29
+  },
+  "safety_detail": {
+    "state_fips": 26,
+    "year": 2024,
+    "so_incidents": 50,
+    "gi_incidents": 22,
+    "so_per_100k": 10.699764605178686,
+    "gi_per_100k": 4.707896426278622,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 26,
+    "year": 2024,
+    "depression_pct": 37.0,
+    "healthcare_avoidance_pct": 46.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 27.0
+  },
+  "economic_detail": {
+    "state_fips": 26,
+    "year": 2024,
+    "lgbtq_poverty_pct": 18.9,
+    "income_gap_pct": -16.0,
+    "housing_instability_pct": 15.0
+  },
+  "community_detail": {
+    "state_fips": 26,
+    "year": 2024,
+    "lgbtq_orgs_count": 122,
+    "lgbtq_orgs_per_100k": 26.10742563663599,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 26,
+    "year": 2024,
+    "suicidality_pct": 37.0,
+    "school_safety_score": 37.0,
+    "gsa_presence_pct": 37.0,
+    "conversion_therapy_exposure_pct": 6.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 44.5
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "MI-ann-arbor-mi",
+      "city_name": "Ann Arbor",
+      "state_fips": 26,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MI-detroit-mi",
+      "city_name": "Detroit",
+      "state_fips": 26,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MI-east-lansing-mi",
+      "city_name": "East Lansing",
+      "state_fips": 26,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MI-ferndale-mi",
+      "city_name": "Ferndale",
+      "state_fips": 26,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MI-grand-rapids-mi",
+      "city_name": "Grand Rapids",
+      "state_fips": 26,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Affirmations Community Center",
+      "org_addr_city": "FERNDALE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 1881507
+    },
+    {
+      "org_name_display": "Hope Hospitality And Warming Center",
+      "org_addr_city": "PONTIAC",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1439455
+    },
+    {
+      "org_name_display": "Migen Michigan Lgbtq Elders Network",
+      "org_addr_city": "FERNDALE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 1415108
+    },
+    {
+      "org_name_display": "Equality Michigan Action Network",
+      "org_addr_city": "KALAMAZOO",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 1207378
+    },
+    {
+      "org_name_display": "Michigan Braille Trans Fund",
+      "org_addr_city": "JACKSON",
+      "ntee_code_definition": "Centers to Support the Independence of Specific Populations",
+      "revenue_amount": 939775
+    },
+    {
+      "org_name_display": "Kalamazoo Gay-Lesbian Resource Center",
+      "org_addr_city": "KALAMAZOO",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 866125
+    },
+    {
+      "org_name_display": "Grand Rapids Pride Center",
+      "org_addr_city": "GRAND RAPIDS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 750693
+    },
+    {
+      "org_name_display": "Lgbt Detroit",
+      "org_addr_city": "DETROIT",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 738871
+    },
+    {
+      "org_name_display": "Motor City Pride",
+      "org_addr_city": "DETROIT",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 719008
+    },
+    {
+      "org_name_display": "Stand With Trans",
+      "org_addr_city": "FARMINGTON",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 496182
+    },
+    {
+      "org_name_display": "Wave Project",
+      "org_addr_city": "CLINTON TWP",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 451643
+    },
+    {
+      "org_name_display": "Moriah Deliverance Of Ethiopian Children",
+      "org_addr_city": "OTSEGO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 384458
+    },
+    {
+      "org_name_display": "Prism Gay Men And Allies Chorus",
+      "org_addr_city": "ROYAL OAK",
+      "ntee_code_definition": "Music",
+      "revenue_amount": 318022
+    },
+    {
+      "org_name_display": "Family Promise Of Mid Michigan",
+      "org_addr_city": "FLINT",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 288472
+    },
+    {
+      "org_name_display": "West Michigan Veterans Assistance Program",
+      "org_addr_city": "WAYLAND",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 267161
+    },
+    {
+      "org_name_display": "Franklin Avenue Mission",
+      "org_addr_city": "FLINT",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 253588
+    },
+    {
+      "org_name_display": "Great Lakes Bay Pride",
+      "org_addr_city": "BAY CITY",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 247373
+    },
+    {
+      "org_name_display": "Detroit Regional Lgbt Chamber Fund",
+      "org_addr_city": "DETROIT",
+      "ntee_code_definition": "Alliance/Advocacy",
+      "revenue_amount": 204044
+    },
+    {
+      "org_name_display": "Out On The Lakeshore",
+      "org_addr_city": "HOLLAND",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 178338
+    },
+    {
+      "org_name_display": "Grand Rapids Trans Foundation",
+      "org_addr_city": "GRAND RAPIDS",
+      "ntee_code_definition": "Public Foundations",
+      "revenue_amount": 177696
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "fips": "38",
+  "name": "North Dakota",
+  "abbr": "ND",
+  "year": 2024,
+  "scores": {
+    "legal": 11.5,
+    "safety": 77.8,
+    "health": 34.7,
+    "economic": 55.3,
+    "community": 56.9,
+    "youth": 33.8,
+    "overall": 41.7,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 38,
+    "state_name": "North Dakota",
+    "state_abbr": "ND",
+    "year": 2024,
+    "lgbtq_pop": 28400,
+    "lgbtq_pct": 4.9,
+    "same_sex_hh": 1748,
+    "trans_pop": 1846,
+    "trans_pct": 0.319
+  },
+  "legal_detail": {
+    "state_fips": 38,
+    "year": 2024,
+    "map_total_score": 25,
+    "overall_climate": "Attempting to Legislate Exclusion",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": false,
+    "preemption_law": false,
+    "bills_passed_against": 9
+  },
+  "safety_detail": {
+    "state_fips": 38,
+    "year": 2024,
+    "so_incidents": 2,
+    "gi_incidents": 0,
+    "so_per_100k": 7.042253521126761,
+    "gi_per_100k": 0.0,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 38,
+    "year": 2024,
+    "depression_pct": 36.0,
+    "healthcare_avoidance_pct": 55.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 31.0
+  },
+  "economic_detail": {
+    "state_fips": 38,
+    "year": 2024,
+    "lgbtq_poverty_pct": 15.5,
+    "income_gap_pct": -12.0,
+    "housing_instability_pct": 12.0
+  },
+  "community_detail": {
+    "state_fips": 38,
+    "year": 2024,
+    "lgbtq_orgs_count": 14,
+    "lgbtq_orgs_per_100k": 49.29577464788732,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 38,
+    "year": 2024,
+    "suicidality_pct": 36.0,
+    "school_safety_score": 25.0,
+    "gsa_presence_pct": 25.0,
+    "conversion_therapy_exposure_pct": 5.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 41.7
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "ND-fargo-nd",
+      "city_name": "Fargo",
+      "state_fips": 38,
+      "year": 2025,
+      "mei_score": 54,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "ND-grand-forks-nd",
+      "city_name": "Grand Forks",
+      "state_fips": 38,
+      "year": 2025,
+      "mei_score": 50,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "ND-bismarck-nd",
+      "city_name": "Bismarck",
+      "state_fips": 38,
+      "year": 2025,
+      "mei_score": 33,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "ND-mandan-nd",
+      "city_name": "Mandan",
+      "state_fips": 38,
+      "year": 2025,
+      "mei_score": 26,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "ND-jamestown-nd",
+      "city_name": "Jamestown",
+      "state_fips": 38,
+      "year": 2025,
+      "mei_score": 19,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Pride",
+      "org_addr_city": "BISMARCK",
+      "ntee_code_definition": "Job Training",
+      "revenue_amount": 17283101
+    },
+    {
+      "org_name_display": "Red River Valley Community Action",
+      "org_addr_city": "GRAND FORKS",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 3494271
+    },
+    {
+      "org_name_display": "Stepping Stone Ministries",
+      "org_addr_city": "BISMARCK",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2254395
+    },
+    {
+      "org_name_display": "Pride Manchester",
+      "org_addr_city": "BISMARCK",
+      "ntee_code_definition": "Children's, Youth Services",
+      "revenue_amount": 1881007
+    },
+    {
+      "org_name_display": "Minot Area Homeless Coalition",
+      "org_addr_city": "MINOT",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 527555
+    },
+    {
+      "org_name_display": "Pride Wilton",
+      "org_addr_city": "BISMARCK",
+      "ntee_code_definition": "Nursing Services (General)",
+      "revenue_amount": 277068
+    },
+    {
+      "org_name_display": "Fargo Moorhead Coalition For Homeless Persons",
+      "org_addr_city": "FARGO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 140790
+    },
+    {
+      "org_name_display": "Pride Collective & Community Center",
+      "org_addr_city": "FARGO",
+      "ntee_code_definition": "Personal Social Services",
+      "revenue_amount": 134488
+    },
+    {
+      "org_name_display": "Lake Region Community Shelter",
+      "org_addr_city": "DEVILS LAKE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 87274
+    },
+    {
+      "org_name_display": "Pride And Joy Rescue",
+      "org_addr_city": "FARGO",
+      "ntee_code_definition": "Animal Protection and Welfare",
+      "revenue_amount": 84707
+    },
+    {
+      "org_name_display": "Grand Forks Out & Proud",
+      "org_addr_city": "GRAND FORKS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Fargo-Moorhead Gay Mens Chorus",
+      "org_addr_city": "FARGO",
+      "ntee_code_definition": "Singing, Choral",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pride Real Estate Development",
+      "org_addr_city": "BISMARCK",
+      "ntee_code_definition": "Low-Income & Subsidized Rental Housing",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Magic City Equality",
+      "org_addr_city": "BELCOURT",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "fips": "49",
+  "name": "Utah",
+  "abbr": "UT",
+  "year": 2024,
+  "scores": {
+    "legal": 25.5,
+    "safety": 38.0,
+    "health": 34.3,
+    "economic": 48.7,
+    "community": 52.5,
+    "youth": 42.5,
+    "overall": 37.4,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 49,
+    "state_name": "Utah",
+    "state_abbr": "UT",
+    "year": 2024,
+    "lgbtq_pop": 133000,
+    "lgbtq_pct": 6.1,
+    "same_sex_hh": 10332,
+    "trans_pop": 8645,
+    "trans_pct": 0.396
+  },
+  "legal_detail": {
+    "state_fips": 49,
+    "year": 2024,
+    "map_total_score": 45,
+    "overall_climate": "Stagnating",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 13
+  },
+  "safety_detail": {
+    "state_fips": 49,
+    "year": 2024,
+    "so_incidents": 30,
+    "gi_incidents": 6,
+    "so_per_100k": 22.55639097744361,
+    "gi_per_100k": 4.511278195488722,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 49,
+    "year": 2024,
+    "depression_pct": 42.0,
+    "healthcare_avoidance_pct": 47.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 34.0
+  },
+  "economic_detail": {
+    "state_fips": 49,
+    "year": 2024,
+    "lgbtq_poverty_pct": 17.0,
+    "income_gap_pct": -15.0,
+    "housing_instability_pct": 14.0
+  },
+  "community_detail": {
+    "state_fips": 49,
+    "year": 2024,
+    "lgbtq_orgs_count": 49,
+    "lgbtq_orgs_per_100k": 36.8421052631579,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 49,
+    "year": 2024,
+    "suicidality_pct": 42.0,
+    "school_safety_score": 50.0,
+    "gsa_presence_pct": 50.0,
+    "conversion_therapy_exposure_pct": 6.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 37.4
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "UT-salt-lake-city-ut",
+      "city_name": "Salt Lake City",
+      "state_fips": 49,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "UT-park-city-ut",
+      "city_name": "Park City",
+      "state_fips": 49,
+      "year": 2025,
+      "mei_score": 83,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "UT-ogden-city-ut",
+      "city_name": "Ogden City",
+      "state_fips": 49,
+      "year": 2025,
+      "mei_score": 56,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "UT-provo-ut",
+      "city_name": "Provo",
+      "state_fips": 49,
+      "year": 2025,
+      "mei_score": 54,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "UT-logan-ut",
+      "city_name": "Logan",
+      "state_fips": 49,
+      "year": 2025,
+      "mei_score": 48,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Community Action Services And Food Bank",
+      "org_addr_city": "PROVO",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 12200616
+    },
+    {
+      "org_name_display": "Utah Pride Center",
+      "org_addr_city": "SALT LAKE CITY",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 3587813
+    },
+    {
+      "org_name_display": "The Inn Between",
+      "org_addr_city": "SALT LAKE CTY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 2500931
+    },
+    {
+      "org_name_display": "Project Rainbow Utah",
+      "org_addr_city": "SALT LAKE CTY",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 212631
+    },
+    {
+      "org_name_display": "Utah Gay And Lesbian Chamber Of Commerce",
+      "org_addr_city": "SALT LAKE CTY",
+      "ntee_code_definition": "Chambers of Commerce & Business Leagues",
+      "revenue_amount": 184544
+    },
+    {
+      "org_name_display": "Spark Of Hope Foundation",
+      "org_addr_city": "ALPINE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 145880
+    },
+    {
+      "org_name_display": "Ogden Pride",
+      "org_addr_city": "OGDEN",
+      "ntee_code_definition": "Cultural, Ethnic Awareness",
+      "revenue_amount": 113749
+    },
+    {
+      "org_name_display": "Utah Pride Guard",
+      "org_addr_city": "HERRIMAN",
+      "ntee_code_definition": "Arts, Cultural Organizations - Multipurpose",
+      "revenue_amount": 113064
+    },
+    {
+      "org_name_display": "Korah Kids",
+      "org_addr_city": "ST GEORGE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 108529
+    },
+    {
+      "org_name_display": "Service Heroes",
+      "org_addr_city": "BOUNTIFUL",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 95563
+    },
+    {
+      "org_name_display": "Fill The Pot Ministry",
+      "org_addr_city": "SANDY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 77180
+    },
+    {
+      "org_name_display": "Queer Spectra Arts Festival",
+      "org_addr_city": "SALT LAKE CITY",
+      "ntee_code_definition": "Arts, Cultural Organizations - Multipurpose",
+      "revenue_amount": 67828
+    },
+    {
+      "org_name_display": "Pride Of Southwest Utah",
+      "org_addr_city": "ST GEORGE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 55720
+    },
+    {
+      "org_name_display": "Do Good Today",
+      "org_addr_city": "NORTH OGDEN",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 31594
+    },
+    {
+      "org_name_display": "Living With Pride",
+      "org_addr_city": "SALT LAKE CTY",
+      "ntee_code_definition": "Senior Centers",
+      "revenue_amount": 21547
+    },
+    {
+      "org_name_display": "Gender Healed World",
+      "org_addr_city": "SALT LAKE CTY",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Slc Pride",
+      "org_addr_city": "SALT LAKE CTY",
+      "ntee_code_definition": "Cultural, Ethnic Awareness",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Lgbtq Affirmative Therapist Guild Of Utah",
+      "org_addr_city": "SALT LAKE CTY",
+      "ntee_code_definition": "Chambers of Commerce & Business Leagues",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Utah Bears",
+      "org_addr_city": "MIDVALE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Heart Of The Basin",
+      "org_addr_city": "ROOSEVELT",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

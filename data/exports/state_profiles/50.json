@@ -1,0 +1,206 @@
+{
+  "fips": "50",
+  "name": "Vermont",
+  "abbr": "VT",
+  "year": 2024,
+  "scores": {
+    "legal": 90.0,
+    "safety": 46.8,
+    "health": 40.7,
+    "economic": 62.0,
+    "community": 11.4,
+    "youth": 51.0,
+    "overall": 55.5,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 50,
+    "state_name": "Vermont",
+    "state_abbr": "VT",
+    "year": 2024,
+    "lgbtq_pop": 37600,
+    "lgbtq_pct": 7.4,
+    "same_sex_hh": 4017,
+    "trans_pop": 2444,
+    "trans_pct": 0.481
+  },
+  "legal_detail": {
+    "state_fips": 50,
+    "year": 2024,
+    "map_total_score": 90,
+    "overall_climate": "Solidly Inclusive",
+    "conversion_therapy_ban": true,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 0
+  },
+  "safety_detail": {
+    "state_fips": 50,
+    "year": 2024,
+    "so_incidents": 6,
+    "gi_incidents": 2,
+    "so_per_100k": 15.957446808510637,
+    "gi_per_100k": 5.319148936170213,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 50,
+    "year": 2024,
+    "depression_pct": 44.0,
+    "healthcare_avoidance_pct": 31.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 41.0
+  },
+  "economic_detail": {
+    "state_fips": 50,
+    "year": 2024,
+    "lgbtq_poverty_pct": 13.5,
+    "income_gap_pct": -8.0,
+    "housing_instability_pct": 11.0
+  },
+  "community_detail": {
+    "state_fips": 50,
+    "year": 2024,
+    "lgbtq_orgs_count": 10,
+    "lgbtq_orgs_per_100k": 26.595744680851066,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 50,
+    "year": 2024,
+    "suicidality_pct": 44.0,
+    "school_safety_score": 57.0,
+    "gsa_presence_pct": 57.0,
+    "conversion_therapy_exposure_pct": 2.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 55.5
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "VT-burlington-vt",
+      "city_name": "Burlington",
+      "state_fips": 50,
+      "year": 2025,
+      "mei_score": 99,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "VT-winooski-vt",
+      "city_name": "Winooski",
+      "state_fips": 50,
+      "year": 2025,
+      "mei_score": 69,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "VT-montpelier-vt",
+      "city_name": "Montpelier",
+      "state_fips": 50,
+      "year": 2025,
+      "mei_score": 63,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "VT-barre-vt",
+      "city_name": "Barre",
+      "state_fips": 50,
+      "year": 2025,
+      "mei_score": 62,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "VT-rutland-vt",
+      "city_name": "Rutland",
+      "state_fips": 50,
+      "year": 2025,
+      "mei_score": 62,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Pathways Vermont",
+      "org_addr_city": "S BURLINGTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 12055406
+    },
+    {
+      "org_name_display": "Pride Center Of Vermont",
+      "org_addr_city": "BURLINGTON",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 772884
+    },
+    {
+      "org_name_display": "Lgbtq Fund Of Vermont",
+      "org_addr_city": "RANDOLPH",
+      "ntee_code_definition": "Public Foundations",
+      "revenue_amount": 404101
+    },
+    {
+      "org_name_display": "Rutland County Pride",
+      "org_addr_city": "RUTLAND",
+      "ntee_code_definition": "Alliance/Advocacy",
+      "revenue_amount": 81525
+    },
+    {
+      "org_name_display": "Queer Connect",
+      "org_addr_city": "BENNINGTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 18513
+    },
+    {
+      "org_name_display": "St Albans Pride Corps",
+      "org_addr_city": "FAIRFIELD",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pride Rides",
+      "org_addr_city": "MONTPELIER",
+      "ntee_code_definition": "Alliance/Advocacy",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Wrj Pride",
+      "org_addr_city": "WHITE RIV JCT",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Essex Pride",
+      "org_addr_city": "ESSEX JCT",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Northeast Kingdom Rainbow Coalition",
+      "org_addr_city": "NEWPORT",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    }
+  ]
+}

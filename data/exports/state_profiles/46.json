@@ -1,0 +1,224 @@
+{
+  "fips": "46",
+  "name": "South Dakota",
+  "abbr": "SD",
+  "year": 2024,
+  "scores": {
+    "legal": 34.5,
+    "safety": 66.1,
+    "health": 31.0,
+    "economic": 52.0,
+    "community": 38.8,
+    "youth": 23.5,
+    "overall": 41.6,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 46,
+    "state_name": "South Dakota",
+    "state_abbr": "SD",
+    "year": 2024,
+    "lgbtq_pop": 34500,
+    "lgbtq_pct": 5.3,
+    "same_sex_hh": 1397,
+    "trans_pop": 2242,
+    "trans_pct": 0.344
+  },
+  "legal_detail": {
+    "state_fips": 46,
+    "year": 2024,
+    "map_total_score": 45,
+    "overall_climate": "Stagnating",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": false,
+    "preemption_law": false,
+    "bills_passed_against": 7
+  },
+  "safety_detail": {
+    "state_fips": 46,
+    "year": 2024,
+    "so_incidents": 3,
+    "gi_incidents": 1,
+    "so_per_100k": 8.695652173913045,
+    "gi_per_100k": 2.898550724637681,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 46,
+    "year": 2024,
+    "depression_pct": 44.0,
+    "healthcare_avoidance_pct": 46.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 27.0
+  },
+  "economic_detail": {
+    "state_fips": 46,
+    "year": 2024,
+    "lgbtq_poverty_pct": 16.5,
+    "income_gap_pct": -13.0,
+    "housing_instability_pct": 13.0
+  },
+  "community_detail": {
+    "state_fips": 46,
+    "year": 2024,
+    "lgbtq_orgs_count": 13,
+    "lgbtq_orgs_per_100k": 37.68115942028985,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 46,
+    "year": 2024,
+    "suicidality_pct": 44.0,
+    "school_safety_score": 27.0,
+    "gsa_presence_pct": 27.0,
+    "conversion_therapy_exposure_pct": 12.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 41.6
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "SD-brookings-sd",
+      "city_name": "Brookings",
+      "state_fips": 46,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "SD-vermillion-sd",
+      "city_name": "Vermillion",
+      "state_fips": 46,
+      "year": 2025,
+      "mei_score": 86,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "SD-rapid-city-sd",
+      "city_name": "Rapid City",
+      "state_fips": 46,
+      "year": 2025,
+      "mei_score": 33,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "SD-sioux-falls-sd",
+      "city_name": "Sioux Falls",
+      "state_fips": 46,
+      "year": 2025,
+      "mei_score": 33,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "SD-watertown-sd",
+      "city_name": "Watertown",
+      "state_fips": 46,
+      "year": 2025,
+      "mei_score": 19,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Pathways Shelter For The Homeless",
+      "org_addr_city": "YANKTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 793079
+    },
+    {
+      "org_name_display": "Sioux Falls Pride",
+      "org_addr_city": "SIOUX FALLS",
+      "ntee_code_definition": "AIDS",
+      "revenue_amount": 108782
+    },
+    {
+      "org_name_display": "Vermillion Sd Pride",
+      "org_addr_city": "VERMILLION",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 4356
+    },
+    {
+      "org_name_display": "Pierre Area Center For Equality",
+      "org_addr_city": "PIERRE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Home For Now",
+      "org_addr_city": "MITCHELL",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "He Sapa Community Alliance",
+      "org_addr_city": "RAPID CITY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Equality South Dakota Institute",
+      "org_addr_city": "BROOKINGS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Rainbow Project Sioux Falls",
+      "org_addr_city": "SIOUX FALLS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Women And Trans Musicians Network",
+      "org_addr_city": "LEAD",
+      "ntee_code_definition": "Music",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Sioux Empire Pride Sports Association",
+      "org_addr_city": "SIOUX FALLS",
+      "ntee_code_definition": "Amateur Sports",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Aberdeen Area Pride",
+      "org_addr_city": "ABERDEEN",
+      "ntee_code_definition": "Alliance/Advocacy Organizations",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Transaction South Dakota",
+      "org_addr_city": "SIOUX FALLS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Woonsocket Development Corporation C/O Gay Swenson",
+      "org_addr_city": "WOONSOCKET",
+      "ntee_code_definition": "Chambers of Commerce & Business Leagues",
+      "revenue_amount": 0
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "fips": "21",
+  "name": "Kentucky",
+  "abbr": "KY",
+  "year": 2024,
+  "scores": {
+    "legal": 25.0,
+    "safety": 65.5,
+    "health": 29.3,
+    "economic": 31.6,
+    "community": 62.0,
+    "youth": 32.5,
+    "overall": 40.7,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 21,
+    "state_name": "Kentucky",
+    "state_abbr": "KY",
+    "year": 2024,
+    "lgbtq_pop": 168600,
+    "lgbtq_pct": 4.9,
+    "same_sex_hh": 15300,
+    "trans_pop": 10959,
+    "trans_pct": 0.319
+  },
+  "legal_detail": {
+    "state_fips": 21,
+    "year": 2024,
+    "map_total_score": 45,
+    "overall_climate": "Stagnating",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 18
+  },
+  "safety_detail": {
+    "state_fips": 21,
+    "year": 2024,
+    "so_incidents": 14,
+    "gi_incidents": 6,
+    "so_per_100k": 8.303677342823251,
+    "gi_per_100k": 3.558718861209964,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 21,
+    "year": 2024,
+    "depression_pct": 43.0,
+    "healthcare_avoidance_pct": 50.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 24.0
+  },
+  "economic_detail": {
+    "state_fips": 21,
+    "year": 2024,
+    "lgbtq_poverty_pct": 22.8,
+    "income_gap_pct": -21.0,
+    "housing_instability_pct": 18.0
+  },
+  "community_detail": {
+    "state_fips": 21,
+    "year": 2024,
+    "lgbtq_orgs_count": 66,
+    "lgbtq_orgs_per_100k": 39.14590747330961,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 21,
+    "year": 2024,
+    "suicidality_pct": 43.0,
+    "school_safety_score": 30.0,
+    "gsa_presence_pct": 30.0,
+    "conversion_therapy_exposure_pct": 6.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 40.7
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "KY-covington-ky",
+      "city_name": "Covington",
+      "state_fips": 21,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "KY-lexington-ky",
+      "city_name": "Lexington",
+      "state_fips": 21,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "KY-louisville-ky",
+      "city_name": "Louisville",
+      "state_fips": 21,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "KY-frankfort-ky",
+      "city_name": "Frankfort",
+      "state_fips": 21,
+      "year": 2025,
+      "mei_score": 65,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "KY-morehead-ky",
+      "city_name": "Morehead",
+      "state_fips": 21,
+      "year": 2025,
+      "mei_score": 60,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Eastern Kentucky Pride",
+      "org_addr_city": "SOMERSET",
+      "ntee_code_definition": "Natural Resources Conservation and Protection",
+      "revenue_amount": 1362040
+    },
+    {
+      "org_name_display": "Uniting Partners For Women And Children",
+      "org_addr_city": "LOUISVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1105356
+    },
+    {
+      "org_name_display": "Kentuckiana Pride Foundation",
+      "org_addr_city": "LOUISVILLE",
+      "ntee_code_definition": "Fairs",
+      "revenue_amount": 787343
+    },
+    {
+      "org_name_display": "Queer Kentucky",
+      "org_addr_city": "COVINGTON",
+      "ntee_code_definition": "Historical Societies, Related Historical Activities",
+      "revenue_amount": 620527
+    },
+    {
+      "org_name_display": "Louisville Pride Foundation",
+      "org_addr_city": "LOUISVILLE",
+      "ntee_code_definition": "Alliance/Advocacy",
+      "revenue_amount": 436783
+    },
+    {
+      "org_name_display": "Lexington Gay Services Organization",
+      "org_addr_city": "LEXINGTON",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 327488
+    },
+    {
+      "org_name_display": "Canopy Young Adult Community House",
+      "org_addr_city": "MOREHEAD",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 250660
+    },
+    {
+      "org_name_display": "Just Fund Education Project",
+      "org_addr_city": "LEXINGTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 232199
+    },
+    {
+      "org_name_display": "Gentry House",
+      "org_addr_city": "MURRAY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 208563
+    },
+    {
+      "org_name_display": "A New Beginning A Ministry For Women And Children",
+      "org_addr_city": "MAYFIELD",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 198507
+    },
+    {
+      "org_name_display": "Greater Louisville Pride Foundation",
+      "org_addr_city": "LOUISVILLE",
+      "ntee_code_definition": "Community, Neighborhood Development",
+      "revenue_amount": 169678
+    },
+    {
+      "org_name_display": "Christian Homeless Shelter Of London",
+      "org_addr_city": "LONDON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 54403
+    },
+    {
+      "org_name_display": "Haunters Against Hate",
+      "org_addr_city": "LEXINGTON",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 41751
+    },
+    {
+      "org_name_display": "Upper Room Outreach",
+      "org_addr_city": "LONDON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Securing Access For Every Trans Youth",
+      "org_addr_city": "COVINGTON",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Log Cabin Republicans Louisville",
+      "org_addr_city": "LOUISVILLE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Civitas Lgbtq Regional Chamber Of Commerce",
+      "org_addr_city": "LOUISVILLE",
+      "ntee_code_definition": "Chambers of Commerce & Business Leagues",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Lgtbq Friends And Advocates Of Paducah",
+      "org_addr_city": "CALVERT CITY",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Room At His Table",
+      "org_addr_city": "GLASGOW",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Omni Group",
+      "org_addr_city": "LOUISVILLE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

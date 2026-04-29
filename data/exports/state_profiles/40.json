@@ -1,0 +1,266 @@
+{
+  "fips": "40",
+  "name": "Oklahoma",
+  "abbr": "OK",
+  "year": 2024,
+  "scores": {
+    "legal": 5.0,
+    "safety": 70.7,
+    "health": 25.0,
+    "economic": 33.3,
+    "community": 24.3,
+    "youth": 28.0,
+    "overall": 29.2,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 40,
+    "state_name": "Oklahoma",
+    "state_abbr": "OK",
+    "year": 2024,
+    "lgbtq_pop": 164600,
+    "lgbtq_pct": 5.5,
+    "same_sex_hh": 12255,
+    "trans_pop": 10699,
+    "trans_pct": 0.358
+  },
+  "legal_detail": {
+    "state_fips": 40,
+    "year": 2024,
+    "map_total_score": 25,
+    "overall_climate": "Attempting to Legislate Exclusion",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": false,
+    "preemption_law": false,
+    "bills_passed_against": 34
+  },
+  "safety_detail": {
+    "state_fips": 40,
+    "year": 2024,
+    "so_incidents": 14,
+    "gi_incidents": 2,
+    "so_per_100k": 8.50546780072904,
+    "gi_per_100k": 1.2150668286755772,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 40,
+    "year": 2024,
+    "depression_pct": 46.0,
+    "healthcare_avoidance_pct": 53.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 20.0
+  },
+  "economic_detail": {
+    "state_fips": 40,
+    "year": 2024,
+    "lgbtq_poverty_pct": 22.0,
+    "income_gap_pct": -20.0,
+    "housing_instability_pct": 18.0
+  },
+  "community_detail": {
+    "state_fips": 40,
+    "year": 2024,
+    "lgbtq_orgs_count": 43,
+    "lgbtq_orgs_per_100k": 26.123936816524907,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 40,
+    "year": 2024,
+    "suicidality_pct": 46.0,
+    "school_safety_score": 26.0,
+    "gsa_presence_pct": 26.0,
+    "conversion_therapy_exposure_pct": 8.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 29.2
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "OK-norman-ok",
+      "city_name": "Norman",
+      "state_fips": 40,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "OK-tulsa-ok",
+      "city_name": "Tulsa",
+      "state_fips": 40,
+      "year": 2025,
+      "mei_score": 81,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "OK-oklahoma-city-ok",
+      "city_name": "Oklahoma City",
+      "state_fips": 40,
+      "year": 2025,
+      "mei_score": 75,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "OK-stillwater-ok",
+      "city_name": "Stillwater",
+      "state_fips": 40,
+      "year": 2025,
+      "mei_score": 32,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "OK-broken-arrow-ok",
+      "city_name": "Broken Arrow",
+      "state_fips": 40,
+      "year": 2025,
+      "mei_score": 26,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Family Promise Of Lawton",
+      "org_addr_city": "LAWTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 426003
+    },
+    {
+      "org_name_display": "Freedom Oklahoma Education Campaign",
+      "org_addr_city": "OKLAHOMA CITY",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 354302
+    },
+    {
+      "org_name_display": "Black Queer Tulsa",
+      "org_addr_city": "TULSA",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 158886
+    },
+    {
+      "org_name_display": "Pride In Mcalester",
+      "org_addr_city": "MCALESTER",
+      "ntee_code_definition": "Environmental Beautification and Aesthetics",
+      "revenue_amount": 127417
+    },
+    {
+      "org_name_display": "House Upon A Rock",
+      "org_addr_city": "BROKEN BOW",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 98372
+    },
+    {
+      "org_name_display": "Charger Pride Scholarship Foundation",
+      "org_addr_city": "JENKS",
+      "ntee_code_definition": "Community Foundations",
+      "revenue_amount": 96072
+    },
+    {
+      "org_name_display": "Eastside Pride Wrestling Club",
+      "org_addr_city": "OKLAHOMA CITY",
+      "ntee_code_definition": "Amateur Sports",
+      "revenue_amount": 73900
+    },
+    {
+      "org_name_display": "Oklahoma City Pride Alliance",
+      "org_addr_city": "OKLAHOMA CITY",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 72335
+    },
+    {
+      "org_name_display": "Eagle Pride Band Boosters",
+      "org_addr_city": "WEATHERFORD",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 65275
+    },
+    {
+      "org_name_display": "Ultimate Project",
+      "org_addr_city": "BROKEN ARROW",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 65195
+    },
+    {
+      "org_name_display": "Vocal Pride Foundation",
+      "org_addr_city": "TULSA",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 51512
+    },
+    {
+      "org_name_display": "Oklahoma Latin Pride",
+      "org_addr_city": "OKLAHOMA CITY",
+      "ntee_code_definition": "Minority Rights",
+      "revenue_amount": 5100
+    },
+    {
+      "org_name_display": "Oklahoma City Pagan Pride Day",
+      "org_addr_city": "OKLAHOMA CITY",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 1300
+    },
+    {
+      "org_name_display": "Moore Pride",
+      "org_addr_city": "MOORE",
+      "ntee_code_definition": "Arts, Cultural Organizations - Multipurpose",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Do It For Jesus",
+      "org_addr_city": "DEL CITY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Equality South Foundation",
+      "org_addr_city": "OKLAHOMA CITY",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Momentum572",
+      "org_addr_city": "YUKON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Safe Place Community Center",
+      "org_addr_city": "EDMOND",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Serve Shawnee",
+      "org_addr_city": "SHAWNEE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Gender Umbrella Assistance Collective",
+      "org_addr_city": "TULSA",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

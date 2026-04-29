@@ -1,0 +1,266 @@
+{
+  "fips": "37",
+  "name": "North Carolina",
+  "abbr": "NC",
+  "year": 2024,
+  "scores": {
+    "legal": 45.5,
+    "safety": 63.4,
+    "health": 31.7,
+    "economic": 40.9,
+    "community": 82.0,
+    "youth": 35.8,
+    "overall": 51.1,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 37,
+    "state_name": "North Carolina",
+    "state_abbr": "NC",
+    "year": 2024,
+    "lgbtq_pop": 353100,
+    "lgbtq_pct": 4.4,
+    "same_sex_hh": 35516,
+    "trans_pop": 22952,
+    "trans_pct": 0.286
+  },
+  "legal_detail": {
+    "state_fips": 37,
+    "year": 2024,
+    "map_total_score": 65,
+    "overall_climate": "Working Toward Inclusion",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": false,
+    "preemption_law": false,
+    "bills_passed_against": 13
+  },
+  "safety_detail": {
+    "state_fips": 37,
+    "year": 2024,
+    "so_incidents": 38,
+    "gi_incidents": 7,
+    "so_per_100k": 10.761823845935995,
+    "gi_per_100k": 1.9824412347776832,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 37,
+    "year": 2024,
+    "depression_pct": 41.0,
+    "healthcare_avoidance_pct": 51.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 28.0
+  },
+  "economic_detail": {
+    "state_fips": 37,
+    "year": 2024,
+    "lgbtq_poverty_pct": 19.8,
+    "income_gap_pct": -17.0,
+    "housing_instability_pct": 16.0
+  },
+  "community_detail": {
+    "state_fips": 37,
+    "year": 2024,
+    "lgbtq_orgs_count": 159,
+    "lgbtq_orgs_per_100k": 45.02973661852167,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 37,
+    "year": 2024,
+    "suicidality_pct": 41.0,
+    "school_safety_score": 39.0,
+    "gsa_presence_pct": 39.0,
+    "conversion_therapy_exposure_pct": 7.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 51.1
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "NC-greensboro-nc",
+      "city_name": "Greensboro",
+      "state_fips": 37,
+      "year": 2025,
+      "mei_score": 100,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NC-durham-nc",
+      "city_name": "Durham",
+      "state_fips": 37,
+      "year": 2025,
+      "mei_score": 98,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NC-winston-salem-nc",
+      "city_name": "Winston-Salem",
+      "state_fips": 37,
+      "year": 2025,
+      "mei_score": 96,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NC-carrboro-nc",
+      "city_name": "Carrboro",
+      "state_fips": 37,
+      "year": 2025,
+      "mei_score": 93,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NC-raleigh-nc",
+      "city_name": "Raleigh",
+      "state_fips": 37,
+      "year": 2025,
+      "mei_score": 85,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Charlotte Family Housing",
+      "org_addr_city": "CHARLOTTE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 3411376
+    },
+    {
+      "org_name_display": "Campaign For Southern Equality",
+      "org_addr_city": "ASHEVILLE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 2981754
+    },
+    {
+      "org_name_display": "Union County Community Shelter",
+      "org_addr_city": "MONROE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1934073
+    },
+    {
+      "org_name_display": "Step Up Ministry",
+      "org_addr_city": "RALEIGH",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1857036
+    },
+    {
+      "org_name_display": "Hope Center At Pullen",
+      "org_addr_city": "RALEIGH",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1793047
+    },
+    {
+      "org_name_display": "Bethesda Center For The Homeless",
+      "org_addr_city": "WINSTON SALEM",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1138644
+    },
+    {
+      "org_name_display": "Hearts For The Invisible Charlotte Coalition",
+      "org_addr_city": "CHARLOTTE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1048445
+    },
+    {
+      "org_name_display": "Charlotte Pride",
+      "org_addr_city": "CHARLOTTE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 1042141
+    },
+    {
+      "org_name_display": "Inter-Faith Alliance",
+      "org_addr_city": "SHELBY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1018825
+    },
+    {
+      "org_name_display": "Lions Pride Foundation",
+      "org_addr_city": "SALISBURY",
+      "ntee_code_definition": "Gift Distribution",
+      "revenue_amount": 996809
+    },
+    {
+      "org_name_display": "The Lgbtq Center Of Durham",
+      "org_addr_city": "DURHAM",
+      "ntee_code_definition": "Human Service Organizations",
+      "revenue_amount": 866882
+    },
+    {
+      "org_name_display": "Hesed House Of Hope",
+      "org_addr_city": "LINCOLNTON",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 738332
+    },
+    {
+      "org_name_display": "Charlotte Transgender Healthcare Group",
+      "org_addr_city": "CHARLOTTE",
+      "ntee_code_definition": "Alliance/Advocacy Organizations",
+      "revenue_amount": 737611
+    },
+    {
+      "org_name_display": "Campus Pride",
+      "org_addr_city": "CHARLOTTE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 661341
+    },
+    {
+      "org_name_display": "Haven Of Transylvania County",
+      "org_addr_city": "BREVARD",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 556756
+    },
+    {
+      "org_name_display": "Lgbt Center Of Raleigh",
+      "org_addr_city": "RALEIGH",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 528973
+    },
+    {
+      "org_name_display": "Tranzmission",
+      "org_addr_city": "ASHEVILLE",
+      "ntee_code_definition": "LGBT Centers",
+      "revenue_amount": 469363
+    },
+    {
+      "org_name_display": "Rebuilding Paradise",
+      "org_addr_city": "CHARLOTTE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 449984
+    },
+    {
+      "org_name_display": "Pride Athletic Club",
+      "org_addr_city": "RALEIGH",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 436245
+    },
+    {
+      "org_name_display": "Gay Mens Chorus Of Charlotte",
+      "org_addr_city": "CHARLOTTE",
+      "ntee_code_definition": "Philanthropy, Charity, Voluntarism Promotion",
+      "revenue_amount": 370855
+    }
+  ]
+}

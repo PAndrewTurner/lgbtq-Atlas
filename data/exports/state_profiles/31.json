@@ -1,0 +1,254 @@
+{
+  "fips": "31",
+  "name": "Nebraska",
+  "abbr": "NE",
+  "year": 2024,
+  "scores": {
+    "legal": 39.0,
+    "safety": 60.7,
+    "health": 29.7,
+    "economic": 51.6,
+    "community": 9.8,
+    "youth": 39.8,
+    "overall": 38.9,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 31,
+    "state_name": "Nebraska",
+    "state_abbr": "NE",
+    "year": 2024,
+    "lgbtq_pop": 78700,
+    "lgbtq_pct": 5.5,
+    "same_sex_hh": 4868,
+    "trans_pop": 5116,
+    "trans_pct": 0.358
+  },
+  "legal_detail": {
+    "state_fips": 31,
+    "year": 2024,
+    "map_total_score": 45,
+    "overall_climate": "Stagnating",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 4
+  },
+  "safety_detail": {
+    "state_fips": 31,
+    "year": 2024,
+    "so_incidents": 7,
+    "gi_incidents": 4,
+    "so_per_100k": 8.894536213468868,
+    "gi_per_100k": 5.082592121982211,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 31,
+    "year": 2024,
+    "depression_pct": 45.0,
+    "healthcare_avoidance_pct": 45.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 24.0
+  },
+  "economic_detail": {
+    "state_fips": 31,
+    "year": 2024,
+    "lgbtq_poverty_pct": 16.8,
+    "income_gap_pct": -13.0,
+    "housing_instability_pct": 13.0
+  },
+  "community_detail": {
+    "state_fips": 31,
+    "year": 2024,
+    "lgbtq_orgs_count": 18,
+    "lgbtq_orgs_per_100k": 22.87166454891995,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 31,
+    "year": 2024,
+    "suicidality_pct": 45.0,
+    "school_safety_score": 42.0,
+    "gsa_presence_pct": 42.0,
+    "conversion_therapy_exposure_pct": 5.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 38.9
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "NE-omaha-ne",
+      "city_name": "Omaha",
+      "state_fips": 31,
+      "year": 2025,
+      "mei_score": 87,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NE-lincoln-ne",
+      "city_name": "Lincoln",
+      "state_fips": 31,
+      "year": 2025,
+      "mei_score": 65,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NE-bellevue-ne",
+      "city_name": "Bellevue",
+      "state_fips": 31,
+      "year": 2025,
+      "mei_score": 14,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NE-grand-island-ne",
+      "city_name": "Grand Island",
+      "state_fips": 31,
+      "year": 2025,
+      "mei_score": 13,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "NE-fremont-ne",
+      "city_name": "Fremont",
+      "state_fips": 31,
+      "year": 2025,
+      "mei_score": 12,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Metro Revamp Collective",
+      "org_addr_city": "OMAHA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 1787955
+    },
+    {
+      "org_name_display": "United In Pride",
+      "org_addr_city": "OMAHA",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 271627
+    },
+    {
+      "org_name_display": "Star City Pride",
+      "org_addr_city": "LINCOLN",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 110434
+    },
+    {
+      "org_name_display": "Winnebago Two-Spirit",
+      "org_addr_city": "WINNEBAGO",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pride In Your Ride Kroy Vandenberg Memorial",
+      "org_addr_city": "DAVID CITY",
+      "ntee_code_definition": "Scholarships, Student Financial Aid Services, Awards",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "River City Search",
+      "org_addr_city": "OMAHA",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Panhandle Equality",
+      "org_addr_city": "SCOTTSBLUFF",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Parks Of Pride Foundation",
+      "org_addr_city": "BATTLE CREEK",
+      "ntee_code_definition": "Parks and Playgrounds",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "University Of Nebraska-Lincoln Gay-Lesbian Student Association",
+      "org_addr_city": "LINCOLN",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Nebraska Disability Pride",
+      "org_addr_city": "LINCOLN",
+      "ntee_code_definition": "Developmentally Disabled Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Trans Stitchin",
+      "org_addr_city": "OMAHA",
+      "ntee_code_definition": "Thrift Shops",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Wyo-Braska Pride",
+      "org_addr_city": "MITCHELL",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Tiger Pride Foundation",
+      "org_addr_city": "TABLE ROCK",
+      "ntee_code_definition": "Community, Neighborhood Development",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Cougar Pride Booster Club",
+      "org_addr_city": "DEWEESE",
+      "ntee_code_definition": "Single Organization Support",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Wilson Parent Pride",
+      "org_addr_city": "OMAHA",
+      "ntee_code_definition": "Elementary, Secondary Education, K - 12",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Parents Families And Friends Of Lesbians And Gays",
+      "org_addr_city": "OMAHA",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pride Of The Plains 4-H Club",
+      "org_addr_city": "BIG SPRINGS",
+      "ntee_code_definition": "UNDEFINED",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Ascending Hope",
+      "org_addr_city": "OMAHA",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

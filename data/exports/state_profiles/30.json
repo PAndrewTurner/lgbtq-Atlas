@@ -1,0 +1,266 @@
+{
+  "fips": "30",
+  "name": "Montana",
+  "abbr": "MT",
+  "year": 2024,
+  "scores": {
+    "legal": 45.0,
+    "safety": 77.4,
+    "health": 34.7,
+    "economic": 52.7,
+    "community": 64.3,
+    "youth": 29.0,
+    "overall": 52.0,
+    "confidence": 1.0
+  },
+  "population": {
+    "state_fips": 30,
+    "state_name": "Montana",
+    "state_abbr": "MT",
+    "year": 2024,
+    "lgbtq_pop": 41800,
+    "lgbtq_pct": 5.1,
+    "same_sex_hh": 2859,
+    "trans_pop": 2717,
+    "trans_pct": 0.331
+  },
+  "legal_detail": {
+    "state_fips": 30,
+    "year": 2024,
+    "map_total_score": 65,
+    "overall_climate": "Working Toward Inclusion",
+    "conversion_therapy_ban": false,
+    "hate_crime_law": true,
+    "preemption_law": false,
+    "bills_passed_against": 24
+  },
+  "safety_detail": {
+    "state_fips": 30,
+    "year": 2024,
+    "so_incidents": 2,
+    "gi_incidents": 1,
+    "so_per_100k": 4.784688995215311,
+    "gi_per_100k": 2.3923444976076556,
+    "reporting_rate": 1.0,
+    "non_reporting_agency_count": 0,
+    "adjusted_score": null
+  },
+  "health_detail": {
+    "state_fips": 30,
+    "year": 2024,
+    "depression_pct": 44.0,
+    "healthcare_avoidance_pct": 37.0,
+    "uninsured_pct": null,
+    "hiv_diagnosis_rate": null,
+    "hiv_viral_suppression_pct": 29.0
+  },
+  "economic_detail": {
+    "state_fips": 30,
+    "year": 2024,
+    "lgbtq_poverty_pct": 16.0,
+    "income_gap_pct": -13.0,
+    "housing_instability_pct": 13.0
+  },
+  "community_detail": {
+    "state_fips": 30,
+    "year": 2024,
+    "lgbtq_orgs_count": 21,
+    "lgbtq_orgs_per_100k": 50.239234449760765,
+    "pride_events_count": 0,
+    "largest_pride_attendance": null
+  },
+  "youth_detail": {
+    "state_fips": 30,
+    "year": 2024,
+    "suicidality_pct": 44.0,
+    "school_safety_score": 33.0,
+    "gsa_presence_pct": 33.0,
+    "conversion_therapy_exposure_pct": 10.0
+  },
+  "narrative": null,
+  "trend": [
+    {
+      "year": 2024,
+      "overall": 52.0
+    }
+  ],
+  "cities": [
+    {
+      "city_id": "MT-missoula-mt",
+      "city_name": "Missoula",
+      "state_fips": 30,
+      "year": 2025,
+      "mei_score": 95,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MT-bozeman-mt",
+      "city_name": "Bozeman",
+      "state_fips": 30,
+      "year": 2025,
+      "mei_score": 84,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MT-butte-silver-bow-mt",
+      "city_name": "Butte-Silver Bow",
+      "state_fips": 30,
+      "year": 2025,
+      "mei_score": 65,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MT-whitefish-mt",
+      "city_name": "Whitefish",
+      "state_fips": 30,
+      "year": 2025,
+      "mei_score": 60,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    },
+    {
+      "city_id": "MT-helena-mt",
+      "city_name": "Helena",
+      "state_fips": 30,
+      "year": 2025,
+      "mei_score": 44,
+      "mei_grade": null,
+      "nd_score": null,
+      "services_score": null,
+      "le_score": null
+    }
+  ],
+  "organizations": [
+    {
+      "org_name_display": "Sparrows Nest Of Nw Mt",
+      "org_addr_city": "KALISPELL",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 983362
+    },
+    {
+      "org_name_display": "Montana Two Spirit Society",
+      "org_addr_city": "MISSOULA",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 373292
+    },
+    {
+      "org_name_display": "Western Montana Gay And Lesbian Community Center",
+      "org_addr_city": "MISSOULA",
+      "ntee_code_definition": "Neighborhood Centers",
+      "revenue_amount": 331862
+    },
+    {
+      "org_name_display": "Mama Dragons",
+      "org_addr_city": "BILLINGS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 272972
+    },
+    {
+      "org_name_display": "Glacier Queer Alliance",
+      "org_addr_city": "KALISPELL",
+      "ntee_code_definition": "Alliance/Advocacy",
+      "revenue_amount": 132381
+    },
+    {
+      "org_name_display": "Montana Queer Alliance",
+      "org_addr_city": "HELENA",
+      "ntee_code_definition": "Mental Health Treatment F31 Psychiatric, Mental Health Hospital",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Box Of Blessings",
+      "org_addr_city": "KALISPELL",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Anaconda Pride Foundation",
+      "org_addr_city": "ANACONDA",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Butte Pride Foundation",
+      "org_addr_city": "BUTTE",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Indigenous Transilience",
+      "org_addr_city": "BILLINGS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Pride House",
+      "org_addr_city": "BOZEMAN",
+      "ntee_code_definition": "Children's, Youth Services",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Homeless Veterans Of America",
+      "org_addr_city": "SHELBY",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Happiness & Joy Foundation",
+      "org_addr_city": "HELENA",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Great Falls Lgbtq Center",
+      "org_addr_city": "GREAT FALLS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "406 Pride",
+      "org_addr_city": "BILLINGS",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Zachs Project",
+      "org_addr_city": "WHITEFISH",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Queer Butte",
+      "org_addr_city": "BUTTE",
+      "ntee_code_definition": "Arts, Cultural Organizations - Multipurpose",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Queer Bozeman",
+      "org_addr_city": "CHINOOK",
+      "ntee_code_definition": "Lesbian, Gay Rights",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Hots N Cots",
+      "org_addr_city": "BELGRADE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    },
+    {
+      "org_name_display": "Davids Angels",
+      "org_addr_city": "FLORENCE",
+      "ntee_code_definition": "Homeless Centers",
+      "revenue_amount": 0
+    }
+  ]
+}

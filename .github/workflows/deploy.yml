@@ -32,17 +32,21 @@ jobs:
           cache: npm
           cache-dependency-path: frontend/package-lock.json
 
+      - name: Resolve exports symlink
+        run: |
+          rm frontend/public/exports
+          cp -r data/exports frontend/public/exports
+
       - name: Install dependencies
         working-directory: frontend
         run: npm ci
 
       - name: Build
         working-directory: frontend
-        # VITE_BASE must match your GitHub repo name, e.g. /lgbtq-atlas/
-        # Set this in repo Settings → Secrets and variables → Actions → Variables
-        # as VITE_BASE. If not set, defaults to /lgbtq-atlas/ via the fallback below.
+        # VITE_BASE must match your GitHub repo name exactly (case-sensitive).
+        # Set VITE_BASE in repo Settings → Variables → Actions if your repo name differs.
         env:
-          VITE_BASE: ${{ vars.VITE_BASE || '/lgbtq-atlas/' }}
+          VITE_BASE: ${{ vars.VITE_BASE || '/lgbtq-Atlas/' }}
         run: npm run build
 
       - name: Setup Pages

@@ -115,7 +115,7 @@ export const atlasApi = {
     try {
       return await getApi(`/states?year=${year}`)
     } catch {
-      const data = await getStatic<unknown[]>('/exports/states_map.json')
+      const data = await getStatic<unknown[]>(`${import.meta.env.BASE_URL}exports/states_map.json`)
       return data.map(adaptSummary)
     }
   },
@@ -125,7 +125,7 @@ export const atlasApi = {
     try {
       return await getApi(`/states/${paddedFips}?year=${year}`)
     } catch {
-      const raw = await getStatic<unknown>(`/exports/state_profiles/${paddedFips}.json`)
+      const raw = await getStatic<unknown>(`${import.meta.env.BASE_URL}exports/state_profiles/${paddedFips}.json`)
       return adaptProfile(raw)
     }
   },

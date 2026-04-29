@@ -1,7 +1,7 @@
 import { Source, Layer } from 'react-map-gl/maplibre'
 import type { ExpressionSpecification } from 'maplibre-gl'
 
-const CITIES_URL = '/exports/cities.geojson'
+const CITIES_URL = `${import.meta.env.BASE_URL}exports/cities.geojson`
 
 // Build a step expression mapping MEI score ranges to colors
 const MEI_COLOR: ExpressionSpecification = [

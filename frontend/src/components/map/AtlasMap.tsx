@@ -10,7 +10,7 @@ import { MapControls } from './MapControls'
 import { CityLayer } from './CityLayer'
 import type { StateSummary } from '../../types/profile'
 
-const GEOJSON_URL = '/exports/states.geojson'
+const GEOJSON_URL = `${import.meta.env.BASE_URL}exports/states.geojson`
 
 const INITIAL_VIEW = {
   longitude: -98.5795,
